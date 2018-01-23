@@ -1,0 +1,997 @@
+fileFormatVersion: 2
+guid: b54e924ddefef9f4f9fb8de209c419a0
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: polySurface10
+    100002: polySurface6
+    100004: polySurface7
+    100006: polySurface7 1
+    100008: polySurface8
+    100010: polySurface9
+    100012: TESLA:polySurface2
+    100014: Tesla_Head
+    100016: Tesla_Hips
+    100018: Tesla_LeftArm
+    100020: Tesla_LeftFoot
+    100022: Tesla_LeftForeArm
+    100024: Tesla_LeftHand
+    100026: Tesla_LeftHandIndex1
+    100028: Tesla_LeftHandIndex2
+    100030: Tesla_LeftHandIndex3
+    100032: Tesla_LeftHandIndex4
+    100034: Tesla_LeftHandMiddle1
+    100036: Tesla_LeftHandMiddle2
+    100038: Tesla_LeftHandMiddle3
+    100040: Tesla_LeftHandMiddle4
+    100042: Tesla_LeftHandPinky1
+    100044: Tesla_LeftHandPinky2
+    100046: Tesla_LeftHandPinky3
+    100048: Tesla_LeftHandPinky4
+    100050: Tesla_LeftHandRing1
+    100052: Tesla_LeftHandRing2
+    100054: Tesla_LeftHandRing3
+    100056: Tesla_LeftHandRing4
+    100058: Tesla_LeftHandThumb1
+    100060: Tesla_LeftHandThumb2
+    100062: Tesla_LeftHandThumb3
+    100064: Tesla_LeftHandThumb4
+    100066: Tesla_LeftLeg
+    100068: Tesla_LeftShoulder
+    100070: Tesla_LeftToeBase
+    100072: Tesla_LeftUpLeg
+    100074: Tesla_Neck
+    100076: Tesla_Reference2
+    100078: Tesla_RightArm
+    100080: Tesla_RightFoot
+    100082: Tesla_RightForeArm
+    100084: Tesla_RightHand
+    100086: Tesla_RightHandIndex1
+    100088: Tesla_RightHandIndex2
+    100090: Tesla_RightHandIndex3
+    100092: Tesla_RightHandIndex4
+    100094: Tesla_RightHandMiddle1
+    100096: Tesla_RightHandMiddle2
+    100098: Tesla_RightHandMiddle3
+    100100: Tesla_RightHandMiddle4
+    100102: Tesla_RightHandPinky1
+    100104: Tesla_RightHandPinky2
+    100106: Tesla_RightHandPinky3
+    100108: Tesla_RightHandPinky4
+    100110: Tesla_RightHandRing1
+    100112: Tesla_RightHandRing2
+    100114: Tesla_RightHandRing3
+    100116: Tesla_RightHandRing4
+    100118: Tesla_RightHandThumb1
+    100120: Tesla_RightHandThumb2
+    100122: Tesla_RightHandThumb3
+    100124: Tesla_RightHandThumb4
+    100126: Tesla_RightLeg
+    100128: Tesla_RightShoulder
+    100130: Tesla_RightToeBase
+    100132: Tesla_RightUpLeg
+    100134: Tesla_Spine
+    100136: Tesla_Spine1
+    100138: Tesla_Spine2
+    100140: //RootNode
+    100142: transform1
+    100144: transform2
+    100146: transform3
+    400000: polySurface10
+    400002: polySurface6
+    400004: polySurface7
+    400006: polySurface7 1
+    400008: polySurface8
+    400010: polySurface9
+    400012: TESLA:polySurface2
+    400014: Tesla_Head
+    400016: Tesla_Hips
+    400018: Tesla_LeftArm
+    400020: Tesla_LeftFoot
+    400022: Tesla_LeftForeArm
+    400024: Tesla_LeftHand
+    400026: Tesla_LeftHandIndex1
+    400028: Tesla_LeftHandIndex2
+    400030: Tesla_LeftHandIndex3
+    400032: Tesla_LeftHandIndex4
+    400034: Tesla_LeftHandMiddle1
+    400036: Tesla_LeftHandMiddle2
+    400038: Tesla_LeftHandMiddle3
+    400040: Tesla_LeftHandMiddle4
+    400042: Tesla_LeftHandPinky1
+    400044: Tesla_LeftHandPinky2
+    400046: Tesla_LeftHandPinky3
+    400048: Tesla_LeftHandPinky4
+    400050: Tesla_LeftHandRing1
+    400052: Tesla_LeftHandRing2
+    400054: Tesla_LeftHandRing3
+    400056: Tesla_LeftHandRing4
+    400058: Tesla_LeftHandThumb1
+    400060: Tesla_LeftHandThumb2
+    400062: Tesla_LeftHandThumb3
+    400064: Tesla_LeftHandThumb4
+    400066: Tesla_LeftLeg
+    400068: Tesla_LeftShoulder
+    400070: Tesla_LeftToeBase
+    400072: Tesla_LeftUpLeg
+    400074: Tesla_Neck
+    400076: Tesla_Reference2
+    400078: Tesla_RightArm
+    400080: Tesla_RightFoot
+    400082: Tesla_RightForeArm
+    400084: Tesla_RightHand
+    400086: Tesla_RightHandIndex1
+    400088: Tesla_RightHandIndex2
+    400090: Tesla_RightHandIndex3
+    400092: Tesla_RightHandIndex4
+    400094: Tesla_RightHandMiddle1
+    400096: Tesla_RightHandMiddle2
+    400098: Tesla_RightHandMiddle3
+    400100: Tesla_RightHandMiddle4
+    400102: Tesla_RightHandPinky1
+    400104: Tesla_RightHandPinky2
+    400106: Tesla_RightHandPinky3
+    400108: Tesla_RightHandPinky4
+    400110: Tesla_RightHandRing1
+    400112: Tesla_RightHandRing2
+    400114: Tesla_RightHandRing3
+    400116: Tesla_RightHandRing4
+    400118: Tesla_RightHandThumb1
+    400120: Tesla_RightHandThumb2
+    400122: Tesla_RightHandThumb3
+    400124: Tesla_RightHandThumb4
+    400126: Tesla_RightLeg
+    400128: Tesla_RightShoulder
+    400130: Tesla_RightToeBase
+    400132: Tesla_RightUpLeg
+    400134: Tesla_Spine
+    400136: Tesla_Spine1
+    400138: Tesla_Spine2
+    400140: //RootNode
+    400142: transform1
+    400144: transform2
+    400146: transform3
+    2300000: polySurface10
+    2300002: polySurface8
+    2300004: polySurface9
+    3300000: polySurface10
+    3300002: polySurface8
+    3300004: polySurface9
+    4300000: polySurface8
+    4300002: polySurface10
+    4300004: polySurface9
+    4300006: polySurface7
+    9500000: //RootNode
+    13700000: polySurface7
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: Tesla_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_Spine1
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_Spine2
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tesla_RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: teslaF smooth6(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface7
+      position: {x: 0, y: 0, z: .00995085482}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TESLA:polySurface2
+      position: {x: 0, y: .919368327, z: .0465841852}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface6
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: transform2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface7 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: transform3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: transform1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tesla_Reference2
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tesla_Hips
+      position: {x: -.000658655423, y: 1.05822825, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface9
+      position: {x: .000658655423, y: -.138859913, z: .0465841852}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface10
+      position: {x: .000658655423, y: -.138859913, z: .0465841852}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tesla_LeftUpLeg
+      position: {x: -.0824782625, y: -.0492660888, z: .028450286}
+      rotation: {x: 1.73472331e-17, y: -2.97297077e-16, z: 7.13457493e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tesla_LeftLeg
+      position: {x: -.00748542463, y: -.442635894, z: -.029111892}
+      rotation: {x: -1.85398555e-17, y: 2.97576492e-16, z: 3.60918791e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tesla_LeftFoot
+      position: {x: .023650134, y: -.484235227, z: -.0456842184}
+      rotation: {x: -3.52555044e-16, y: -9.71520652e-17, z: -5.57581122e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tesla_LeftToeBase
+      position: {x: -.0312247202, y: -.062623173, z: .133737847}
+      rotation: {x: 3.53747667e-16, y: 3.01073547e-16, z: 1.25390438e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tesla_RightUpLeg
+      position: {x: .0857283473, y: -.0516357832, z: .028450286}
+      rotation: {x: 2.22090219e-17, y: 2.17154882e-16, z: -8.0844831e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface8
+      position: {x: -.0850696936, y: -.0872241259, z: .0181338973}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tesla_RightLeg
+      position: {x: .0115463417, y: -.443573743, z: -.0331568383}
+      rotation: {x: -2.22090219e-17, y: -2.17154882e-16, z: 8.0844831e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tesla_RightFoot
+      position: {x: -.0208115391, y: -.481396586, z: -.0456842184}
+      rotation: {x: 1.55840797e-23, y: 1.27608102e-08, z: -1.98865479e-31, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tesla_RightToeBase
+      position: {x: .0255582798, y: -.062623173, z: .13373813}
+      rotation: {x: -1.25190332e-23, y: -1.79842365e-39, z: -1.1615163e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tesla_Spine
+      position: {x: -0, y: .0751531646, z: .0443416834}
+      rotation: {x: 6.9388939e-18, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tesla_Spine1
+      position: {x: -0, y: .100915313, z: .0340347588}
+      rotation: {x: -6.9388939e-18, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tesla_Spine2
+      position: {x: -0, y: .131224379, z: -.00480128685}
+      rotation: {x: 3.50989509e-17, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tesla_LeftShoulder
+      position: {x: -.0700000003, y: .108594432, z: -.0276049245}
+      rotation: {x: .00498883845, y: .0876802355, z: .302206337, w: .949188471}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tesla_LeftArm
+      position: {x: -.0369457267, y: .048514545, z: -.0134657817}
+      rotation: {x: .00940084737, y: -.0834764689, z: -.362035275, w: .928371608}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tesla_LeftForeArm
+      position: {x: -.233854264, y: -.041159749, z: .0034180209}
+      rotation: {x: .00636617886, y: -.0485312566, z: .0237058997, w: .998520076}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tesla_LeftHand
+      position: {x: -.281107396, y: -.0130407186, z: .0487935767}
+      rotation: {x: -4.69240735e-17, y: 1.781152e-16, z: .220271081, w: .975438714}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tesla_LeftHandThumb1
+      position: {x: -.0182402674, y: -.00343267503, z: .0260142386}
+      rotation: {x: -.04978, y: .0601235032, z: -.0374412723, w: .996245563}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tesla_LeftHandThumb2
+      position: {x: -.0215380546, y: -.00171839586, z: .0258766115}
+      rotation: {x: .847266376, y: .0270056631, z: -.497128308, w: -.185132489}
+      scale: {x: .999999881, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Tesla_LeftHandThumb3
+      position: {x: -.0295538176, y: -.00336773903, z: .00791699253}
+      rotation: {x: -.0109834224, y: .0824498981, z: -.0757939145, w: .993648171}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Tesla_LeftHandThumb4
+      position: {x: -.0310619008, y: -.00801561028, z: .000646515924}
+      rotation: {x: -.912749827, y: -.12428458, z: .325615942, w: -.213108793}
+      scale: {x: .99999994, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: Tesla_LeftHandIndex1
+      position: {x: -.0614659116, y: .0233279821, z: .0410027765}
+      rotation: {x: .951492429, y: -.0903817192, z: -.259612948, w: -.138182327}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Tesla_LeftHandIndex2
+      position: {x: -.0415276773, y: -.000990412547, z: .0114639737}
+      rotation: {x: -.0288623814, y: .0464006513, z: -.0372671001, w: .997810245}
+      scale: {x: 1, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: Tesla_LeftHandIndex3
+      position: {x: -.0270822607, y: -.00216951384, z: .00630890392}
+      rotation: {x: .0279243141, y: -.0393924043, z: -.0228405278, w: .998572409}
+      scale: {x: 1, y: .999999464, z: .999999702}
+      transformModified: 1
+    - name: Tesla_LeftHandIndex4
+      position: {x: -.0237473641, y: -.00103301147, z: .00700097671}
+      rotation: {x: -.950980306, y: -.0931807235, z: .252637595, w: -.152079105}
+      scale: {x: 1, y: 1.00000012, z: 1.00000024}
+      transformModified: 1
+    - name: Tesla_LeftHandMiddle1
+      position: {x: -.0711025968, y: .0277231764, z: .0227847714}
+      rotation: {x: -.690198004, y: .222309068, z: .104480386, w: .680653632}
+      scale: {x: .999999881, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Tesla_LeftHandMiddle2
+      position: {x: -.0407968499, y: .00839722157, z: .00169881887}
+      rotation: {x: -.0373999067, y: -.0932546929, z: -.0313809663, w: .994444609}
+      scale: {x: 1.00000012, y: 1, z: .999999881}
+      transformModified: 1
+    - name: Tesla_LeftHandMiddle3
+      position: {x: -.0315781087, y: .00322631444, z: .00516202906}
+      rotation: {x: -.0154570984, y: -.0238140039, z: .045440454, w: .998563528}
+      scale: {x: .999999881, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: Tesla_LeftHandMiddle4
+      position: {x: -.0293780845, y: .00619404623, z: .00407725619}
+      rotation: {x: .707091331, y: -.00468319887, z: -.281132609, w: .648817837}
+      scale: {x: 1, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Tesla_LeftHandRing1
+      position: {x: -.0729612485, y: .0234826393, z: .00207093614}
+      rotation: {x: -.704311788, y: .120916367, z: .0878990516, w: .693972588}
+      scale: {x: 1, y: .99999994, z: .999999881}
+      transformModified: 1
+    - name: Tesla_LeftHandRing2
+      position: {x: -.0431818962, y: .00250915391, z: .00749360351}
+      rotation: {x: -.0220761783, y: -.0771339163, z: .0683572143, w: .994429648}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Tesla_LeftHandRing3
+      position: {x: -.0325127579, y: .00352263241, z: .0101489257}
+      rotation: {x: -.0304722898, y: -.0646020547, z: -.00292835361, w: .99744153}
+      scale: {x: .99999994, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Tesla_LeftHandRing4
+      position: {x: -.0240547862, y: .00122835254, z: .00906883739}
+      rotation: {x: .703684747, y: .0694836006, z: -.29929617, w: .640641689}
+      scale: {x: .99999994, y: .999999821, z: .999999702}
+      transformModified: 1
+    - name: Tesla_LeftHandPinky1
+      position: {x: -.0779908374, y: .0150296111, z: -.0199817549}
+      rotation: {x: .00152586563, y: .0933248773, z: -.108790465, w: .989673138}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tesla_LeftHandPinky2
+      position: {x: -.0315780118, y: .000873861369, z: .000306660571}
+      rotation: {x: -.00328805484, y: -.0966553167, z: -.0631503761, w: .993307054}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tesla_LeftHandPinky3
+      position: {x: -.0219201203, y: -.00314171542, z: .0059499559}
+      rotation: {x: .00302956509, y: .0228559636, z: .0232299138, w: .999464333}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tesla_LeftHandPinky4
+      position: {x: -.0206370782, y: -.00070603966, z: .00338599086}
+      rotation: {x: -1.91479656e-18, y: 1.84842163e-16, z: 6.38813175e-34, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tesla_RightShoulder
+      position: {x: .0699999928, y: .108594432, z: -.0276049245}
+      rotation: {x: -.0047408645, y: -.118055485, z: -.287184834, w: .95056057}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tesla_RightArm
+      position: {x: .0384694263, y: .0485175028, z: -.0205795355}
+      rotation: {x: .00312914373, y: .143263549, z: .339639753, w: .929575503}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tesla_RightForeArm
+      position: {x: .281883031, y: -.0439983495, z: .0159619655}
+      rotation: {x: .00291471649, y: .0241952203, z: -.0122045577, w: .999628544}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tesla_RightHand
+      position: {x: .243224025, y: -.0147980209, z: .040030852}
+      rotation: {x: -8.35630511e-18, y: -5.97805943e-17, z: -1.31693029e-33, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tesla_RightHandThumb1
+      position: {x: .0195627045, y: -.0120533034, z: .0405622572}
+      rotation: {x: -.0538292229, y: -.0922146291, z: .0258213021, w: .993947744}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tesla_RightHandThumb2
+      position: {x: .0197764691, y: -.00607699202, z: .0195248537}
+      rotation: {x: -.337819934, y: -.0909125283, z: .896696866, w: .271196157}
+      scale: {x: .99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: Tesla_RightHandThumb3
+      position: {x: -.0221734382, y: -.00667886017, z: .000726361177}
+      rotation: {x: .00435070647, y: -.00469101919, z: -.0108651202, w: .999920547}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Tesla_RightHandThumb4
+      position: {x: -.0283932853, y: -.00979350042, z: .00295685022}
+      rotation: {x: .295593113, y: .119218782, z: -.881877601, w: .34742409}
+      scale: {x: .99999994, y: .999999821, z: 1}
+      transformModified: 1
+    - name: Tesla_RightHandIndex1
+      position: {x: .0706729069, y: -.00348913553, z: .0456328429}
+      rotation: {x: .0943079889, y: .966566503, z: .0510768592, w: .232908413}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Tesla_RightHandIndex2
+      position: {x: -.0352269001, y: .000161356511, z: .0049935882}
+      rotation: {x: .0304920226, y: .0450521335, z: .025499912, w: .998193562}
+      scale: {x: .999999642, y: 1, z: .999999762}
+      transformModified: 1
+    - name: Tesla_RightHandIndex3
+      position: {x: -.0246716868, y: .00183628744, z: .00323234242}
+      rotation: {x: .00238815928, y: .00288010202, z: .149015829, w: .988827705}
+      scale: {x: 1.00000036, y: 1.00000012, z: 1.00000024}
+      transformModified: 1
+    - name: Tesla_RightHandIndex4
+      position: {x: -.0260131098, y: .0110737486, z: .00274105533}
+      rotation: {x: -.397898227, y: -.898488581, z: -.0764641389, w: .168963045}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Tesla_RightHandMiddle1
+      position: {x: .0788078159, y: -.00339621142, z: .0256401207}
+      rotation: {x: .0570460185, y: .979033709, z: .020053653, w: .194516703}
+      scale: {x: .999999642, y: .99999994, z: .999999821}
+      transformModified: 1
+    - name: Tesla_RightHandMiddle2
+      position: {x: -.0384824201, y: -.00296489196, z: .00363530498}
+      rotation: {x: .0117796585, y: .0202454105, z: .152403668, w: .988040805}
+      scale: {x: 1, y: 1, z: 1.00000024}
+      transformModified: 1
+    - name: Tesla_RightHandMiddle3
+      position: {x: -.0264898129, y: .00397937838, z: .00169660151}
+      rotation: {x: -.055913806, y: -.0597095788, z: .0605204217, w: .994809449}
+      scale: {x: .99999994, y: 1.00000012, z: .999999821}
+      transformModified: 1
+    - name: Tesla_RightHandMiddle4
+      position: {x: -.0276818797, y: .00965626724, z: .00732115004}
+      rotation: {x: -.380694121, y: -.89385879, z: -.0945570096, w: .217134833}
+      scale: {x: 1.00000012, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Tesla_RightHandRing1
+      position: {x: .0793872625, y: -.00861217733, z: .0063052997}
+      rotation: {x: -.17623651, y: .216685236, z: .926532269, w: .252043933}
+      scale: {x: .999999881, y: .999999881, z: .99999994}
+      transformModified: 1
+    - name: Tesla_RightHandRing2
+      position: {x: -.0375188068, y: -.0121103404, z: -.00364607782}
+      rotation: {x: .00104078685, y: -.00935957581, z: .0692754164, w: .99755311}
+      scale: {x: 1, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: Tesla_RightHandRing3
+      position: {x: -.0271310601, y: -.00276781968, z: -.000960391539}
+      rotation: {x: -.00432441058, y: -.0179938916, z: -.146337226, w: .989061713}
+      scale: {x: .99999994, y: 1.00000012, z: .999999702}
+      transformModified: 1
+    - name: Tesla_RightHandRing4
+      position: {x: -.0245234128, y: -.00810591783, z: .000328594615}
+      rotation: {x: .111471973, y: -.190180972, z: -.845425606, w: .486477882}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Tesla_RightHandPinky1
+      position: {x: .075083591, y: -.0166849941, z: -.0129409106}
+      rotation: {x: .24077411, y: .965506852, z: .0670576468, w: .0729907602}
+      scale: {x: .999999762, y: .999999881, z: .999999762}
+      transformModified: 1
+    - name: Tesla_RightHandPinky2
+      position: {x: -.0243757199, y: .00891589653, z: -.0012065703}
+      rotation: {x: .181471884, y: -.169483617, z: .0435043648, w: .967703879}
+      scale: {x: 1.00000012, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Tesla_RightHandPinky3
+      position: {x: -.0195048433, y: .00777033065, z: .00237642718}
+      rotation: {x: -.0198784471, y: .143198088, z: .0129596638, w: .989409506}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Tesla_RightHandPinky4
+      position: {x: -.0227195099, y: .00839108694, z: -.0045127566}
+      rotation: {x: -.490165383, y: -.866897106, z: .0786024705, w: .0452673733}
+      scale: {x: .999999523, y: 1, z: .999999523}
+      transformModified: 1
+    - name: Tesla_Neck
+      position: {x: -0, y: .231620938, z: -.0157353655}
+      rotation: {x: -3.50989509e-17, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tesla_Head
+      position: {x: -2.220446e-18, y: .123953633, z: .0268483441}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 

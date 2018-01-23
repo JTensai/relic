@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.05.00">
+    <object class="AudioFile" id="{11af6d44-584c-40df-a7fe-754d456b6055}">
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>2.1942857142857144</value>
+        </property>
+        <property name="lastModifiedDate">
+            <value>0</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/Alien Noise 6 {77cfbf6a-4a33-4def-acfd-2336e7c78c26}.mp3</value>
+        </property>
+        <relationship name="container">
+            <destination>{5eeb4249-a595-4438-8541-723758823ccf}</destination>
+        </relationship>
+    </object>
+</objects>

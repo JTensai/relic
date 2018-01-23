@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.05.00">
+    <object class="AudioFile" id="{6b9fe64a-5a15-44d0-a2f5-34fc12c7e37a}">
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>3.2480045351473921</value>
+        </property>
+        <property name="lastModifiedDate">
+            <value>0</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/Checkpoint Sound WIP {6f3f6a56-653e-4e1f-b0f0-16f54848c6d2}.wav</value>
+        </property>
+        <relationship name="container">
+            <destination>{5eeb4249-a595-4438-8541-723758823ccf}</destination>
+        </relationship>
+    </object>
+</objects>

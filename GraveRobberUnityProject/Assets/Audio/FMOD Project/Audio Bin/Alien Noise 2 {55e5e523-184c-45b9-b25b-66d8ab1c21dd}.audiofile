@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.05.00">
+    <object class="AudioFile" id="{55e5e523-184c-45b9-b25b-66d8ab1c21dd}">
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>2.27265306122449</value>
+        </property>
+        <property name="lastModifiedDate">
+            <value>0</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/Alien Noise 2 {ef87fd98-af72-4a88-861b-e48d2b60732e}.mp3</value>
+        </property>
+        <relationship name="container">
+            <destination>{5eeb4249-a595-4438-8541-723758823ccf}</destination>
+        </relationship>
+    </object>
+</objects>

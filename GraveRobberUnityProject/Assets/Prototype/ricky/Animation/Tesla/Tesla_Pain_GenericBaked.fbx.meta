@@ -1,0 +1,543 @@
+fileFormatVersion: 2
+guid: 7c964cef532da9148b45080b58d60c1e
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: polySurface45
+    100002: polySurface46
+    100004: polySurface47
+    100006: polySurface48
+    100008: polySurface49
+    100010: polySurface50
+    100012: polySurface51
+    100014: polySurface53
+    100016: polySurface55
+    100018: polySurface61
+    100020: polySurface62
+    100022: polySurface63
+    100024: polySurface64
+    100026: polySurface66
+    100028: polySurface67
+    100030: polySurface73
+    100032: polySurface75
+    100034: polySurface77
+    100036: polySurface79
+    100038: polySurface80
+    100040: polySurface82
+    100042: polySurface84
+    100044: polySurface86
+    100046: polySurface88
+    100048: polySurface89
+    100050: polySurface90
+    100052: polySurface91
+    100054: polySurface92
+    100056: polySurface93
+    100058: Tesla_Head
+    100060: Tesla_Hips
+    100062: Tesla_LeftArm
+    100064: Tesla_LeftFoot
+    100066: Tesla_LeftForeArm
+    100068: Tesla_LeftHand
+    100070: Tesla_LeftHandIndex1
+    100072: Tesla_LeftHandIndex2
+    100074: Tesla_LeftHandIndex3
+    100076: Tesla_LeftHandIndex4
+    100078: Tesla_LeftHandMiddle1
+    100080: Tesla_LeftHandMiddle2
+    100082: Tesla_LeftHandMiddle3
+    100084: Tesla_LeftHandMiddle4
+    100086: Tesla_LeftHandPinky1
+    100088: Tesla_LeftHandPinky2
+    100090: Tesla_LeftHandPinky3
+    100092: Tesla_LeftHandPinky4
+    100094: Tesla_LeftHandRing1
+    100096: Tesla_LeftHandRing2
+    100098: Tesla_LeftHandRing3
+    100100: Tesla_LeftHandRing4
+    100102: Tesla_LeftHandThumb1
+    100104: Tesla_LeftHandThumb2
+    100106: Tesla_LeftHandThumb3
+    100108: Tesla_LeftHandThumb4
+    100110: Tesla_LeftLeg
+    100112: Tesla_LeftShoulder
+    100114: Tesla_LeftToeBase
+    100116: Tesla_LeftUpLeg
+    100118: Tesla_Neck
+    100120: //RootNode
+    100122: Tesla_RightArm
+    100124: Tesla_RightFoot
+    100126: Tesla_RightForeArm
+    100128: Tesla_RightHand
+    100130: Tesla_RightHandIndex1
+    100132: Tesla_RightHandIndex2
+    100134: Tesla_RightHandIndex3
+    100136: Tesla_RightHandIndex4
+    100138: Tesla_RightHandMiddle1
+    100140: Tesla_RightHandMiddle2
+    100142: Tesla_RightHandMiddle3
+    100144: Tesla_RightHandMiddle4
+    100146: Tesla_RightHandPinky1
+    100148: Tesla_RightHandPinky2
+    100150: Tesla_RightHandPinky3
+    100152: Tesla_RightHandPinky4
+    100154: Tesla_RightHandRing1
+    100156: Tesla_RightHandRing2
+    100158: Tesla_RightHandRing3
+    100160: Tesla_RightHandRing4
+    100162: Tesla_RightHandThumb1
+    100164: Tesla_RightHandThumb2
+    100166: Tesla_RightHandThumb3
+    100168: Tesla_RightHandThumb4
+    100170: Tesla_RightLeg
+    100172: Tesla_RightShoulder
+    100174: Tesla_RightToeBase
+    100176: Tesla_RightUpLeg
+    100178: Tesla_Spine
+    100180: Tesla_Spine1
+    100182: Tesla_Spine2
+    400000: polySurface45
+    400002: polySurface46
+    400004: polySurface47
+    400006: polySurface48
+    400008: polySurface49
+    400010: polySurface50
+    400012: polySurface51
+    400014: polySurface53
+    400016: polySurface55
+    400018: polySurface61
+    400020: polySurface62
+    400022: polySurface63
+    400024: polySurface64
+    400026: polySurface66
+    400028: polySurface67
+    400030: polySurface73
+    400032: polySurface75
+    400034: polySurface77
+    400036: polySurface79
+    400038: polySurface80
+    400040: polySurface82
+    400042: polySurface84
+    400044: polySurface86
+    400046: polySurface88
+    400048: polySurface89
+    400050: polySurface90
+    400052: polySurface91
+    400054: polySurface92
+    400056: polySurface93
+    400058: Tesla_Head
+    400060: Tesla_Hips
+    400062: Tesla_LeftArm
+    400064: Tesla_LeftFoot
+    400066: Tesla_LeftForeArm
+    400068: Tesla_LeftHand
+    400070: Tesla_LeftHandIndex1
+    400072: Tesla_LeftHandIndex2
+    400074: Tesla_LeftHandIndex3
+    400076: Tesla_LeftHandIndex4
+    400078: Tesla_LeftHandMiddle1
+    400080: Tesla_LeftHandMiddle2
+    400082: Tesla_LeftHandMiddle3
+    400084: Tesla_LeftHandMiddle4
+    400086: Tesla_LeftHandPinky1
+    400088: Tesla_LeftHandPinky2
+    400090: Tesla_LeftHandPinky3
+    400092: Tesla_LeftHandPinky4
+    400094: Tesla_LeftHandRing1
+    400096: Tesla_LeftHandRing2
+    400098: Tesla_LeftHandRing3
+    400100: Tesla_LeftHandRing4
+    400102: Tesla_LeftHandThumb1
+    400104: Tesla_LeftHandThumb2
+    400106: Tesla_LeftHandThumb3
+    400108: Tesla_LeftHandThumb4
+    400110: Tesla_LeftLeg
+    400112: Tesla_LeftShoulder
+    400114: Tesla_LeftToeBase
+    400116: Tesla_LeftUpLeg
+    400118: Tesla_Neck
+    400120: //RootNode
+    400122: Tesla_RightArm
+    400124: Tesla_RightFoot
+    400126: Tesla_RightForeArm
+    400128: Tesla_RightHand
+    400130: Tesla_RightHandIndex1
+    400132: Tesla_RightHandIndex2
+    400134: Tesla_RightHandIndex3
+    400136: Tesla_RightHandIndex4
+    400138: Tesla_RightHandMiddle1
+    400140: Tesla_RightHandMiddle2
+    400142: Tesla_RightHandMiddle3
+    400144: Tesla_RightHandMiddle4
+    400146: Tesla_RightHandPinky1
+    400148: Tesla_RightHandPinky2
+    400150: Tesla_RightHandPinky3
+    400152: Tesla_RightHandPinky4
+    400154: Tesla_RightHandRing1
+    400156: Tesla_RightHandRing2
+    400158: Tesla_RightHandRing3
+    400160: Tesla_RightHandRing4
+    400162: Tesla_RightHandThumb1
+    400164: Tesla_RightHandThumb2
+    400166: Tesla_RightHandThumb3
+    400168: Tesla_RightHandThumb4
+    400170: Tesla_RightLeg
+    400172: Tesla_RightShoulder
+    400174: Tesla_RightToeBase
+    400176: Tesla_RightUpLeg
+    400178: Tesla_Spine
+    400180: Tesla_Spine1
+    400182: Tesla_Spine2
+    2300000: polySurface45
+    2300002: polySurface46
+    2300004: polySurface47
+    2300006: polySurface48
+    2300008: polySurface49
+    2300010: polySurface50
+    2300012: polySurface51
+    2300014: polySurface53
+    2300016: polySurface55
+    2300018: polySurface61
+    2300020: polySurface62
+    2300022: polySurface63
+    2300024: polySurface64
+    2300026: polySurface66
+    2300028: polySurface67
+    2300030: polySurface73
+    2300032: polySurface75
+    2300034: polySurface77
+    2300036: polySurface79
+    2300038: polySurface80
+    2300040: polySurface82
+    2300042: polySurface84
+    2300044: polySurface86
+    2300046: polySurface88
+    2300048: polySurface89
+    2300050: polySurface90
+    2300052: polySurface91
+    2300054: polySurface92
+    2300056: polySurface93
+    3300000: polySurface45
+    3300002: polySurface46
+    3300004: polySurface47
+    3300006: polySurface48
+    3300008: polySurface49
+    3300010: polySurface50
+    3300012: polySurface51
+    3300014: polySurface53
+    3300016: polySurface55
+    3300018: polySurface61
+    3300020: polySurface62
+    3300022: polySurface63
+    3300024: polySurface64
+    3300026: polySurface66
+    3300028: polySurface67
+    3300030: polySurface73
+    3300032: polySurface75
+    3300034: polySurface77
+    3300036: polySurface79
+    3300038: polySurface80
+    3300040: polySurface82
+    3300042: polySurface84
+    3300044: polySurface86
+    3300046: polySurface88
+    3300048: polySurface89
+    3300050: polySurface90
+    3300052: polySurface91
+    3300054: polySurface92
+    3300056: polySurface93
+    4300000: polySurface92
+    4300002: polySurface93
+    4300004: polySurface75
+    4300006: polySurface77
+    4300008: polySurface90
+    4300010: polySurface91
+    4300012: polySurface73
+    4300014: polySurface79
+    4300016: polySurface66
+    4300018: polySurface67
+    4300020: polySurface64
+    4300022: polySurface86
+    4300024: polySurface63
+    4300026: polySurface62
+    4300028: polySurface61
+    4300030: polySurface84
+    4300032: polySurface45
+    4300034: polySurface46
+    4300036: polySurface47
+    4300038: polySurface48
+    4300040: polySurface49
+    4300042: polySurface50
+    4300044: polySurface51
+    4300046: polySurface53
+    4300048: polySurface55
+    4300050: polySurface88
+    4300052: polySurface82
+    4300054: polySurface80
+    4300056: polySurface89
+    7400000: StandingIdle_03
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: StandingIdle_03
+      takeName: StandingIdle_03
+      firstFrame: 150
+      lastFrame: 202
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Tesla_Hips
+        weight: 1
+      - path: Tesla_Hips/polySurface89
+        weight: 1
+      - path: Tesla_Hips/Tesla_LeftUpLeg
+        weight: 1
+      - path: Tesla_Hips/Tesla_LeftUpLeg/polySurface77
+        weight: 1
+      - path: Tesla_Hips/Tesla_LeftUpLeg/Tesla_LeftLeg
+        weight: 1
+      - path: Tesla_Hips/Tesla_LeftUpLeg/Tesla_LeftLeg/polySurface75
+        weight: 1
+      - path: Tesla_Hips/Tesla_LeftUpLeg/Tesla_LeftLeg/Tesla_LeftFoot
+        weight: 1
+      - path: Tesla_Hips/Tesla_LeftUpLeg/Tesla_LeftLeg/Tesla_LeftFoot/polySurface93
+        weight: 1
+      - path: Tesla_Hips/Tesla_LeftUpLeg/Tesla_LeftLeg/Tesla_LeftFoot/Tesla_LeftToeBase
+        weight: 1
+      - path: Tesla_Hips/Tesla_LeftUpLeg/Tesla_LeftLeg/Tesla_LeftFoot/Tesla_LeftToeBase/polySurface92
+        weight: 1
+      - path: Tesla_Hips/Tesla_RightUpLeg
+        weight: 1
+      - path: Tesla_Hips/Tesla_RightUpLeg/polySurface79
+        weight: 1
+      - path: Tesla_Hips/Tesla_RightUpLeg/Tesla_RightLeg
+        weight: 1
+      - path: Tesla_Hips/Tesla_RightUpLeg/Tesla_RightLeg/polySurface73
+        weight: 1
+      - path: Tesla_Hips/Tesla_RightUpLeg/Tesla_RightLeg/Tesla_RightFoot
+        weight: 1
+      - path: Tesla_Hips/Tesla_RightUpLeg/Tesla_RightLeg/Tesla_RightFoot/polySurface91
+        weight: 1
+      - path: Tesla_Hips/Tesla_RightUpLeg/Tesla_RightLeg/Tesla_RightFoot/Tesla_RightToeBase
+        weight: 1
+      - path: Tesla_Hips/Tesla_RightUpLeg/Tesla_RightLeg/Tesla_RightFoot/Tesla_RightToeBase/polySurface90
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/polySurface80
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/polySurface82
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/polySurface88
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_LeftShoulder
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_LeftShoulder/polySurface86
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_LeftShoulder/Tesla_LeftArm
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_LeftShoulder/Tesla_LeftArm/polySurface64
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_LeftShoulder/Tesla_LeftArm/Tesla_LeftForeArm
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_LeftShoulder/Tesla_LeftArm/Tesla_LeftForeArm/polySurface67
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_LeftShoulder/Tesla_LeftArm/Tesla_LeftForeArm/Tesla_LeftHand
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_LeftShoulder/Tesla_LeftArm/Tesla_LeftForeArm/Tesla_LeftHand/polySurface66
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_LeftShoulder/Tesla_LeftArm/Tesla_LeftForeArm/Tesla_LeftHand/Tesla_LeftHandIndex1
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_LeftShoulder/Tesla_LeftArm/Tesla_LeftForeArm/Tesla_LeftHand/Tesla_LeftHandIndex1/Tesla_LeftHandIndex2
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_LeftShoulder/Tesla_LeftArm/Tesla_LeftForeArm/Tesla_LeftHand/Tesla_LeftHandIndex1/Tesla_LeftHandIndex2/Tesla_LeftHandIndex3
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_LeftShoulder/Tesla_LeftArm/Tesla_LeftForeArm/Tesla_LeftHand/Tesla_LeftHandIndex1/Tesla_LeftHandIndex2/Tesla_LeftHandIndex3/Tesla_LeftHandIndex4
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_LeftShoulder/Tesla_LeftArm/Tesla_LeftForeArm/Tesla_LeftHand/Tesla_LeftHandMiddle1
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_LeftShoulder/Tesla_LeftArm/Tesla_LeftForeArm/Tesla_LeftHand/Tesla_LeftHandMiddle1/Tesla_LeftHandMiddle2
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_LeftShoulder/Tesla_LeftArm/Tesla_LeftForeArm/Tesla_LeftHand/Tesla_LeftHandMiddle1/Tesla_LeftHandMiddle2/Tesla_LeftHandMiddle3
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_LeftShoulder/Tesla_LeftArm/Tesla_LeftForeArm/Tesla_LeftHand/Tesla_LeftHandMiddle1/Tesla_LeftHandMiddle2/Tesla_LeftHandMiddle3/Tesla_LeftHandMiddle4
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_LeftShoulder/Tesla_LeftArm/Tesla_LeftForeArm/Tesla_LeftHand/Tesla_LeftHandPinky1
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_LeftShoulder/Tesla_LeftArm/Tesla_LeftForeArm/Tesla_LeftHand/Tesla_LeftHandPinky1/Tesla_LeftHandPinky2
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_LeftShoulder/Tesla_LeftArm/Tesla_LeftForeArm/Tesla_LeftHand/Tesla_LeftHandPinky1/Tesla_LeftHandPinky2/Tesla_LeftHandPinky3
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_LeftShoulder/Tesla_LeftArm/Tesla_LeftForeArm/Tesla_LeftHand/Tesla_LeftHandPinky1/Tesla_LeftHandPinky2/Tesla_LeftHandPinky3/Tesla_LeftHandPinky4
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_LeftShoulder/Tesla_LeftArm/Tesla_LeftForeArm/Tesla_LeftHand/Tesla_LeftHandRing1
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_LeftShoulder/Tesla_LeftArm/Tesla_LeftForeArm/Tesla_LeftHand/Tesla_LeftHandRing1/Tesla_LeftHandRing2
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_LeftShoulder/Tesla_LeftArm/Tesla_LeftForeArm/Tesla_LeftHand/Tesla_LeftHandRing1/Tesla_LeftHandRing2/Tesla_LeftHandRing3
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_LeftShoulder/Tesla_LeftArm/Tesla_LeftForeArm/Tesla_LeftHand/Tesla_LeftHandRing1/Tesla_LeftHandRing2/Tesla_LeftHandRing3/Tesla_LeftHandRing4
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_LeftShoulder/Tesla_LeftArm/Tesla_LeftForeArm/Tesla_LeftHand/Tesla_LeftHandThumb1
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_LeftShoulder/Tesla_LeftArm/Tesla_LeftForeArm/Tesla_LeftHand/Tesla_LeftHandThumb1/Tesla_LeftHandThumb2
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_LeftShoulder/Tesla_LeftArm/Tesla_LeftForeArm/Tesla_LeftHand/Tesla_LeftHandThumb1/Tesla_LeftHandThumb2/Tesla_LeftHandThumb3
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_LeftShoulder/Tesla_LeftArm/Tesla_LeftForeArm/Tesla_LeftHand/Tesla_LeftHandThumb1/Tesla_LeftHandThumb2/Tesla_LeftHandThumb3/Tesla_LeftHandThumb4
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_Neck
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_Neck/polySurface55
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_Neck/Tesla_Head
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_Neck/Tesla_Head/polySurface45
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_Neck/Tesla_Head/polySurface46
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_Neck/Tesla_Head/polySurface47
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_Neck/Tesla_Head/polySurface48
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_Neck/Tesla_Head/polySurface49
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_Neck/Tesla_Head/polySurface50
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_Neck/Tesla_Head/polySurface51
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_Neck/Tesla_Head/polySurface53
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_RightShoulder
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_RightShoulder/polySurface84
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_RightShoulder/Tesla_RightArm
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_RightShoulder/Tesla_RightArm/polySurface61
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_RightShoulder/Tesla_RightArm/Tesla_RightForeArm
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_RightShoulder/Tesla_RightArm/Tesla_RightForeArm/polySurface62
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_RightShoulder/Tesla_RightArm/Tesla_RightForeArm/Tesla_RightHand
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_RightShoulder/Tesla_RightArm/Tesla_RightForeArm/Tesla_RightHand/polySurface63
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_RightShoulder/Tesla_RightArm/Tesla_RightForeArm/Tesla_RightHand/Tesla_RightHandIndex1
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_RightShoulder/Tesla_RightArm/Tesla_RightForeArm/Tesla_RightHand/Tesla_RightHandIndex1/Tesla_RightHandIndex2
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_RightShoulder/Tesla_RightArm/Tesla_RightForeArm/Tesla_RightHand/Tesla_RightHandIndex1/Tesla_RightHandIndex2/Tesla_RightHandIndex3
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_RightShoulder/Tesla_RightArm/Tesla_RightForeArm/Tesla_RightHand/Tesla_RightHandIndex1/Tesla_RightHandIndex2/Tesla_RightHandIndex3/Tesla_RightHandIndex4
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_RightShoulder/Tesla_RightArm/Tesla_RightForeArm/Tesla_RightHand/Tesla_RightHandMiddle1
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_RightShoulder/Tesla_RightArm/Tesla_RightForeArm/Tesla_RightHand/Tesla_RightHandMiddle1/Tesla_RightHandMiddle2
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_RightShoulder/Tesla_RightArm/Tesla_RightForeArm/Tesla_RightHand/Tesla_RightHandMiddle1/Tesla_RightHandMiddle2/Tesla_RightHandMiddle3
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_RightShoulder/Tesla_RightArm/Tesla_RightForeArm/Tesla_RightHand/Tesla_RightHandMiddle1/Tesla_RightHandMiddle2/Tesla_RightHandMiddle3/Tesla_RightHandMiddle4
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_RightShoulder/Tesla_RightArm/Tesla_RightForeArm/Tesla_RightHand/Tesla_RightHandPinky1
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_RightShoulder/Tesla_RightArm/Tesla_RightForeArm/Tesla_RightHand/Tesla_RightHandPinky1/Tesla_RightHandPinky2
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_RightShoulder/Tesla_RightArm/Tesla_RightForeArm/Tesla_RightHand/Tesla_RightHandPinky1/Tesla_RightHandPinky2/Tesla_RightHandPinky3
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_RightShoulder/Tesla_RightArm/Tesla_RightForeArm/Tesla_RightHand/Tesla_RightHandPinky1/Tesla_RightHandPinky2/Tesla_RightHandPinky3/Tesla_RightHandPinky4
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_RightShoulder/Tesla_RightArm/Tesla_RightForeArm/Tesla_RightHand/Tesla_RightHandRing1
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_RightShoulder/Tesla_RightArm/Tesla_RightForeArm/Tesla_RightHand/Tesla_RightHandRing1/Tesla_RightHandRing2
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_RightShoulder/Tesla_RightArm/Tesla_RightForeArm/Tesla_RightHand/Tesla_RightHandRing1/Tesla_RightHandRing2/Tesla_RightHandRing3
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_RightShoulder/Tesla_RightArm/Tesla_RightForeArm/Tesla_RightHand/Tesla_RightHandRing1/Tesla_RightHandRing2/Tesla_RightHandRing3/Tesla_RightHandRing4
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_RightShoulder/Tesla_RightArm/Tesla_RightForeArm/Tesla_RightHand/Tesla_RightHandThumb1
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_RightShoulder/Tesla_RightArm/Tesla_RightForeArm/Tesla_RightHand/Tesla_RightHandThumb1/Tesla_RightHandThumb2
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_RightShoulder/Tesla_RightArm/Tesla_RightForeArm/Tesla_RightHand/Tesla_RightHandThumb1/Tesla_RightHandThumb2/Tesla_RightHandThumb3
+        weight: 1
+      - path: Tesla_Hips/Tesla_Spine/Tesla_Spine1/Tesla_Spine2/Tesla_RightShoulder/Tesla_RightArm/Tesla_RightForeArm/Tesla_RightHand/Tesla_RightHandThumb1/Tesla_RightHandThumb2/Tesla_RightHandThumb3/Tesla_RightHandThumb4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: b54e924ddefef9f4f9fb8de209c419a0,
+    type: 3}
+  animationType: 2
+  additionalBone: 0
+  userData: 

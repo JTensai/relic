@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.05.00">
+    <object class="AudioFile" id="{32cc17b4-315d-4f1e-bbe0-84e78f9b00bf}">
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>0.39183673469387753</value>
+        </property>
+        <property name="lastModifiedDate">
+            <value>0</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/Mechanical Noise {40c82c6e-a8db-4df8-aace-e3367308c55e}.mp3</value>
+        </property>
+        <relationship name="container">
+            <destination>{5eeb4249-a595-4438-8541-723758823ccf}</destination>
+        </relationship>
+    </object>
+</objects>

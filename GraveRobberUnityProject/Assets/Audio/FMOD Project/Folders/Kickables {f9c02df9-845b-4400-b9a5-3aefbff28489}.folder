@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.05.00">
+    <object class="Folder" id="{f9c02df9-845b-4400-b9a5-3aefbff28489}">
+        <property name="name">
+            <value>Kickables</value>
+        </property>
+        <relationship name="folder">
+            <destination>{98117279-22b4-4250-b790-e46c9e068bb8}</destination>
+        </relationship>
+    </object>
+</objects>

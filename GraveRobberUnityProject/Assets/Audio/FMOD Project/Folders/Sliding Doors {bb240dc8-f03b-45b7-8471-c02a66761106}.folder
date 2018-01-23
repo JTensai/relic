@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.05.00">
+    <object class="Folder" id="{bb240dc8-f03b-45b7-8471-c02a66761106}">
+        <property name="name">
+            <value>Sliding Doors</value>
+        </property>
+        <relationship name="folder">
+            <destination>{98117279-22b4-4250-b790-e46c9e068bb8}</destination>
+        </relationship>
+    </object>
+</objects>

@@ -1,0 +1,1 @@
+493.8485:7.400001:493.8485:0:45:0:0:0:0:30:0:0:True:False:True:True:True:False:True:

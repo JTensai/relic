@@ -1,0 +1,3 @@
+<<<<<<< .mine
+testMap:_basicPrototype:_basicPrototype2:RickyTestMap:=======
+testMap:_basicPrototype:_basicPrototype2:SwitchesTest:henryTestScene:henryTestMap2:>>>>>>> .r22

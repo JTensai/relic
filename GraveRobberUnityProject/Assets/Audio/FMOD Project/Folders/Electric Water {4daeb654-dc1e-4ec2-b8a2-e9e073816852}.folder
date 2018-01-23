@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.05.00">
+    <object class="Folder" id="{4daeb654-dc1e-4ec2-b8a2-e9e073816852}">
+        <property name="name">
+            <value>Electric Water</value>
+        </property>
+        <relationship name="folder">
+            <destination>{98117279-22b4-4250-b790-e46c9e068bb8}</destination>
+        </relationship>
+    </object>
+</objects>

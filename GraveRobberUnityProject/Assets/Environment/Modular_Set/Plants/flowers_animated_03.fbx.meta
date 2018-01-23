@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: b825177d4dffab842a6237891be5144d
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: plantMovement2
+    100004: pPlane10
+    100006: pPlane11
+    100008: pPlane12
+    100010: pPlane7
+    100012: pPlane8
+    100014: pPlane9
+    400000: //RootNode
+    400002: plantMovement2
+    400004: pPlane10
+    400006: pPlane11
+    400008: pPlane12
+    400010: pPlane7
+    400012: pPlane8
+    400014: pPlane9
+    2300000: pPlane10
+    2300002: pPlane11
+    2300004: pPlane12
+    2300006: pPlane7
+    2300008: pPlane8
+    2300010: pPlane9
+    3300000: pPlane10
+    3300002: pPlane11
+    3300004: pPlane12
+    3300006: pPlane7
+    3300008: pPlane8
+    3300010: pPlane9
+    4300000: pPlane7
+    4300002: pPlane8
+    4300004: pPlane9
+    4300006: pPlane10
+    4300008: pPlane11
+    4300010: pPlane12
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 96
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: plantMovement2
+        weight: 1
+      - path: plantMovement2/pPlane7
+        weight: 1
+      - path: plantMovement2/pPlane8
+        weight: 1
+      - path: plantMovement2/pPlane9
+        weight: 1
+      - path: plantMovement2/pPlane10
+        weight: 1
+      - path: plantMovement2/pPlane11
+        weight: 1
+      - path: plantMovement2/pPlane12
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

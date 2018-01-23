@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: 497b37142c3576944a26e94e0be7f6f9
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: group1_Fin
+    100002: group1_L_Knee
+    100004: group1_L_Leg
+    100006: group1_L_Shoulder
+    100008: group1_L_Thigh
+    100010: group1_Lower_Body
+    100012: group1_R_Arm
+    100014: group1_R_Knee
+    100016: group1_R_Leg
+    100018: group1_R_Shoulder
+    100020: group1_R_Thigh
+    100022: group1_Tail1
+    100024: group1_Tail2
+    100026: group1_Tail3
+    100028: group1_Torso
+    100030: L_Arm_group1
+    100032: //RootNode
+    400000: group1_Fin
+    400002: group1_L_Knee
+    400004: group1_L_Leg
+    400006: group1_L_Shoulder
+    400008: group1_L_Thigh
+    400010: group1_Lower_Body
+    400012: group1_R_Arm
+    400014: group1_R_Knee
+    400016: group1_R_Leg
+    400018: group1_R_Shoulder
+    400020: group1_R_Thigh
+    400022: group1_Tail1
+    400024: group1_Tail2
+    400026: group1_Tail3
+    400028: group1_Torso
+    400030: L_Arm_group1
+    400032: //RootNode
+    2300000: group1_Fin
+    2300002: group1_L_Knee
+    2300004: group1_L_Leg
+    2300006: group1_L_Shoulder
+    2300008: group1_L_Thigh
+    2300010: group1_Lower_Body
+    2300012: group1_R_Arm
+    2300014: group1_R_Knee
+    2300016: group1_R_Leg
+    2300018: group1_R_Shoulder
+    2300020: group1_R_Thigh
+    2300022: group1_Tail1
+    2300024: group1_Tail2
+    2300026: group1_Tail3
+    2300028: group1_Torso
+    2300030: L_Arm_group1
+    3300000: group1_Fin
+    3300002: group1_L_Knee
+    3300004: group1_L_Leg
+    3300006: group1_L_Shoulder
+    3300008: group1_L_Thigh
+    3300010: group1_Lower_Body
+    3300012: group1_R_Arm
+    3300014: group1_R_Knee
+    3300016: group1_R_Leg
+    3300018: group1_R_Shoulder
+    3300020: group1_R_Thigh
+    3300022: group1_Tail1
+    3300024: group1_Tail2
+    3300026: group1_Tail3
+    3300028: group1_Torso
+    3300030: L_Arm_group1
+    4300000: group1_Fin
+    4300002: group1_L_Knee
+    4300004: group1_L_Leg
+    4300006: group1_L_Shoulder
+    4300008: group1_L_Thigh
+    4300010: group1_Lower_Body
+    4300012: group1_R_Arm
+    4300014: group1_R_Knee
+    4300016: group1_R_Leg
+    4300018: group1_R_Shoulder
+    4300020: group1_R_Thigh
+    4300022: group1_Tail1
+    4300024: group1_Tail2
+    4300026: group1_Tail3
+    4300028: group1_Torso
+    4300030: L_Arm_group1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

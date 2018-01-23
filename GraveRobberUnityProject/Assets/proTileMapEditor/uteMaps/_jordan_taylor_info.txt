@@ -1,0 +1,1 @@
+496.3149:11.2:499.3061:0:0:0:0:0:0:90:0:0:True:False:True:True:True:False:True:

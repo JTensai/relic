@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map>
+    <tiles>
+        <tile>
+            <prefab-guid>a36180ff867644771a25b20803eabce8</prefab-guid>
+            <position>501,0.7522871,498</position>
+            <euler-angles>0,0,0</euler-angles>
+            <is-static>true</is-static>
+        </tile>
+        <tile>
+            <prefab-guid>a36180ff867644771a25b20803eabce8</prefab-guid>
+            <position>501,0.7522871,501</position>
+            <euler-angles>0,0,0</euler-angles>
+            <is-static>true</is-static>
+        </tile>
+        <tile>
+            <prefab-guid>a36180ff867644771a25b20803eabce8</prefab-guid>
+            <position>501,0.7522871,495</position>
+            <euler-angles>0,0,0</euler-angles>
+            <is-static>true</is-static>
+        </tile>
+    </tiles>
+</map>

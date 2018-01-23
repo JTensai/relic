@@ -1,0 +1,456 @@
+fileFormatVersion: 2
+guid: fcf890159a254b94fa630b17c3755c66
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: be_l_foot
+    100002: be_l_hand
+    100004: be_r_foot
+    100006: be_r_hand
+    100008: bn_l_bicep
+    100010: bn_l_forearm
+    100012: bn_l_knee
+    100014: bn_l_shin
+    100016: bn_l_thigh
+    100018: bn_mid_torso
+    100020: bn_r_bicep
+    100022: bn_r_forearm
+    100024: bn_r_knee
+    100026: bn_r_shin
+    100028: bn_r_thigh
+    100030: bn_shoulders
+    100032: bn_tail_01
+    100034: bn_tail_02
+    100036: bn_tail_03
+    100038: bn_tail_end
+    100040: //RootNode
+    100042: Charger_SEP_Ctrl:ChestEndEffector
+    100044: Charger_SEP_Ctrl:ChestOriginEffector
+    100046: Charger_SEP_Ctrl:Head
+    100048: Charger_SEP_Ctrl:HeadEffector
+    100050: Charger_SEP_Ctrl:Hips
+    100052: Charger_SEP_Ctrl:HipsEffector
+    100054: Charger_SEP_Ctrl:LeftAnkleEffector
+    100056: Charger_SEP_Ctrl:LeftArm
+    100058: Charger_SEP_Ctrl:LeftElbowEffector
+    100060: Charger_SEP_Ctrl:LeftFoot
+    100062: Charger_SEP_Ctrl:LeftFootEffector
+    100064: Charger_SEP_Ctrl:LeftForeArm
+    100066: Charger_SEP_Ctrl:LeftHand
+    100068: Charger_SEP_Ctrl:LeftHipEffector
+    100070: Charger_SEP_Ctrl:LeftKneeEffector
+    100072: Charger_SEP_Ctrl:LeftLeg
+    100074: Charger_SEP_Ctrl:LeftShoulderEffector
+    100076: Charger_SEP_Ctrl:LeftToeBase
+    100078: Charger_SEP_Ctrl:LeftUpLeg
+    100080: Charger_SEP_Ctrl:LeftWristEffector
+    100082: Charger_SEP_Ctrl:Reference
+    100084: Charger_SEP_Ctrl:RightAnkleEffector
+    100086: Charger_SEP_Ctrl:RightArm
+    100088: Charger_SEP_Ctrl:RightElbowEffector
+    100090: Charger_SEP_Ctrl:RightFoot
+    100092: Charger_SEP_Ctrl:RightFootEffector
+    100094: Charger_SEP_Ctrl:RightForeArm
+    100096: Charger_SEP_Ctrl:RightHand
+    100098: Charger_SEP_Ctrl:RightHipEffector
+    100100: Charger_SEP_Ctrl:RightKneeEffector
+    100102: Charger_SEP_Ctrl:RightLeg
+    100104: Charger_SEP_Ctrl:RightShoulderEffector
+    100106: Charger_SEP_Ctrl:RightToeBase
+    100108: Charger_SEP_Ctrl:RightUpLeg
+    100110: Charger_SEP_Ctrl:RightWristEffector
+    100112: Charger_SEP_Ctrl:Spine
+    100114: GameMonster:Fin
+    100116: GameMonster:L_Arm
+    100118: GameMonster:L_Knee
+    100120: GameMonster:L_Leg
+    100122: GameMonster:L_Shoulder
+    100124: GameMonster:L_Thigh
+    100126: GameMonster:Lower_Body
+    100128: GameMonster:R_Arm
+    100130: GameMonster:R_Knee
+    100132: GameMonster:R_Leg
+    100134: GameMonster:R_Shoulder
+    100136: GameMonster:R_Thigh
+    100138: GameMonster:Tail1
+    100140: GameMonster:Tail2
+    100142: GameMonster:Tail3
+    100144: GameMonster:Torso
+    100146: Hips
+    100148: joint17
+    100150: joint18
+    100152: joint19
+    100154: joint20
+    100156: joint8
+    100158: Reference
+    400000: be_l_foot
+    400002: be_l_hand
+    400004: be_r_foot
+    400006: be_r_hand
+    400008: bn_l_bicep
+    400010: bn_l_forearm
+    400012: bn_l_knee
+    400014: bn_l_shin
+    400016: bn_l_thigh
+    400018: bn_mid_torso
+    400020: bn_r_bicep
+    400022: bn_r_forearm
+    400024: bn_r_knee
+    400026: bn_r_shin
+    400028: bn_r_thigh
+    400030: bn_shoulders
+    400032: bn_tail_01
+    400034: bn_tail_02
+    400036: bn_tail_03
+    400038: bn_tail_end
+    400040: //RootNode
+    400042: Charger_SEP_Ctrl:ChestEndEffector
+    400044: Charger_SEP_Ctrl:ChestOriginEffector
+    400046: Charger_SEP_Ctrl:Head
+    400048: Charger_SEP_Ctrl:HeadEffector
+    400050: Charger_SEP_Ctrl:Hips
+    400052: Charger_SEP_Ctrl:HipsEffector
+    400054: Charger_SEP_Ctrl:LeftAnkleEffector
+    400056: Charger_SEP_Ctrl:LeftArm
+    400058: Charger_SEP_Ctrl:LeftElbowEffector
+    400060: Charger_SEP_Ctrl:LeftFoot
+    400062: Charger_SEP_Ctrl:LeftFootEffector
+    400064: Charger_SEP_Ctrl:LeftForeArm
+    400066: Charger_SEP_Ctrl:LeftHand
+    400068: Charger_SEP_Ctrl:LeftHipEffector
+    400070: Charger_SEP_Ctrl:LeftKneeEffector
+    400072: Charger_SEP_Ctrl:LeftLeg
+    400074: Charger_SEP_Ctrl:LeftShoulderEffector
+    400076: Charger_SEP_Ctrl:LeftToeBase
+    400078: Charger_SEP_Ctrl:LeftUpLeg
+    400080: Charger_SEP_Ctrl:LeftWristEffector
+    400082: Charger_SEP_Ctrl:Reference
+    400084: Charger_SEP_Ctrl:RightAnkleEffector
+    400086: Charger_SEP_Ctrl:RightArm
+    400088: Charger_SEP_Ctrl:RightElbowEffector
+    400090: Charger_SEP_Ctrl:RightFoot
+    400092: Charger_SEP_Ctrl:RightFootEffector
+    400094: Charger_SEP_Ctrl:RightForeArm
+    400096: Charger_SEP_Ctrl:RightHand
+    400098: Charger_SEP_Ctrl:RightHipEffector
+    400100: Charger_SEP_Ctrl:RightKneeEffector
+    400102: Charger_SEP_Ctrl:RightLeg
+    400104: Charger_SEP_Ctrl:RightShoulderEffector
+    400106: Charger_SEP_Ctrl:RightToeBase
+    400108: Charger_SEP_Ctrl:RightUpLeg
+    400110: Charger_SEP_Ctrl:RightWristEffector
+    400112: Charger_SEP_Ctrl:Spine
+    400114: GameMonster:Fin
+    400116: GameMonster:L_Arm
+    400118: GameMonster:L_Knee
+    400120: GameMonster:L_Leg
+    400122: GameMonster:L_Shoulder
+    400124: GameMonster:L_Thigh
+    400126: GameMonster:Lower_Body
+    400128: GameMonster:R_Arm
+    400130: GameMonster:R_Knee
+    400132: GameMonster:R_Leg
+    400134: GameMonster:R_Shoulder
+    400136: GameMonster:R_Thigh
+    400138: GameMonster:Tail1
+    400140: GameMonster:Tail2
+    400142: GameMonster:Tail3
+    400144: GameMonster:Torso
+    400146: Hips
+    400148: joint17
+    400150: joint18
+    400152: joint19
+    400154: joint20
+    400156: joint8
+    400158: Reference
+    2300000: GameMonster:Fin
+    2300002: GameMonster:L_Arm
+    2300004: GameMonster:L_Knee
+    2300006: GameMonster:L_Leg
+    2300008: GameMonster:L_Shoulder
+    2300010: GameMonster:L_Thigh
+    2300012: GameMonster:Lower_Body
+    2300014: GameMonster:R_Arm
+    2300016: GameMonster:R_Knee
+    2300018: GameMonster:R_Leg
+    2300020: GameMonster:R_Shoulder
+    2300022: GameMonster:R_Thigh
+    2300024: GameMonster:Tail1
+    2300026: GameMonster:Tail2
+    2300028: GameMonster:Tail3
+    2300030: GameMonster:Torso
+    3300000: GameMonster:Fin
+    3300002: GameMonster:L_Arm
+    3300004: GameMonster:L_Knee
+    3300006: GameMonster:L_Leg
+    3300008: GameMonster:L_Shoulder
+    3300010: GameMonster:L_Thigh
+    3300012: GameMonster:Lower_Body
+    3300014: GameMonster:R_Arm
+    3300016: GameMonster:R_Knee
+    3300018: GameMonster:R_Leg
+    3300020: GameMonster:R_Shoulder
+    3300022: GameMonster:R_Thigh
+    3300024: GameMonster:Tail1
+    3300026: GameMonster:Tail2
+    3300028: GameMonster:Tail3
+    3300030: GameMonster:Torso
+    4300000: GameMonster:L_Arm
+    4300002: GameMonster:L_Shoulder
+    4300004: GameMonster:R_Arm
+    4300006: GameMonster:R_Shoulder
+    4300008: GameMonster:Torso
+    4300010: GameMonster:Fin
+    4300012: GameMonster:Tail1
+    4300014: GameMonster:Tail2
+    4300016: GameMonster:Tail3
+    4300018: GameMonster:L_Leg
+    4300020: GameMonster:L_Knee
+    4300022: GameMonster:L_Thigh
+    4300024: GameMonster:R_Leg
+    4300026: GameMonster:R_Knee
+    4300028: GameMonster:R_Thigh
+    4300030: GameMonster:Lower_Body
+    7400000: ChargeLoop
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: ChargeLoop
+      takeName: ChargeLoop
+      firstFrame: 0
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Charger_SEP_Ctrl:Reference
+        weight: 1
+      - path: Charger_SEP_Ctrl:Reference/Charger_SEP_Ctrl:ChestEndEffector
+        weight: 1
+      - path: Charger_SEP_Ctrl:Reference/Charger_SEP_Ctrl:ChestOriginEffector
+        weight: 1
+      - path: Charger_SEP_Ctrl:Reference/Charger_SEP_Ctrl:HeadEffector
+        weight: 1
+      - path: Charger_SEP_Ctrl:Reference/Charger_SEP_Ctrl:Hips
+        weight: 1
+      - path: Charger_SEP_Ctrl:Reference/Charger_SEP_Ctrl:Hips/Charger_SEP_Ctrl:LeftUpLeg
+        weight: 1
+      - path: Charger_SEP_Ctrl:Reference/Charger_SEP_Ctrl:Hips/Charger_SEP_Ctrl:LeftUpLeg/Charger_SEP_Ctrl:LeftLeg
+        weight: 1
+      - path: Charger_SEP_Ctrl:Reference/Charger_SEP_Ctrl:Hips/Charger_SEP_Ctrl:LeftUpLeg/Charger_SEP_Ctrl:LeftLeg/Charger_SEP_Ctrl:LeftFoot
+        weight: 1
+      - path: Charger_SEP_Ctrl:Reference/Charger_SEP_Ctrl:Hips/Charger_SEP_Ctrl:LeftUpLeg/Charger_SEP_Ctrl:LeftLeg/Charger_SEP_Ctrl:LeftFoot/Charger_SEP_Ctrl:LeftToeBase
+        weight: 1
+      - path: Charger_SEP_Ctrl:Reference/Charger_SEP_Ctrl:Hips/Charger_SEP_Ctrl:RightUpLeg
+        weight: 1
+      - path: Charger_SEP_Ctrl:Reference/Charger_SEP_Ctrl:Hips/Charger_SEP_Ctrl:RightUpLeg/Charger_SEP_Ctrl:RightLeg
+        weight: 1
+      - path: Charger_SEP_Ctrl:Reference/Charger_SEP_Ctrl:Hips/Charger_SEP_Ctrl:RightUpLeg/Charger_SEP_Ctrl:RightLeg/Charger_SEP_Ctrl:RightFoot
+        weight: 1
+      - path: Charger_SEP_Ctrl:Reference/Charger_SEP_Ctrl:Hips/Charger_SEP_Ctrl:RightUpLeg/Charger_SEP_Ctrl:RightLeg/Charger_SEP_Ctrl:RightFoot/Charger_SEP_Ctrl:RightToeBase
+        weight: 1
+      - path: Charger_SEP_Ctrl:Reference/Charger_SEP_Ctrl:Hips/Charger_SEP_Ctrl:Spine
+        weight: 1
+      - path: Charger_SEP_Ctrl:Reference/Charger_SEP_Ctrl:Hips/Charger_SEP_Ctrl:Spine/Charger_SEP_Ctrl:Head
+        weight: 1
+      - path: Charger_SEP_Ctrl:Reference/Charger_SEP_Ctrl:Hips/Charger_SEP_Ctrl:Spine/Charger_SEP_Ctrl:LeftArm
+        weight: 1
+      - path: Charger_SEP_Ctrl:Reference/Charger_SEP_Ctrl:Hips/Charger_SEP_Ctrl:Spine/Charger_SEP_Ctrl:LeftArm/Charger_SEP_Ctrl:LeftForeArm
+        weight: 1
+      - path: Charger_SEP_Ctrl:Reference/Charger_SEP_Ctrl:Hips/Charger_SEP_Ctrl:Spine/Charger_SEP_Ctrl:LeftArm/Charger_SEP_Ctrl:LeftForeArm/Charger_SEP_Ctrl:LeftHand
+        weight: 1
+      - path: Charger_SEP_Ctrl:Reference/Charger_SEP_Ctrl:Hips/Charger_SEP_Ctrl:Spine/Charger_SEP_Ctrl:RightArm
+        weight: 1
+      - path: Charger_SEP_Ctrl:Reference/Charger_SEP_Ctrl:Hips/Charger_SEP_Ctrl:Spine/Charger_SEP_Ctrl:RightArm/Charger_SEP_Ctrl:RightForeArm
+        weight: 1
+      - path: Charger_SEP_Ctrl:Reference/Charger_SEP_Ctrl:Hips/Charger_SEP_Ctrl:Spine/Charger_SEP_Ctrl:RightArm/Charger_SEP_Ctrl:RightForeArm/Charger_SEP_Ctrl:RightHand
+        weight: 1
+      - path: Charger_SEP_Ctrl:Reference/Charger_SEP_Ctrl:HipsEffector
+        weight: 1
+      - path: Charger_SEP_Ctrl:Reference/Charger_SEP_Ctrl:LeftAnkleEffector
+        weight: 1
+      - path: Charger_SEP_Ctrl:Reference/Charger_SEP_Ctrl:LeftElbowEffector
+        weight: 1
+      - path: Charger_SEP_Ctrl:Reference/Charger_SEP_Ctrl:LeftFootEffector
+        weight: 1
+      - path: Charger_SEP_Ctrl:Reference/Charger_SEP_Ctrl:LeftHipEffector
+        weight: 1
+      - path: Charger_SEP_Ctrl:Reference/Charger_SEP_Ctrl:LeftKneeEffector
+        weight: 1
+      - path: Charger_SEP_Ctrl:Reference/Charger_SEP_Ctrl:LeftShoulderEffector
+        weight: 1
+      - path: Charger_SEP_Ctrl:Reference/Charger_SEP_Ctrl:LeftWristEffector
+        weight: 1
+      - path: Charger_SEP_Ctrl:Reference/Charger_SEP_Ctrl:RightAnkleEffector
+        weight: 1
+      - path: Charger_SEP_Ctrl:Reference/Charger_SEP_Ctrl:RightElbowEffector
+        weight: 1
+      - path: Charger_SEP_Ctrl:Reference/Charger_SEP_Ctrl:RightFootEffector
+        weight: 1
+      - path: Charger_SEP_Ctrl:Reference/Charger_SEP_Ctrl:RightHipEffector
+        weight: 1
+      - path: Charger_SEP_Ctrl:Reference/Charger_SEP_Ctrl:RightKneeEffector
+        weight: 1
+      - path: Charger_SEP_Ctrl:Reference/Charger_SEP_Ctrl:RightShoulderEffector
+        weight: 1
+      - path: Charger_SEP_Ctrl:Reference/Charger_SEP_Ctrl:RightWristEffector
+        weight: 1
+      - path: Reference
+        weight: 1
+      - path: Reference/Hips
+        weight: 1
+      - path: Reference/Hips/bn_l_thigh
+        weight: 1
+      - path: Reference/Hips/bn_l_thigh/bn_l_knee
+        weight: 1
+      - path: Reference/Hips/bn_l_thigh/bn_l_knee/bn_l_shin
+        weight: 1
+      - path: Reference/Hips/bn_l_thigh/bn_l_knee/bn_l_shin/be_l_foot
+        weight: 1
+      - path: Reference/Hips/bn_l_thigh/bn_l_knee/bn_l_shin/be_l_foot/joint17
+        weight: 1
+      - path: Reference/Hips/bn_l_thigh/bn_l_knee/bn_l_shin/GameMonster:L_Leg
+        weight: 1
+      - path: Reference/Hips/bn_l_thigh/bn_l_knee/GameMonster:L_Knee
+        weight: 1
+      - path: Reference/Hips/bn_l_thigh/GameMonster:L_Thigh
+        weight: 1
+      - path: Reference/Hips/bn_mid_torso
+        weight: 1
+      - path: Reference/Hips/bn_mid_torso/bn_shoulders
+        weight: 1
+      - path: Reference/Hips/bn_mid_torso/bn_shoulders/bn_l_bicep
+        weight: 1
+      - path: Reference/Hips/bn_mid_torso/bn_shoulders/bn_l_bicep/bn_l_forearm
+        weight: 1
+      - path: Reference/Hips/bn_mid_torso/bn_shoulders/bn_l_bicep/bn_l_forearm/be_l_hand
+        weight: 1
+      - path: Reference/Hips/bn_mid_torso/bn_shoulders/bn_l_bicep/bn_l_forearm/be_l_hand/joint18
+        weight: 1
+      - path: Reference/Hips/bn_mid_torso/bn_shoulders/bn_l_bicep/bn_l_forearm/GameMonster:L_Arm
+        weight: 1
+      - path: Reference/Hips/bn_mid_torso/bn_shoulders/bn_l_bicep/GameMonster:L_Shoulder
+        weight: 1
+      - path: Reference/Hips/bn_mid_torso/bn_shoulders/bn_r_bicep
+        weight: 1
+      - path: Reference/Hips/bn_mid_torso/bn_shoulders/bn_r_bicep/bn_r_forearm
+        weight: 1
+      - path: Reference/Hips/bn_mid_torso/bn_shoulders/bn_r_bicep/bn_r_forearm/be_r_hand
+        weight: 1
+      - path: Reference/Hips/bn_mid_torso/bn_shoulders/bn_r_bicep/bn_r_forearm/be_r_hand/joint19
+        weight: 1
+      - path: Reference/Hips/bn_mid_torso/bn_shoulders/bn_r_bicep/bn_r_forearm/GameMonster:R_Arm
+        weight: 1
+      - path: Reference/Hips/bn_mid_torso/bn_shoulders/bn_r_bicep/GameMonster:R_Shoulder
+        weight: 1
+      - path: Reference/Hips/bn_mid_torso/GameMonster:Torso
+        weight: 1
+      - path: Reference/Hips/bn_r_thigh
+        weight: 1
+      - path: Reference/Hips/bn_r_thigh/bn_r_knee
+        weight: 1
+      - path: Reference/Hips/bn_r_thigh/bn_r_knee/bn_r_shin
+        weight: 1
+      - path: Reference/Hips/bn_r_thigh/bn_r_knee/bn_r_shin/be_r_foot
+        weight: 1
+      - path: Reference/Hips/bn_r_thigh/bn_r_knee/bn_r_shin/be_r_foot/joint20
+        weight: 1
+      - path: Reference/Hips/bn_r_thigh/bn_r_knee/bn_r_shin/GameMonster:R_Leg
+        weight: 1
+      - path: Reference/Hips/bn_r_thigh/bn_r_knee/GameMonster:R_Knee
+        weight: 1
+      - path: Reference/Hips/bn_r_thigh/GameMonster:R_Thigh
+        weight: 1
+      - path: Reference/Hips/bn_tail_01
+        weight: 1
+      - path: Reference/Hips/bn_tail_01/bn_tail_02
+        weight: 1
+      - path: Reference/Hips/bn_tail_01/bn_tail_02/bn_tail_03
+        weight: 1
+      - path: Reference/Hips/bn_tail_01/bn_tail_02/bn_tail_03/bn_tail_end
+        weight: 1
+      - path: Reference/Hips/bn_tail_01/bn_tail_02/bn_tail_03/bn_tail_end/GameMonster:Fin
+        weight: 1
+      - path: Reference/Hips/bn_tail_01/bn_tail_02/bn_tail_03/bn_tail_end/joint8
+        weight: 1
+      - path: Reference/Hips/bn_tail_01/bn_tail_02/bn_tail_03/GameMonster:Tail1
+        weight: 1
+      - path: Reference/Hips/bn_tail_01/bn_tail_02/GameMonster:Tail2
+        weight: 1
+      - path: Reference/Hips/bn_tail_01/GameMonster:Tail3
+        weight: 1
+      - path: Reference/Hips/GameMonster:Lower_Body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

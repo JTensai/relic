@@ -1,0 +1,719 @@
+fileFormatVersion: 2
+guid: dba2ee4ff97dd104db3a00352fc2aed5
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ramshorn_andre_temp_rig_model:Bone1
+    100004: ramshorn_andre_temp_rig_model:CC_Charger_Global_01
+    100006: ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01
+    100008: ramshorn_andre_temp_rig_model:CC_COG_hips_01
+    100010: ramshorn_andre_temp_rig_model:CC_head_01
+    100012: ramshorn_andre_temp_rig_model:CC_hips_01
+    100014: ramshorn_andre_temp_rig_model:cc_l_footRoll_01
+    100016: ramshorn_andre_temp_rig_model:CC_Left_knee_01
+    100018: ramshorn_andre_temp_rig_model:CC_LeftElbow_01
+    100020: ramshorn_andre_temp_rig_model:CC_LeftFoot_01
+    100022: ramshorn_andre_temp_rig_model:CC_LeftHand_01
+    100024: ramshorn_andre_temp_rig_model:CC_LeftShoulder_01
+    100026: ramshorn_andre_temp_rig_model:CC_neck_01
+    100028: ramshorn_andre_temp_rig_model:cc_r_footRoll_01
+    100030: ramshorn_andre_temp_rig_model:CC_Right_knee_01
+    100032: ramshorn_andre_temp_rig_model:CC_RightElbow_01
+    100034: ramshorn_andre_temp_rig_model:CC_RightFoot_01
+    100036: ramshorn_andre_temp_rig_model:CC_RightHand_01
+    100038: ramshorn_andre_temp_rig_model:CC_RightShoulder_01
+    100040: ramshorn_andre_temp_rig_model:CC_shoulders_01
+    100042: ramshorn_andre_temp_rig_model:CC_spine_FK_01
+    100044: ramshorn_andre_temp_rig_model:Charger_Head
+    100046: ramshorn_andre_temp_rig_model:Charger_Head_end
+    100048: ramshorn_andre_temp_rig_model:Charger_hips
+    100050: ramshorn_andre_temp_rig_model:Charger_LeftArm
+    100052: ramshorn_andre_temp_rig_model:Charger_LeftFoot
+    100054: ramshorn_andre_temp_rig_model:Charger_LeftForeArm
+    100056: ramshorn_andre_temp_rig_model:Charger_LeftHand
+    100058: ramshorn_andre_temp_rig_model:Charger_LeftHandIndex1
+    100060: ramshorn_andre_temp_rig_model:Charger_LeftHandIndex2
+    100062: ramshorn_andre_temp_rig_model:Charger_LeftHandIndex3
+    100064: ramshorn_andre_temp_rig_model:Charger_LeftHandMiddle1
+    100066: ramshorn_andre_temp_rig_model:Charger_LeftHandMiddle2
+    100068: ramshorn_andre_temp_rig_model:Charger_LeftHandMiddle3
+    100070: ramshorn_andre_temp_rig_model:Charger_LeftHandRing1
+    100072: ramshorn_andre_temp_rig_model:Charger_LeftHandRing2
+    100074: ramshorn_andre_temp_rig_model:Charger_LeftHandRing3
+    100076: ramshorn_andre_temp_rig_model:Charger_LeftHandThumb1
+    100078: ramshorn_andre_temp_rig_model:Charger_LeftHandThumb2
+    100080: ramshorn_andre_temp_rig_model:Charger_LeftHandThumb3
+    100082: ramshorn_andre_temp_rig_model:Charger_LeftKnee
+    100084: ramshorn_andre_temp_rig_model:Charger_LeftLeg
+    100086: ramshorn_andre_temp_rig_model:Charger_LeftShoulder
+    100088: ramshorn_andre_temp_rig_model:Charger_LeftToeBase
+    100090: ramshorn_andre_temp_rig_model:Charger_LeftToeEnd
+    100092: ramshorn_andre_temp_rig_model:Charger_LeftUpLeg
+    100094: ramshorn_andre_temp_rig_model:Charger_Neck
+    100096: ramshorn_andre_temp_rig_model:Charger_Reference
+    100098: ramshorn_andre_temp_rig_model:Charger_RightArm
+    100100: ramshorn_andre_temp_rig_model:Charger_RightFoot
+    100102: ramshorn_andre_temp_rig_model:Charger_RightForeArm
+    100104: ramshorn_andre_temp_rig_model:Charger_RightHand
+    100106: ramshorn_andre_temp_rig_model:Charger_RightHandIndex1
+    100108: ramshorn_andre_temp_rig_model:Charger_RightHandIndex2
+    100110: ramshorn_andre_temp_rig_model:Charger_RightHandIndex3
+    100112: ramshorn_andre_temp_rig_model:Charger_RightHandMiddle1
+    100114: ramshorn_andre_temp_rig_model:Charger_RightHandMiddle2
+    100116: ramshorn_andre_temp_rig_model:Charger_RightHandMiddle3
+    100118: ramshorn_andre_temp_rig_model:Charger_RightHandRing1
+    100120: ramshorn_andre_temp_rig_model:Charger_RightHandRing2
+    100122: ramshorn_andre_temp_rig_model:Charger_RightHandRing3
+    100124: ramshorn_andre_temp_rig_model:Charger_RightHandThumb1
+    100126: ramshorn_andre_temp_rig_model:Charger_RightHandThumb2
+    100128: ramshorn_andre_temp_rig_model:Charger_RightHandThumb3
+    100130: ramshorn_andre_temp_rig_model:Charger_RightKnee
+    100132: ramshorn_andre_temp_rig_model:Charger_RightLeg
+    100134: ramshorn_andre_temp_rig_model:Charger_RightShoulder
+    100136: ramshorn_andre_temp_rig_model:Charger_RightToeBase
+    100138: ramshorn_andre_temp_rig_model:Charger_RightUpLeg
+    100140: ramshorn_andre_temp_rig_model:Charger_RitghtToeEnd
+    100142: ramshorn_andre_temp_rig_model:Charger_Root
+    100144: ramshorn_andre_temp_rig_model:Charger_Spine_1_01
+    100146: ramshorn_andre_temp_rig_model:Charger_Spine_2_01
+    100148: ramshorn_andre_temp_rig_model:Charger_Spine_3_01
+    100150: ramshorn_andre_temp_rig_model:Charger_Spine_3_01 1
+    100152: ramshorn_andre_temp_rig_model:Chargers1
+    100154: ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01
+    100156: ramshorn_andre_temp_rig_model:grp_CC_COG_hips_01
+    100158: ramshorn_andre_temp_rig_model:grp_CC_head_01
+    100160: ramshorn_andre_temp_rig_model:grp_CC_hips_01
+    100162: ramshorn_andre_temp_rig_model:grp_cc_l_footRoll_01
+    100164: ramshorn_andre_temp_rig_model:grp_CC_Left_knee_01
+    100166: ramshorn_andre_temp_rig_model:grp_CC_LeftElbow_01
+    100168: ramshorn_andre_temp_rig_model:grp_CC_LeftFoot_01
+    100170: ramshorn_andre_temp_rig_model:grp_CC_LeftHand_01
+    100172: ramshorn_andre_temp_rig_model:grp_CC_LeftShoulder_01
+    100174: ramshorn_andre_temp_rig_model:grp_CC_neck_01
+    100176: ramshorn_andre_temp_rig_model:grp_cc_r_footRoll_01
+    100178: ramshorn_andre_temp_rig_model:grp_CC_Right_knee_01
+    100180: ramshorn_andre_temp_rig_model:grp_CC_RightElbow_01
+    100182: ramshorn_andre_temp_rig_model:grp_CC_RightFoot_01
+    100184: ramshorn_andre_temp_rig_model:grp_CC_RightHand_01
+    100186: ramshorn_andre_temp_rig_model:grp_CC_RightShoulder_01
+    100188: ramshorn_andre_temp_rig_model:grp_CC_shoulders_01
+    100190: ramshorn_andre_temp_rig_model:grp_CC_spine_FK_01
+    100192: ramshorn_andre_temp_rig_model:grp_control_curves_01
+    100194: ramshorn_andre_temp_rig_model:grp_geo_01
+    100196: ramshorn_andre_temp_rig_model:grp_ikHandles_01
+    100198: ramshorn_andre_temp_rig_model:grp_ikSC_spine_1_01
+    100200: ramshorn_andre_temp_rig_model:grp_ikSC_spine_2_01
+    100202: ramshorn_andre_temp_rig_model:grp_ikSC_spine_3_01
+    100204: ramshorn_andre_temp_rig_model:grp_ikSC_spine_4_01
+    100206: ramshorn_andre_temp_rig_model:grp_joints_01
+    100208: ramshorn_andre_temp_rig_model:grp_l_footRoll_01
+    100210: ramshorn_andre_temp_rig_model:grp_Left_Finger_Control
+    100212: ramshorn_andre_temp_rig_model:grp_locMatch_l_ankle_01
+    100214: ramshorn_andre_temp_rig_model:grp_locMatch_l_innerBank_01
+    100216: ramshorn_andre_temp_rig_model:grp_locMatch_l_outerBank_01
+    100218: ramshorn_andre_temp_rig_model:grp_locMatch_r_ankle_01
+    100220: ramshorn_andre_temp_rig_model:grp_locMatch_r_innerBank_01
+    100222: ramshorn_andre_temp_rig_model:grp_locMatch_r_outerBank_01
+    100224: ramshorn_andre_temp_rig_model:grp_r_footRoll_01
+    100226: ramshorn_andre_temp_rig_model:grp_Right_Finger_Control
+    100228: ramshorn_andre_temp_rig_model:ik_Charger_LeftArm_01
+    100230: ramshorn_andre_temp_rig_model:ik_Charger_RightArm_01
+    100232: ramshorn_andre_temp_rig_model:ikRP_l_upperKnee_01
+    100234: ramshorn_andre_temp_rig_model:ikRP_r_upperKnee_01
+    100236: ramshorn_andre_temp_rig_model:ikSC_ankle_foot_01
+    100238: ramshorn_andre_temp_rig_model:ikSC_ankle_foot_01 1
+    100240: ramshorn_andre_temp_rig_model:ikSC_Charger_LeftShoulder_01
+    100242: ramshorn_andre_temp_rig_model:ikSC_Charger_RightShoulder_01
+    100244: ramshorn_andre_temp_rig_model:ikSC_low_foot_01
+    100246: ramshorn_andre_temp_rig_model:ikSC_low_foot_01 1
+    100248: ramshorn_andre_temp_rig_model:ikSC_spine_1_01
+    100250: ramshorn_andre_temp_rig_model:ikSC_spine_2_01
+    100252: ramshorn_andre_temp_rig_model:ikSC_spine_3_01
+    100254: ramshorn_andre_temp_rig_model:ikSC_spine_4_01
+    100256: ramshorn_andre_temp_rig_model:ikSC_upp_foot_01
+    100258: ramshorn_andre_temp_rig_model:ikSC_upp_foot_01 1
+    100260: ramshorn_andre_temp_rig_model:Left_Finger_Control
+    100262: ramshorn_andre_temp_rig_model:locMatch_l_ankle_01
+    100264: ramshorn_andre_temp_rig_model:locMatch_l_ball_01
+    100266: ramshorn_andre_temp_rig_model:locMatch_l_heel_01
+    100268: ramshorn_andre_temp_rig_model:locMatch_l_innerBank_01
+    100270: ramshorn_andre_temp_rig_model:locMatch_l_outerBank_01
+    100272: ramshorn_andre_temp_rig_model:locMatch_l_toe_01
+    100274: ramshorn_andre_temp_rig_model:locMatch_r_ankle_01
+    100276: ramshorn_andre_temp_rig_model:locMatch_r_ball_01
+    100278: ramshorn_andre_temp_rig_model:locMatch_r_heel_01
+    100280: ramshorn_andre_temp_rig_model:locMatch_r_innerBank_01
+    100282: ramshorn_andre_temp_rig_model:locMatch_r_outerBank_01
+    100284: ramshorn_andre_temp_rig_model:locMatch_r_toe_01
+    100286: ramshorn_andre_temp_rig_model:Right_Finger_Control
+    100288: ramshorn_andre_temp_rig_model:Spine1
+    100290: ramshorn_andre_temp_rig_model:Teeth1
+    400000: //RootNode
+    400002: ramshorn_andre_temp_rig_model:Bone1
+    400004: ramshorn_andre_temp_rig_model:CC_Charger_Global_01
+    400006: ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01
+    400008: ramshorn_andre_temp_rig_model:CC_COG_hips_01
+    400010: ramshorn_andre_temp_rig_model:CC_head_01
+    400012: ramshorn_andre_temp_rig_model:CC_hips_01
+    400014: ramshorn_andre_temp_rig_model:cc_l_footRoll_01
+    400016: ramshorn_andre_temp_rig_model:CC_Left_knee_01
+    400018: ramshorn_andre_temp_rig_model:CC_LeftElbow_01
+    400020: ramshorn_andre_temp_rig_model:CC_LeftFoot_01
+    400022: ramshorn_andre_temp_rig_model:CC_LeftHand_01
+    400024: ramshorn_andre_temp_rig_model:CC_LeftShoulder_01
+    400026: ramshorn_andre_temp_rig_model:CC_neck_01
+    400028: ramshorn_andre_temp_rig_model:cc_r_footRoll_01
+    400030: ramshorn_andre_temp_rig_model:CC_Right_knee_01
+    400032: ramshorn_andre_temp_rig_model:CC_RightElbow_01
+    400034: ramshorn_andre_temp_rig_model:CC_RightFoot_01
+    400036: ramshorn_andre_temp_rig_model:CC_RightHand_01
+    400038: ramshorn_andre_temp_rig_model:CC_RightShoulder_01
+    400040: ramshorn_andre_temp_rig_model:CC_shoulders_01
+    400042: ramshorn_andre_temp_rig_model:CC_spine_FK_01
+    400044: ramshorn_andre_temp_rig_model:Charger_Head
+    400046: ramshorn_andre_temp_rig_model:Charger_Head_end
+    400048: ramshorn_andre_temp_rig_model:Charger_hips
+    400050: ramshorn_andre_temp_rig_model:Charger_LeftArm
+    400052: ramshorn_andre_temp_rig_model:Charger_LeftFoot
+    400054: ramshorn_andre_temp_rig_model:Charger_LeftForeArm
+    400056: ramshorn_andre_temp_rig_model:Charger_LeftHand
+    400058: ramshorn_andre_temp_rig_model:Charger_LeftHandIndex1
+    400060: ramshorn_andre_temp_rig_model:Charger_LeftHandIndex2
+    400062: ramshorn_andre_temp_rig_model:Charger_LeftHandIndex3
+    400064: ramshorn_andre_temp_rig_model:Charger_LeftHandMiddle1
+    400066: ramshorn_andre_temp_rig_model:Charger_LeftHandMiddle2
+    400068: ramshorn_andre_temp_rig_model:Charger_LeftHandMiddle3
+    400070: ramshorn_andre_temp_rig_model:Charger_LeftHandRing1
+    400072: ramshorn_andre_temp_rig_model:Charger_LeftHandRing2
+    400074: ramshorn_andre_temp_rig_model:Charger_LeftHandRing3
+    400076: ramshorn_andre_temp_rig_model:Charger_LeftHandThumb1
+    400078: ramshorn_andre_temp_rig_model:Charger_LeftHandThumb2
+    400080: ramshorn_andre_temp_rig_model:Charger_LeftHandThumb3
+    400082: ramshorn_andre_temp_rig_model:Charger_LeftKnee
+    400084: ramshorn_andre_temp_rig_model:Charger_LeftLeg
+    400086: ramshorn_andre_temp_rig_model:Charger_LeftShoulder
+    400088: ramshorn_andre_temp_rig_model:Charger_LeftToeBase
+    400090: ramshorn_andre_temp_rig_model:Charger_LeftToeEnd
+    400092: ramshorn_andre_temp_rig_model:Charger_LeftUpLeg
+    400094: ramshorn_andre_temp_rig_model:Charger_Neck
+    400096: ramshorn_andre_temp_rig_model:Charger_Reference
+    400098: ramshorn_andre_temp_rig_model:Charger_RightArm
+    400100: ramshorn_andre_temp_rig_model:Charger_RightFoot
+    400102: ramshorn_andre_temp_rig_model:Charger_RightForeArm
+    400104: ramshorn_andre_temp_rig_model:Charger_RightHand
+    400106: ramshorn_andre_temp_rig_model:Charger_RightHandIndex1
+    400108: ramshorn_andre_temp_rig_model:Charger_RightHandIndex2
+    400110: ramshorn_andre_temp_rig_model:Charger_RightHandIndex3
+    400112: ramshorn_andre_temp_rig_model:Charger_RightHandMiddle1
+    400114: ramshorn_andre_temp_rig_model:Charger_RightHandMiddle2
+    400116: ramshorn_andre_temp_rig_model:Charger_RightHandMiddle3
+    400118: ramshorn_andre_temp_rig_model:Charger_RightHandRing1
+    400120: ramshorn_andre_temp_rig_model:Charger_RightHandRing2
+    400122: ramshorn_andre_temp_rig_model:Charger_RightHandRing3
+    400124: ramshorn_andre_temp_rig_model:Charger_RightHandThumb1
+    400126: ramshorn_andre_temp_rig_model:Charger_RightHandThumb2
+    400128: ramshorn_andre_temp_rig_model:Charger_RightHandThumb3
+    400130: ramshorn_andre_temp_rig_model:Charger_RightKnee
+    400132: ramshorn_andre_temp_rig_model:Charger_RightLeg
+    400134: ramshorn_andre_temp_rig_model:Charger_RightShoulder
+    400136: ramshorn_andre_temp_rig_model:Charger_RightToeBase
+    400138: ramshorn_andre_temp_rig_model:Charger_RightUpLeg
+    400140: ramshorn_andre_temp_rig_model:Charger_RitghtToeEnd
+    400142: ramshorn_andre_temp_rig_model:Charger_Root
+    400144: ramshorn_andre_temp_rig_model:Charger_Spine_1_01
+    400146: ramshorn_andre_temp_rig_model:Charger_Spine_2_01
+    400148: ramshorn_andre_temp_rig_model:Charger_Spine_3_01
+    400150: ramshorn_andre_temp_rig_model:Charger_Spine_3_01 1
+    400152: ramshorn_andre_temp_rig_model:Chargers1
+    400154: ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01
+    400156: ramshorn_andre_temp_rig_model:grp_CC_COG_hips_01
+    400158: ramshorn_andre_temp_rig_model:grp_CC_head_01
+    400160: ramshorn_andre_temp_rig_model:grp_CC_hips_01
+    400162: ramshorn_andre_temp_rig_model:grp_cc_l_footRoll_01
+    400164: ramshorn_andre_temp_rig_model:grp_CC_Left_knee_01
+    400166: ramshorn_andre_temp_rig_model:grp_CC_LeftElbow_01
+    400168: ramshorn_andre_temp_rig_model:grp_CC_LeftFoot_01
+    400170: ramshorn_andre_temp_rig_model:grp_CC_LeftHand_01
+    400172: ramshorn_andre_temp_rig_model:grp_CC_LeftShoulder_01
+    400174: ramshorn_andre_temp_rig_model:grp_CC_neck_01
+    400176: ramshorn_andre_temp_rig_model:grp_cc_r_footRoll_01
+    400178: ramshorn_andre_temp_rig_model:grp_CC_Right_knee_01
+    400180: ramshorn_andre_temp_rig_model:grp_CC_RightElbow_01
+    400182: ramshorn_andre_temp_rig_model:grp_CC_RightFoot_01
+    400184: ramshorn_andre_temp_rig_model:grp_CC_RightHand_01
+    400186: ramshorn_andre_temp_rig_model:grp_CC_RightShoulder_01
+    400188: ramshorn_andre_temp_rig_model:grp_CC_shoulders_01
+    400190: ramshorn_andre_temp_rig_model:grp_CC_spine_FK_01
+    400192: ramshorn_andre_temp_rig_model:grp_control_curves_01
+    400194: ramshorn_andre_temp_rig_model:grp_geo_01
+    400196: ramshorn_andre_temp_rig_model:grp_ikHandles_01
+    400198: ramshorn_andre_temp_rig_model:grp_ikSC_spine_1_01
+    400200: ramshorn_andre_temp_rig_model:grp_ikSC_spine_2_01
+    400202: ramshorn_andre_temp_rig_model:grp_ikSC_spine_3_01
+    400204: ramshorn_andre_temp_rig_model:grp_ikSC_spine_4_01
+    400206: ramshorn_andre_temp_rig_model:grp_joints_01
+    400208: ramshorn_andre_temp_rig_model:grp_l_footRoll_01
+    400210: ramshorn_andre_temp_rig_model:grp_Left_Finger_Control
+    400212: ramshorn_andre_temp_rig_model:grp_locMatch_l_ankle_01
+    400214: ramshorn_andre_temp_rig_model:grp_locMatch_l_innerBank_01
+    400216: ramshorn_andre_temp_rig_model:grp_locMatch_l_outerBank_01
+    400218: ramshorn_andre_temp_rig_model:grp_locMatch_r_ankle_01
+    400220: ramshorn_andre_temp_rig_model:grp_locMatch_r_innerBank_01
+    400222: ramshorn_andre_temp_rig_model:grp_locMatch_r_outerBank_01
+    400224: ramshorn_andre_temp_rig_model:grp_r_footRoll_01
+    400226: ramshorn_andre_temp_rig_model:grp_Right_Finger_Control
+    400228: ramshorn_andre_temp_rig_model:ik_Charger_LeftArm_01
+    400230: ramshorn_andre_temp_rig_model:ik_Charger_RightArm_01
+    400232: ramshorn_andre_temp_rig_model:ikRP_l_upperKnee_01
+    400234: ramshorn_andre_temp_rig_model:ikRP_r_upperKnee_01
+    400236: ramshorn_andre_temp_rig_model:ikSC_ankle_foot_01
+    400238: ramshorn_andre_temp_rig_model:ikSC_ankle_foot_01 1
+    400240: ramshorn_andre_temp_rig_model:ikSC_Charger_LeftShoulder_01
+    400242: ramshorn_andre_temp_rig_model:ikSC_Charger_RightShoulder_01
+    400244: ramshorn_andre_temp_rig_model:ikSC_low_foot_01
+    400246: ramshorn_andre_temp_rig_model:ikSC_low_foot_01 1
+    400248: ramshorn_andre_temp_rig_model:ikSC_spine_1_01
+    400250: ramshorn_andre_temp_rig_model:ikSC_spine_2_01
+    400252: ramshorn_andre_temp_rig_model:ikSC_spine_3_01
+    400254: ramshorn_andre_temp_rig_model:ikSC_spine_4_01
+    400256: ramshorn_andre_temp_rig_model:ikSC_upp_foot_01
+    400258: ramshorn_andre_temp_rig_model:ikSC_upp_foot_01 1
+    400260: ramshorn_andre_temp_rig_model:Left_Finger_Control
+    400262: ramshorn_andre_temp_rig_model:locMatch_l_ankle_01
+    400264: ramshorn_andre_temp_rig_model:locMatch_l_ball_01
+    400266: ramshorn_andre_temp_rig_model:locMatch_l_heel_01
+    400268: ramshorn_andre_temp_rig_model:locMatch_l_innerBank_01
+    400270: ramshorn_andre_temp_rig_model:locMatch_l_outerBank_01
+    400272: ramshorn_andre_temp_rig_model:locMatch_l_toe_01
+    400274: ramshorn_andre_temp_rig_model:locMatch_r_ankle_01
+    400276: ramshorn_andre_temp_rig_model:locMatch_r_ball_01
+    400278: ramshorn_andre_temp_rig_model:locMatch_r_heel_01
+    400280: ramshorn_andre_temp_rig_model:locMatch_r_innerBank_01
+    400282: ramshorn_andre_temp_rig_model:locMatch_r_outerBank_01
+    400284: ramshorn_andre_temp_rig_model:locMatch_r_toe_01
+    400286: ramshorn_andre_temp_rig_model:Right_Finger_Control
+    400288: ramshorn_andre_temp_rig_model:Spine1
+    400290: ramshorn_andre_temp_rig_model:Teeth1
+    4300000: ramshorn_andre_temp_rig_model:Chargers1
+    4300002: ramshorn_andre_temp_rig_model:Spine1
+    4300004: ramshorn_andre_temp_rig_model:Bone1
+    4300006: ramshorn_andre_temp_rig_model:Teeth1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: ramshorn_andre_temp_rig_model:Bone1
+    13700002: ramshorn_andre_temp_rig_model:Chargers1
+    13700004: ramshorn_andre_temp_rig_model:Spine1
+    13700006: ramshorn_andre_temp_rig_model:Teeth1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_COG_hips_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_COG_hips_01/ramshorn_andre_temp_rig_model:CC_COG_hips_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_COG_hips_01/ramshorn_andre_temp_rig_model:CC_COG_hips_01/ramshorn_andre_temp_rig_model:grp_CC_hips_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_COG_hips_01/ramshorn_andre_temp_rig_model:CC_COG_hips_01/ramshorn_andre_temp_rig_model:grp_CC_hips_01/ramshorn_andre_temp_rig_model:CC_hips_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_COG_hips_01/ramshorn_andre_temp_rig_model:CC_COG_hips_01/ramshorn_andre_temp_rig_model:grp_CC_shoulders_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_COG_hips_01/ramshorn_andre_temp_rig_model:CC_COG_hips_01/ramshorn_andre_temp_rig_model:grp_CC_shoulders_01/ramshorn_andre_temp_rig_model:CC_shoulders_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_COG_hips_01/ramshorn_andre_temp_rig_model:CC_COG_hips_01/ramshorn_andre_temp_rig_model:grp_CC_spine_FK_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_COG_hips_01/ramshorn_andre_temp_rig_model:CC_COG_hips_01/ramshorn_andre_temp_rig_model:grp_CC_spine_FK_01/ramshorn_andre_temp_rig_model:CC_spine_FK_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_Left_knee_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_Left_knee_01/ramshorn_andre_temp_rig_model:CC_Left_knee_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_LeftElbow_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_LeftElbow_01/ramshorn_andre_temp_rig_model:CC_LeftElbow_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_LeftFoot_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_LeftFoot_01/ramshorn_andre_temp_rig_model:CC_LeftFoot_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_LeftFoot_01/ramshorn_andre_temp_rig_model:CC_LeftFoot_01/ramshorn_andre_temp_rig_model:grp_cc_l_footRoll_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_LeftFoot_01/ramshorn_andre_temp_rig_model:CC_LeftFoot_01/ramshorn_andre_temp_rig_model:grp_cc_l_footRoll_01/ramshorn_andre_temp_rig_model:cc_l_footRoll_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_LeftFoot_01/ramshorn_andre_temp_rig_model:CC_LeftFoot_01/ramshorn_andre_temp_rig_model:grp_cc_l_footRoll_01/ramshorn_andre_temp_rig_model:grp_l_footRoll_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_LeftFoot_01/ramshorn_andre_temp_rig_model:CC_LeftFoot_01/ramshorn_andre_temp_rig_model:grp_cc_l_footRoll_01/ramshorn_andre_temp_rig_model:grp_l_footRoll_01/ramshorn_andre_temp_rig_model:locMatch_l_toe_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_LeftFoot_01/ramshorn_andre_temp_rig_model:CC_LeftFoot_01/ramshorn_andre_temp_rig_model:grp_cc_l_footRoll_01/ramshorn_andre_temp_rig_model:grp_l_footRoll_01/ramshorn_andre_temp_rig_model:locMatch_l_toe_01/ramshorn_andre_temp_rig_model:grp_locMatch_l_ankle_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_LeftFoot_01/ramshorn_andre_temp_rig_model:CC_LeftFoot_01/ramshorn_andre_temp_rig_model:grp_cc_l_footRoll_01/ramshorn_andre_temp_rig_model:grp_l_footRoll_01/ramshorn_andre_temp_rig_model:locMatch_l_toe_01/ramshorn_andre_temp_rig_model:grp_locMatch_l_ankle_01/ramshorn_andre_temp_rig_model:locMatch_l_ankle_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_LeftFoot_01/ramshorn_andre_temp_rig_model:CC_LeftFoot_01/ramshorn_andre_temp_rig_model:grp_cc_l_footRoll_01/ramshorn_andre_temp_rig_model:grp_l_footRoll_01/ramshorn_andre_temp_rig_model:locMatch_l_toe_01/ramshorn_andre_temp_rig_model:grp_locMatch_l_ankle_01/ramshorn_andre_temp_rig_model:locMatch_l_ankle_01/ramshorn_andre_temp_rig_model:grp_locMatch_l_innerBank_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_LeftFoot_01/ramshorn_andre_temp_rig_model:CC_LeftFoot_01/ramshorn_andre_temp_rig_model:grp_cc_l_footRoll_01/ramshorn_andre_temp_rig_model:grp_l_footRoll_01/ramshorn_andre_temp_rig_model:locMatch_l_toe_01/ramshorn_andre_temp_rig_model:grp_locMatch_l_ankle_01/ramshorn_andre_temp_rig_model:locMatch_l_ankle_01/ramshorn_andre_temp_rig_model:grp_locMatch_l_innerBank_01/ramshorn_andre_temp_rig_model:locMatch_l_innerBank_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_LeftFoot_01/ramshorn_andre_temp_rig_model:CC_LeftFoot_01/ramshorn_andre_temp_rig_model:grp_cc_l_footRoll_01/ramshorn_andre_temp_rig_model:grp_l_footRoll_01/ramshorn_andre_temp_rig_model:locMatch_l_toe_01/ramshorn_andre_temp_rig_model:grp_locMatch_l_ankle_01/ramshorn_andre_temp_rig_model:locMatch_l_ankle_01/ramshorn_andre_temp_rig_model:grp_locMatch_l_innerBank_01/ramshorn_andre_temp_rig_model:locMatch_l_innerBank_01/ramshorn_andre_temp_rig_model:grp_locMatch_l_outerBank_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_LeftFoot_01/ramshorn_andre_temp_rig_model:CC_LeftFoot_01/ramshorn_andre_temp_rig_model:grp_cc_l_footRoll_01/ramshorn_andre_temp_rig_model:grp_l_footRoll_01/ramshorn_andre_temp_rig_model:locMatch_l_toe_01/ramshorn_andre_temp_rig_model:grp_locMatch_l_ankle_01/ramshorn_andre_temp_rig_model:locMatch_l_ankle_01/ramshorn_andre_temp_rig_model:grp_locMatch_l_innerBank_01/ramshorn_andre_temp_rig_model:locMatch_l_innerBank_01/ramshorn_andre_temp_rig_model:grp_locMatch_l_outerBank_01/ramshorn_andre_temp_rig_model:locMatch_l_outerBank_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_LeftFoot_01/ramshorn_andre_temp_rig_model:CC_LeftFoot_01/ramshorn_andre_temp_rig_model:grp_cc_l_footRoll_01/ramshorn_andre_temp_rig_model:grp_l_footRoll_01/ramshorn_andre_temp_rig_model:locMatch_l_toe_01/ramshorn_andre_temp_rig_model:grp_locMatch_l_ankle_01/ramshorn_andre_temp_rig_model:locMatch_l_ankle_01/ramshorn_andre_temp_rig_model:grp_locMatch_l_innerBank_01/ramshorn_andre_temp_rig_model:locMatch_l_innerBank_01/ramshorn_andre_temp_rig_model:grp_locMatch_l_outerBank_01/ramshorn_andre_temp_rig_model:locMatch_l_outerBank_01/ramshorn_andre_temp_rig_model:locMatch_l_heel_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_LeftFoot_01/ramshorn_andre_temp_rig_model:CC_LeftFoot_01/ramshorn_andre_temp_rig_model:grp_cc_l_footRoll_01/ramshorn_andre_temp_rig_model:grp_l_footRoll_01/ramshorn_andre_temp_rig_model:locMatch_l_toe_01/ramshorn_andre_temp_rig_model:grp_locMatch_l_ankle_01/ramshorn_andre_temp_rig_model:locMatch_l_ankle_01/ramshorn_andre_temp_rig_model:grp_locMatch_l_innerBank_01/ramshorn_andre_temp_rig_model:locMatch_l_innerBank_01/ramshorn_andre_temp_rig_model:grp_locMatch_l_outerBank_01/ramshorn_andre_temp_rig_model:locMatch_l_outerBank_01/ramshorn_andre_temp_rig_model:locMatch_l_heel_01/ramshorn_andre_temp_rig_model:ikSC_ankle_foot_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_LeftFoot_01/ramshorn_andre_temp_rig_model:CC_LeftFoot_01/ramshorn_andre_temp_rig_model:grp_cc_l_footRoll_01/ramshorn_andre_temp_rig_model:grp_l_footRoll_01/ramshorn_andre_temp_rig_model:locMatch_l_toe_01/ramshorn_andre_temp_rig_model:grp_locMatch_l_ankle_01/ramshorn_andre_temp_rig_model:locMatch_l_ankle_01/ramshorn_andre_temp_rig_model:grp_locMatch_l_innerBank_01/ramshorn_andre_temp_rig_model:locMatch_l_innerBank_01/ramshorn_andre_temp_rig_model:grp_locMatch_l_outerBank_01/ramshorn_andre_temp_rig_model:locMatch_l_outerBank_01/ramshorn_andre_temp_rig_model:locMatch_l_heel_01/ramshorn_andre_temp_rig_model:ikSC_low_foot_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_LeftFoot_01/ramshorn_andre_temp_rig_model:CC_LeftFoot_01/ramshorn_andre_temp_rig_model:grp_cc_l_footRoll_01/ramshorn_andre_temp_rig_model:grp_l_footRoll_01/ramshorn_andre_temp_rig_model:locMatch_l_toe_01/ramshorn_andre_temp_rig_model:grp_locMatch_l_ankle_01/ramshorn_andre_temp_rig_model:locMatch_l_ankle_01/ramshorn_andre_temp_rig_model:grp_locMatch_l_innerBank_01/ramshorn_andre_temp_rig_model:locMatch_l_innerBank_01/ramshorn_andre_temp_rig_model:grp_locMatch_l_outerBank_01/ramshorn_andre_temp_rig_model:locMatch_l_outerBank_01/ramshorn_andre_temp_rig_model:locMatch_l_heel_01/ramshorn_andre_temp_rig_model:ikSC_upp_foot_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_LeftFoot_01/ramshorn_andre_temp_rig_model:CC_LeftFoot_01/ramshorn_andre_temp_rig_model:grp_cc_l_footRoll_01/ramshorn_andre_temp_rig_model:grp_l_footRoll_01/ramshorn_andre_temp_rig_model:locMatch_l_toe_01/ramshorn_andre_temp_rig_model:grp_locMatch_l_ankle_01/ramshorn_andre_temp_rig_model:locMatch_l_ankle_01/ramshorn_andre_temp_rig_model:grp_locMatch_l_innerBank_01/ramshorn_andre_temp_rig_model:locMatch_l_innerBank_01/ramshorn_andre_temp_rig_model:grp_locMatch_l_outerBank_01/ramshorn_andre_temp_rig_model:locMatch_l_outerBank_01/ramshorn_andre_temp_rig_model:locMatch_l_heel_01/ramshorn_andre_temp_rig_model:locMatch_l_ball_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_LeftFoot_01/ramshorn_andre_temp_rig_model:CC_LeftFoot_01/ramshorn_andre_temp_rig_model:grp_cc_l_footRoll_01/ramshorn_andre_temp_rig_model:grp_l_footRoll_01/ramshorn_andre_temp_rig_model:locMatch_l_toe_01/ramshorn_andre_temp_rig_model:grp_locMatch_l_ankle_01/ramshorn_andre_temp_rig_model:locMatch_l_ankle_01/ramshorn_andre_temp_rig_model:grp_locMatch_l_innerBank_01/ramshorn_andre_temp_rig_model:locMatch_l_innerBank_01/ramshorn_andre_temp_rig_model:grp_locMatch_l_outerBank_01/ramshorn_andre_temp_rig_model:locMatch_l_outerBank_01/ramshorn_andre_temp_rig_model:locMatch_l_heel_01/ramshorn_andre_temp_rig_model:locMatch_l_ball_01/ramshorn_andre_temp_rig_model:ikRP_l_upperKnee_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_LeftHand_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_LeftHand_01/ramshorn_andre_temp_rig_model:CC_LeftHand_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_LeftShoulder_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_LeftShoulder_01/ramshorn_andre_temp_rig_model:CC_LeftShoulder_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_neck_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_neck_01/ramshorn_andre_temp_rig_model:CC_neck_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_neck_01/ramshorn_andre_temp_rig_model:CC_neck_01/ramshorn_andre_temp_rig_model:grp_CC_head_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_neck_01/ramshorn_andre_temp_rig_model:CC_neck_01/ramshorn_andre_temp_rig_model:grp_CC_head_01/ramshorn_andre_temp_rig_model:CC_head_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_Right_knee_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_Right_knee_01/ramshorn_andre_temp_rig_model:CC_Right_knee_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_RightElbow_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_RightElbow_01/ramshorn_andre_temp_rig_model:CC_RightElbow_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_RightFoot_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_RightFoot_01/ramshorn_andre_temp_rig_model:CC_RightFoot_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_RightFoot_01/ramshorn_andre_temp_rig_model:CC_RightFoot_01/ramshorn_andre_temp_rig_model:grp_cc_r_footRoll_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_RightFoot_01/ramshorn_andre_temp_rig_model:CC_RightFoot_01/ramshorn_andre_temp_rig_model:grp_cc_r_footRoll_01/ramshorn_andre_temp_rig_model:cc_r_footRoll_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_RightFoot_01/ramshorn_andre_temp_rig_model:CC_RightFoot_01/ramshorn_andre_temp_rig_model:grp_cc_r_footRoll_01/ramshorn_andre_temp_rig_model:grp_r_footRoll_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_RightFoot_01/ramshorn_andre_temp_rig_model:CC_RightFoot_01/ramshorn_andre_temp_rig_model:grp_cc_r_footRoll_01/ramshorn_andre_temp_rig_model:grp_r_footRoll_01/ramshorn_andre_temp_rig_model:locMatch_r_toe_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_RightFoot_01/ramshorn_andre_temp_rig_model:CC_RightFoot_01/ramshorn_andre_temp_rig_model:grp_cc_r_footRoll_01/ramshorn_andre_temp_rig_model:grp_r_footRoll_01/ramshorn_andre_temp_rig_model:locMatch_r_toe_01/ramshorn_andre_temp_rig_model:grp_locMatch_r_ankle_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_RightFoot_01/ramshorn_andre_temp_rig_model:CC_RightFoot_01/ramshorn_andre_temp_rig_model:grp_cc_r_footRoll_01/ramshorn_andre_temp_rig_model:grp_r_footRoll_01/ramshorn_andre_temp_rig_model:locMatch_r_toe_01/ramshorn_andre_temp_rig_model:grp_locMatch_r_ankle_01/ramshorn_andre_temp_rig_model:locMatch_r_ankle_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_RightFoot_01/ramshorn_andre_temp_rig_model:CC_RightFoot_01/ramshorn_andre_temp_rig_model:grp_cc_r_footRoll_01/ramshorn_andre_temp_rig_model:grp_r_footRoll_01/ramshorn_andre_temp_rig_model:locMatch_r_toe_01/ramshorn_andre_temp_rig_model:grp_locMatch_r_ankle_01/ramshorn_andre_temp_rig_model:locMatch_r_ankle_01/ramshorn_andre_temp_rig_model:grp_locMatch_r_innerBank_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_RightFoot_01/ramshorn_andre_temp_rig_model:CC_RightFoot_01/ramshorn_andre_temp_rig_model:grp_cc_r_footRoll_01/ramshorn_andre_temp_rig_model:grp_r_footRoll_01/ramshorn_andre_temp_rig_model:locMatch_r_toe_01/ramshorn_andre_temp_rig_model:grp_locMatch_r_ankle_01/ramshorn_andre_temp_rig_model:locMatch_r_ankle_01/ramshorn_andre_temp_rig_model:grp_locMatch_r_innerBank_01/ramshorn_andre_temp_rig_model:locMatch_r_innerBank_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_RightFoot_01/ramshorn_andre_temp_rig_model:CC_RightFoot_01/ramshorn_andre_temp_rig_model:grp_cc_r_footRoll_01/ramshorn_andre_temp_rig_model:grp_r_footRoll_01/ramshorn_andre_temp_rig_model:locMatch_r_toe_01/ramshorn_andre_temp_rig_model:grp_locMatch_r_ankle_01/ramshorn_andre_temp_rig_model:locMatch_r_ankle_01/ramshorn_andre_temp_rig_model:grp_locMatch_r_innerBank_01/ramshorn_andre_temp_rig_model:locMatch_r_innerBank_01/ramshorn_andre_temp_rig_model:grp_locMatch_r_outerBank_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_RightFoot_01/ramshorn_andre_temp_rig_model:CC_RightFoot_01/ramshorn_andre_temp_rig_model:grp_cc_r_footRoll_01/ramshorn_andre_temp_rig_model:grp_r_footRoll_01/ramshorn_andre_temp_rig_model:locMatch_r_toe_01/ramshorn_andre_temp_rig_model:grp_locMatch_r_ankle_01/ramshorn_andre_temp_rig_model:locMatch_r_ankle_01/ramshorn_andre_temp_rig_model:grp_locMatch_r_innerBank_01/ramshorn_andre_temp_rig_model:locMatch_r_innerBank_01/ramshorn_andre_temp_rig_model:grp_locMatch_r_outerBank_01/ramshorn_andre_temp_rig_model:locMatch_r_outerBank_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_RightFoot_01/ramshorn_andre_temp_rig_model:CC_RightFoot_01/ramshorn_andre_temp_rig_model:grp_cc_r_footRoll_01/ramshorn_andre_temp_rig_model:grp_r_footRoll_01/ramshorn_andre_temp_rig_model:locMatch_r_toe_01/ramshorn_andre_temp_rig_model:grp_locMatch_r_ankle_01/ramshorn_andre_temp_rig_model:locMatch_r_ankle_01/ramshorn_andre_temp_rig_model:grp_locMatch_r_innerBank_01/ramshorn_andre_temp_rig_model:locMatch_r_innerBank_01/ramshorn_andre_temp_rig_model:grp_locMatch_r_outerBank_01/ramshorn_andre_temp_rig_model:locMatch_r_outerBank_01/ramshorn_andre_temp_rig_model:locMatch_r_heel_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_RightFoot_01/ramshorn_andre_temp_rig_model:CC_RightFoot_01/ramshorn_andre_temp_rig_model:grp_cc_r_footRoll_01/ramshorn_andre_temp_rig_model:grp_r_footRoll_01/ramshorn_andre_temp_rig_model:locMatch_r_toe_01/ramshorn_andre_temp_rig_model:grp_locMatch_r_ankle_01/ramshorn_andre_temp_rig_model:locMatch_r_ankle_01/ramshorn_andre_temp_rig_model:grp_locMatch_r_innerBank_01/ramshorn_andre_temp_rig_model:locMatch_r_innerBank_01/ramshorn_andre_temp_rig_model:grp_locMatch_r_outerBank_01/ramshorn_andre_temp_rig_model:locMatch_r_outerBank_01/ramshorn_andre_temp_rig_model:locMatch_r_heel_01/ramshorn_andre_temp_rig_model:ikSC_ankle_foot_01
+          1
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_RightFoot_01/ramshorn_andre_temp_rig_model:CC_RightFoot_01/ramshorn_andre_temp_rig_model:grp_cc_r_footRoll_01/ramshorn_andre_temp_rig_model:grp_r_footRoll_01/ramshorn_andre_temp_rig_model:locMatch_r_toe_01/ramshorn_andre_temp_rig_model:grp_locMatch_r_ankle_01/ramshorn_andre_temp_rig_model:locMatch_r_ankle_01/ramshorn_andre_temp_rig_model:grp_locMatch_r_innerBank_01/ramshorn_andre_temp_rig_model:locMatch_r_innerBank_01/ramshorn_andre_temp_rig_model:grp_locMatch_r_outerBank_01/ramshorn_andre_temp_rig_model:locMatch_r_outerBank_01/ramshorn_andre_temp_rig_model:locMatch_r_heel_01/ramshorn_andre_temp_rig_model:ikSC_low_foot_01
+          1
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_RightFoot_01/ramshorn_andre_temp_rig_model:CC_RightFoot_01/ramshorn_andre_temp_rig_model:grp_cc_r_footRoll_01/ramshorn_andre_temp_rig_model:grp_r_footRoll_01/ramshorn_andre_temp_rig_model:locMatch_r_toe_01/ramshorn_andre_temp_rig_model:grp_locMatch_r_ankle_01/ramshorn_andre_temp_rig_model:locMatch_r_ankle_01/ramshorn_andre_temp_rig_model:grp_locMatch_r_innerBank_01/ramshorn_andre_temp_rig_model:locMatch_r_innerBank_01/ramshorn_andre_temp_rig_model:grp_locMatch_r_outerBank_01/ramshorn_andre_temp_rig_model:locMatch_r_outerBank_01/ramshorn_andre_temp_rig_model:locMatch_r_heel_01/ramshorn_andre_temp_rig_model:ikSC_upp_foot_01
+          1
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_RightFoot_01/ramshorn_andre_temp_rig_model:CC_RightFoot_01/ramshorn_andre_temp_rig_model:grp_cc_r_footRoll_01/ramshorn_andre_temp_rig_model:grp_r_footRoll_01/ramshorn_andre_temp_rig_model:locMatch_r_toe_01/ramshorn_andre_temp_rig_model:grp_locMatch_r_ankle_01/ramshorn_andre_temp_rig_model:locMatch_r_ankle_01/ramshorn_andre_temp_rig_model:grp_locMatch_r_innerBank_01/ramshorn_andre_temp_rig_model:locMatch_r_innerBank_01/ramshorn_andre_temp_rig_model:grp_locMatch_r_outerBank_01/ramshorn_andre_temp_rig_model:locMatch_r_outerBank_01/ramshorn_andre_temp_rig_model:locMatch_r_heel_01/ramshorn_andre_temp_rig_model:locMatch_r_ball_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_RightFoot_01/ramshorn_andre_temp_rig_model:CC_RightFoot_01/ramshorn_andre_temp_rig_model:grp_cc_r_footRoll_01/ramshorn_andre_temp_rig_model:grp_r_footRoll_01/ramshorn_andre_temp_rig_model:locMatch_r_toe_01/ramshorn_andre_temp_rig_model:grp_locMatch_r_ankle_01/ramshorn_andre_temp_rig_model:locMatch_r_ankle_01/ramshorn_andre_temp_rig_model:grp_locMatch_r_innerBank_01/ramshorn_andre_temp_rig_model:locMatch_r_innerBank_01/ramshorn_andre_temp_rig_model:grp_locMatch_r_outerBank_01/ramshorn_andre_temp_rig_model:locMatch_r_outerBank_01/ramshorn_andre_temp_rig_model:locMatch_r_heel_01/ramshorn_andre_temp_rig_model:locMatch_r_ball_01/ramshorn_andre_temp_rig_model:ikRP_r_upperKnee_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_RightHand_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_RightHand_01/ramshorn_andre_temp_rig_model:CC_RightHand_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_RightShoulder_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_CC_RightShoulder_01/ramshorn_andre_temp_rig_model:CC_RightShoulder_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_Left_Finger_Control
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_Left_Finger_Control/ramshorn_andre_temp_rig_model:Left_Finger_Control
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_Right_Finger_Control
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_control_curves_01/ramshorn_andre_temp_rig_model:CC_Charger_Global_01/ramshorn_andre_temp_rig_model:grp_CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:CC_Charger_innerGlobal_01/ramshorn_andre_temp_rig_model:grp_Right_Finger_Control/ramshorn_andre_temp_rig_model:Right_Finger_Control
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_geo_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_geo_01/ramshorn_andre_temp_rig_model:Bone1
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_geo_01/ramshorn_andre_temp_rig_model:Chargers1
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_geo_01/ramshorn_andre_temp_rig_model:Spine1
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_geo_01/ramshorn_andre_temp_rig_model:Teeth1
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_ikHandles_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_ikHandles_01/ramshorn_andre_temp_rig_model:grp_ikSC_spine_1_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_ikHandles_01/ramshorn_andre_temp_rig_model:grp_ikSC_spine_1_01/ramshorn_andre_temp_rig_model:ikSC_spine_1_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_ikHandles_01/ramshorn_andre_temp_rig_model:grp_ikSC_spine_2_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_ikHandles_01/ramshorn_andre_temp_rig_model:grp_ikSC_spine_2_01/ramshorn_andre_temp_rig_model:ikSC_spine_2_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_ikHandles_01/ramshorn_andre_temp_rig_model:grp_ikSC_spine_3_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_ikHandles_01/ramshorn_andre_temp_rig_model:grp_ikSC_spine_3_01/ramshorn_andre_temp_rig_model:ikSC_spine_3_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_ikHandles_01/ramshorn_andre_temp_rig_model:grp_ikSC_spine_4_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_ikHandles_01/ramshorn_andre_temp_rig_model:grp_ikSC_spine_4_01/ramshorn_andre_temp_rig_model:ikSC_spine_4_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_ikHandles_01/ramshorn_andre_temp_rig_model:ik_Charger_LeftArm_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_ikHandles_01/ramshorn_andre_temp_rig_model:ik_Charger_RightArm_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_ikHandles_01/ramshorn_andre_temp_rig_model:ikSC_Charger_LeftShoulder_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_ikHandles_01/ramshorn_andre_temp_rig_model:ikSC_Charger_RightShoulder_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_LeftUpLeg
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_LeftUpLeg/ramshorn_andre_temp_rig_model:Charger_LeftKnee
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_LeftUpLeg/ramshorn_andre_temp_rig_model:Charger_LeftKnee/ramshorn_andre_temp_rig_model:Charger_LeftLeg
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_LeftUpLeg/ramshorn_andre_temp_rig_model:Charger_LeftKnee/ramshorn_andre_temp_rig_model:Charger_LeftLeg/ramshorn_andre_temp_rig_model:Charger_LeftFoot
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_LeftUpLeg/ramshorn_andre_temp_rig_model:Charger_LeftKnee/ramshorn_andre_temp_rig_model:Charger_LeftLeg/ramshorn_andre_temp_rig_model:Charger_LeftFoot/ramshorn_andre_temp_rig_model:Charger_LeftToeBase
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_LeftUpLeg/ramshorn_andre_temp_rig_model:Charger_LeftKnee/ramshorn_andre_temp_rig_model:Charger_LeftLeg/ramshorn_andre_temp_rig_model:Charger_LeftFoot/ramshorn_andre_temp_rig_model:Charger_LeftToeBase/ramshorn_andre_temp_rig_model:Charger_LeftToeEnd
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_RightUpLeg
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_RightUpLeg/ramshorn_andre_temp_rig_model:Charger_RightKnee
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_RightUpLeg/ramshorn_andre_temp_rig_model:Charger_RightKnee/ramshorn_andre_temp_rig_model:Charger_RightLeg
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_RightUpLeg/ramshorn_andre_temp_rig_model:Charger_RightKnee/ramshorn_andre_temp_rig_model:Charger_RightLeg/ramshorn_andre_temp_rig_model:Charger_RightFoot
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_RightUpLeg/ramshorn_andre_temp_rig_model:Charger_RightKnee/ramshorn_andre_temp_rig_model:Charger_RightLeg/ramshorn_andre_temp_rig_model:Charger_RightFoot/ramshorn_andre_temp_rig_model:Charger_RightToeBase
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_RightUpLeg/ramshorn_andre_temp_rig_model:Charger_RightKnee/ramshorn_andre_temp_rig_model:Charger_RightLeg/ramshorn_andre_temp_rig_model:Charger_RightFoot/ramshorn_andre_temp_rig_model:Charger_RightToeBase/ramshorn_andre_temp_rig_model:Charger_RitghtToeEnd
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_Spine_1_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_Spine_1_01/ramshorn_andre_temp_rig_model:Charger_Spine_2_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_Spine_1_01/ramshorn_andre_temp_rig_model:Charger_Spine_2_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_Spine_1_01/ramshorn_andre_temp_rig_model:Charger_Spine_2_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01
+          1
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_Spine_1_01/ramshorn_andre_temp_rig_model:Charger_Spine_2_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01
+          1/ramshorn_andre_temp_rig_model:Charger_LeftShoulder
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_Spine_1_01/ramshorn_andre_temp_rig_model:Charger_Spine_2_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01
+          1/ramshorn_andre_temp_rig_model:Charger_LeftShoulder/ramshorn_andre_temp_rig_model:Charger_LeftArm
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_Spine_1_01/ramshorn_andre_temp_rig_model:Charger_Spine_2_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01
+          1/ramshorn_andre_temp_rig_model:Charger_LeftShoulder/ramshorn_andre_temp_rig_model:Charger_LeftArm/ramshorn_andre_temp_rig_model:Charger_LeftForeArm
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_Spine_1_01/ramshorn_andre_temp_rig_model:Charger_Spine_2_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01
+          1/ramshorn_andre_temp_rig_model:Charger_LeftShoulder/ramshorn_andre_temp_rig_model:Charger_LeftArm/ramshorn_andre_temp_rig_model:Charger_LeftForeArm/ramshorn_andre_temp_rig_model:Charger_LeftHand
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_Spine_1_01/ramshorn_andre_temp_rig_model:Charger_Spine_2_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01
+          1/ramshorn_andre_temp_rig_model:Charger_LeftShoulder/ramshorn_andre_temp_rig_model:Charger_LeftArm/ramshorn_andre_temp_rig_model:Charger_LeftForeArm/ramshorn_andre_temp_rig_model:Charger_LeftHand/ramshorn_andre_temp_rig_model:Charger_LeftHandIndex1
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_Spine_1_01/ramshorn_andre_temp_rig_model:Charger_Spine_2_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01
+          1/ramshorn_andre_temp_rig_model:Charger_LeftShoulder/ramshorn_andre_temp_rig_model:Charger_LeftArm/ramshorn_andre_temp_rig_model:Charger_LeftForeArm/ramshorn_andre_temp_rig_model:Charger_LeftHand/ramshorn_andre_temp_rig_model:Charger_LeftHandIndex1/ramshorn_andre_temp_rig_model:Charger_LeftHandIndex2
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_Spine_1_01/ramshorn_andre_temp_rig_model:Charger_Spine_2_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01
+          1/ramshorn_andre_temp_rig_model:Charger_LeftShoulder/ramshorn_andre_temp_rig_model:Charger_LeftArm/ramshorn_andre_temp_rig_model:Charger_LeftForeArm/ramshorn_andre_temp_rig_model:Charger_LeftHand/ramshorn_andre_temp_rig_model:Charger_LeftHandIndex1/ramshorn_andre_temp_rig_model:Charger_LeftHandIndex2/ramshorn_andre_temp_rig_model:Charger_LeftHandIndex3
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_Spine_1_01/ramshorn_andre_temp_rig_model:Charger_Spine_2_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01
+          1/ramshorn_andre_temp_rig_model:Charger_LeftShoulder/ramshorn_andre_temp_rig_model:Charger_LeftArm/ramshorn_andre_temp_rig_model:Charger_LeftForeArm/ramshorn_andre_temp_rig_model:Charger_LeftHand/ramshorn_andre_temp_rig_model:Charger_LeftHandMiddle1
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_Spine_1_01/ramshorn_andre_temp_rig_model:Charger_Spine_2_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01
+          1/ramshorn_andre_temp_rig_model:Charger_LeftShoulder/ramshorn_andre_temp_rig_model:Charger_LeftArm/ramshorn_andre_temp_rig_model:Charger_LeftForeArm/ramshorn_andre_temp_rig_model:Charger_LeftHand/ramshorn_andre_temp_rig_model:Charger_LeftHandMiddle1/ramshorn_andre_temp_rig_model:Charger_LeftHandMiddle2
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_Spine_1_01/ramshorn_andre_temp_rig_model:Charger_Spine_2_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01
+          1/ramshorn_andre_temp_rig_model:Charger_LeftShoulder/ramshorn_andre_temp_rig_model:Charger_LeftArm/ramshorn_andre_temp_rig_model:Charger_LeftForeArm/ramshorn_andre_temp_rig_model:Charger_LeftHand/ramshorn_andre_temp_rig_model:Charger_LeftHandMiddle1/ramshorn_andre_temp_rig_model:Charger_LeftHandMiddle2/ramshorn_andre_temp_rig_model:Charger_LeftHandMiddle3
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_Spine_1_01/ramshorn_andre_temp_rig_model:Charger_Spine_2_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01
+          1/ramshorn_andre_temp_rig_model:Charger_LeftShoulder/ramshorn_andre_temp_rig_model:Charger_LeftArm/ramshorn_andre_temp_rig_model:Charger_LeftForeArm/ramshorn_andre_temp_rig_model:Charger_LeftHand/ramshorn_andre_temp_rig_model:Charger_LeftHandRing1
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_Spine_1_01/ramshorn_andre_temp_rig_model:Charger_Spine_2_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01
+          1/ramshorn_andre_temp_rig_model:Charger_LeftShoulder/ramshorn_andre_temp_rig_model:Charger_LeftArm/ramshorn_andre_temp_rig_model:Charger_LeftForeArm/ramshorn_andre_temp_rig_model:Charger_LeftHand/ramshorn_andre_temp_rig_model:Charger_LeftHandRing1/ramshorn_andre_temp_rig_model:Charger_LeftHandRing2
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_Spine_1_01/ramshorn_andre_temp_rig_model:Charger_Spine_2_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01
+          1/ramshorn_andre_temp_rig_model:Charger_LeftShoulder/ramshorn_andre_temp_rig_model:Charger_LeftArm/ramshorn_andre_temp_rig_model:Charger_LeftForeArm/ramshorn_andre_temp_rig_model:Charger_LeftHand/ramshorn_andre_temp_rig_model:Charger_LeftHandRing1/ramshorn_andre_temp_rig_model:Charger_LeftHandRing2/ramshorn_andre_temp_rig_model:Charger_LeftHandRing3
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_Spine_1_01/ramshorn_andre_temp_rig_model:Charger_Spine_2_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01
+          1/ramshorn_andre_temp_rig_model:Charger_LeftShoulder/ramshorn_andre_temp_rig_model:Charger_LeftArm/ramshorn_andre_temp_rig_model:Charger_LeftForeArm/ramshorn_andre_temp_rig_model:Charger_LeftHand/ramshorn_andre_temp_rig_model:Charger_LeftHandThumb1
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_Spine_1_01/ramshorn_andre_temp_rig_model:Charger_Spine_2_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01
+          1/ramshorn_andre_temp_rig_model:Charger_LeftShoulder/ramshorn_andre_temp_rig_model:Charger_LeftArm/ramshorn_andre_temp_rig_model:Charger_LeftForeArm/ramshorn_andre_temp_rig_model:Charger_LeftHand/ramshorn_andre_temp_rig_model:Charger_LeftHandThumb1/ramshorn_andre_temp_rig_model:Charger_LeftHandThumb2
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_Spine_1_01/ramshorn_andre_temp_rig_model:Charger_Spine_2_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01
+          1/ramshorn_andre_temp_rig_model:Charger_LeftShoulder/ramshorn_andre_temp_rig_model:Charger_LeftArm/ramshorn_andre_temp_rig_model:Charger_LeftForeArm/ramshorn_andre_temp_rig_model:Charger_LeftHand/ramshorn_andre_temp_rig_model:Charger_LeftHandThumb1/ramshorn_andre_temp_rig_model:Charger_LeftHandThumb2/ramshorn_andre_temp_rig_model:Charger_LeftHandThumb3
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_Spine_1_01/ramshorn_andre_temp_rig_model:Charger_Spine_2_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01
+          1/ramshorn_andre_temp_rig_model:Charger_Neck
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_Spine_1_01/ramshorn_andre_temp_rig_model:Charger_Spine_2_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01
+          1/ramshorn_andre_temp_rig_model:Charger_Neck/ramshorn_andre_temp_rig_model:Charger_Head
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_Spine_1_01/ramshorn_andre_temp_rig_model:Charger_Spine_2_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01
+          1/ramshorn_andre_temp_rig_model:Charger_Neck/ramshorn_andre_temp_rig_model:Charger_Head/ramshorn_andre_temp_rig_model:Charger_Head_end
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_Spine_1_01/ramshorn_andre_temp_rig_model:Charger_Spine_2_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01
+          1/ramshorn_andre_temp_rig_model:Charger_RightShoulder
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_Spine_1_01/ramshorn_andre_temp_rig_model:Charger_Spine_2_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01
+          1/ramshorn_andre_temp_rig_model:Charger_RightShoulder/ramshorn_andre_temp_rig_model:Charger_RightArm
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_Spine_1_01/ramshorn_andre_temp_rig_model:Charger_Spine_2_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01
+          1/ramshorn_andre_temp_rig_model:Charger_RightShoulder/ramshorn_andre_temp_rig_model:Charger_RightArm/ramshorn_andre_temp_rig_model:Charger_RightForeArm
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_Spine_1_01/ramshorn_andre_temp_rig_model:Charger_Spine_2_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01
+          1/ramshorn_andre_temp_rig_model:Charger_RightShoulder/ramshorn_andre_temp_rig_model:Charger_RightArm/ramshorn_andre_temp_rig_model:Charger_RightForeArm/ramshorn_andre_temp_rig_model:Charger_RightHand
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_Spine_1_01/ramshorn_andre_temp_rig_model:Charger_Spine_2_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01
+          1/ramshorn_andre_temp_rig_model:Charger_RightShoulder/ramshorn_andre_temp_rig_model:Charger_RightArm/ramshorn_andre_temp_rig_model:Charger_RightForeArm/ramshorn_andre_temp_rig_model:Charger_RightHand/ramshorn_andre_temp_rig_model:Charger_RightHandIndex1
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_Spine_1_01/ramshorn_andre_temp_rig_model:Charger_Spine_2_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01
+          1/ramshorn_andre_temp_rig_model:Charger_RightShoulder/ramshorn_andre_temp_rig_model:Charger_RightArm/ramshorn_andre_temp_rig_model:Charger_RightForeArm/ramshorn_andre_temp_rig_model:Charger_RightHand/ramshorn_andre_temp_rig_model:Charger_RightHandIndex1/ramshorn_andre_temp_rig_model:Charger_RightHandIndex2
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_Spine_1_01/ramshorn_andre_temp_rig_model:Charger_Spine_2_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01
+          1/ramshorn_andre_temp_rig_model:Charger_RightShoulder/ramshorn_andre_temp_rig_model:Charger_RightArm/ramshorn_andre_temp_rig_model:Charger_RightForeArm/ramshorn_andre_temp_rig_model:Charger_RightHand/ramshorn_andre_temp_rig_model:Charger_RightHandIndex1/ramshorn_andre_temp_rig_model:Charger_RightHandIndex2/ramshorn_andre_temp_rig_model:Charger_RightHandIndex3
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_Spine_1_01/ramshorn_andre_temp_rig_model:Charger_Spine_2_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01
+          1/ramshorn_andre_temp_rig_model:Charger_RightShoulder/ramshorn_andre_temp_rig_model:Charger_RightArm/ramshorn_andre_temp_rig_model:Charger_RightForeArm/ramshorn_andre_temp_rig_model:Charger_RightHand/ramshorn_andre_temp_rig_model:Charger_RightHandMiddle1
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_Spine_1_01/ramshorn_andre_temp_rig_model:Charger_Spine_2_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01
+          1/ramshorn_andre_temp_rig_model:Charger_RightShoulder/ramshorn_andre_temp_rig_model:Charger_RightArm/ramshorn_andre_temp_rig_model:Charger_RightForeArm/ramshorn_andre_temp_rig_model:Charger_RightHand/ramshorn_andre_temp_rig_model:Charger_RightHandMiddle1/ramshorn_andre_temp_rig_model:Charger_RightHandMiddle2
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_Spine_1_01/ramshorn_andre_temp_rig_model:Charger_Spine_2_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01
+          1/ramshorn_andre_temp_rig_model:Charger_RightShoulder/ramshorn_andre_temp_rig_model:Charger_RightArm/ramshorn_andre_temp_rig_model:Charger_RightForeArm/ramshorn_andre_temp_rig_model:Charger_RightHand/ramshorn_andre_temp_rig_model:Charger_RightHandMiddle1/ramshorn_andre_temp_rig_model:Charger_RightHandMiddle2/ramshorn_andre_temp_rig_model:Charger_RightHandMiddle3
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_Spine_1_01/ramshorn_andre_temp_rig_model:Charger_Spine_2_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01
+          1/ramshorn_andre_temp_rig_model:Charger_RightShoulder/ramshorn_andre_temp_rig_model:Charger_RightArm/ramshorn_andre_temp_rig_model:Charger_RightForeArm/ramshorn_andre_temp_rig_model:Charger_RightHand/ramshorn_andre_temp_rig_model:Charger_RightHandRing1
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_Spine_1_01/ramshorn_andre_temp_rig_model:Charger_Spine_2_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01
+          1/ramshorn_andre_temp_rig_model:Charger_RightShoulder/ramshorn_andre_temp_rig_model:Charger_RightArm/ramshorn_andre_temp_rig_model:Charger_RightForeArm/ramshorn_andre_temp_rig_model:Charger_RightHand/ramshorn_andre_temp_rig_model:Charger_RightHandRing1/ramshorn_andre_temp_rig_model:Charger_RightHandRing2
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_Spine_1_01/ramshorn_andre_temp_rig_model:Charger_Spine_2_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01
+          1/ramshorn_andre_temp_rig_model:Charger_RightShoulder/ramshorn_andre_temp_rig_model:Charger_RightArm/ramshorn_andre_temp_rig_model:Charger_RightForeArm/ramshorn_andre_temp_rig_model:Charger_RightHand/ramshorn_andre_temp_rig_model:Charger_RightHandRing1/ramshorn_andre_temp_rig_model:Charger_RightHandRing2/ramshorn_andre_temp_rig_model:Charger_RightHandRing3
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_Spine_1_01/ramshorn_andre_temp_rig_model:Charger_Spine_2_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01
+          1/ramshorn_andre_temp_rig_model:Charger_RightShoulder/ramshorn_andre_temp_rig_model:Charger_RightArm/ramshorn_andre_temp_rig_model:Charger_RightForeArm/ramshorn_andre_temp_rig_model:Charger_RightHand/ramshorn_andre_temp_rig_model:Charger_RightHandThumb1
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_Spine_1_01/ramshorn_andre_temp_rig_model:Charger_Spine_2_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01
+          1/ramshorn_andre_temp_rig_model:Charger_RightShoulder/ramshorn_andre_temp_rig_model:Charger_RightArm/ramshorn_andre_temp_rig_model:Charger_RightForeArm/ramshorn_andre_temp_rig_model:Charger_RightHand/ramshorn_andre_temp_rig_model:Charger_RightHandThumb1/ramshorn_andre_temp_rig_model:Charger_RightHandThumb2
+        weight: 1
+      - path: ramshorn_andre_temp_rig_model:grp_joints_01/ramshorn_andre_temp_rig_model:Charger_Reference/ramshorn_andre_temp_rig_model:Charger_Root/ramshorn_andre_temp_rig_model:Charger_hips/ramshorn_andre_temp_rig_model:Charger_Spine_1_01/ramshorn_andre_temp_rig_model:Charger_Spine_2_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01/ramshorn_andre_temp_rig_model:Charger_Spine_3_01
+          1/ramshorn_andre_temp_rig_model:Charger_RightShoulder/ramshorn_andre_temp_rig_model:Charger_RightArm/ramshorn_andre_temp_rig_model:Charger_RightForeArm/ramshorn_andre_temp_rig_model:Charger_RightHand/ramshorn_andre_temp_rig_model:Charger_RightHandThumb1/ramshorn_andre_temp_rig_model:Charger_RightHandThumb2/ramshorn_andre_temp_rig_model:Charger_RightHandThumb3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: ramshorn_andre_temp_rig_model:grp_geo_01
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 4d04ec7b049268d4b839effbd87230ee,
+    type: 3}
+  animationType: 2
+  additionalBone: 0
+  userData: 

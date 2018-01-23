@@ -1,0 +1,71 @@
+{70bc4b46-c73c-4f0b-b442-03ad63f6365b} event:/Dialogue/Exposition/Dialogue - After monster room
+{590f3715-9574-4ce4-895e-c5f61bf1aa1d} event:/Dialogue/Exposition/Dialogue - Enter first room
+{e0738e78-80ef-4527-9907-6ed13c8d15f2} event:/Dialogue/Exposition/Dialogue - Enter monster room
+{78d5e687-aee1-4e3a-b619-7f393c6fb7dc} event:/Dialogue/Exposition/Dialogue - Enter relic room
+{f6ed6a3a-4d43-4eeb-bdf5-0f08c2c75815} event:/Dialogue/Exposition/Dialogue - Get Relic
+{61a39b1a-48f0-4508-b287-8d3a0e800864} event:/Dialogue/Exposition/Dialogue - Return Trip 1
+{ce7ff390-4202-48b7-b207-aab27edec642} event:/Dialogue/Menu/Menu - Break stuff
+{5a6efabb-9c4a-4621-914f-78a2152dc5cb} event:/Dialogue/Menu/Menu - Humming 1
+{194128f2-5c32-46b3-91ab-30bd0f4f539c} event:/Dialogue/Menu/Menu - Humming 2
+{a35091d2-f4fa-464f-a745-659b795259b4} event:/Dialogue/Menu/Menu - Let's go
+{3dad42d8-129d-4c9f-875d-c95a447e367c} event:/Dialogue/Menu/Menu - Live chirping
+{f431842b-f951-49cb-9a28-51e73f7b225c} event:/Dialogue/Menu/Menu - Out of here
+{59810301-4b2d-446b-b8e4-de030084beec} event:/Dialogue/Menu/Menu - Self destruct
+{c28685f2-fac5-4bf6-ac5b-9d9a1f8e0fa5} event:/Dialogue/Menu/Menu - Sushi stand
+{23e3bd59-dee5-43a1-990a-066a85a8a288} event:/Dialogue/Menu/Menu - Take a break
+{8bb0d268-c794-4105-b494-ee65d3a9a652} event:/Dialogue/Menu/Menu - Weird place
+{5aecfd0a-3036-44c4-953f-7b6f1242bd4f} event:/Environment/Boings and Thuds
+{26589d00-3935-44c2-bb2c-484c4a341e3e} event:/Environment/Break glass
+{96fb35da-41e6-4a97-9f28-3c15c7e1f0b6} event:/Environment/Collect item
+{f6c45b68-d865-49c2-81fd-05d116c43d5a} event:/Environment/Waterfall
+{1c89c328-e7d2-4af5-8d2f-1f29a56a10d4} event:/Environment/Balcony/Balcony Crash
+{6bf18dff-6ec6-4c7b-ae54-60bb208e8d22} event:/Environment/Balcony/Balcony Fall
+{c3e910d5-3269-4de4-ba03-c30c188ac6d9} event:/Environment/Checkpoint/Checkpoint
+{72ef5583-9efa-4fce-9e4d-790858801c02} event:/Environment/Electric Water/Ambient loop
+{af1eae93-5ab4-4dc9-93cb-049cc2151449} event:/Environment/Electric Water/Electric Water - old
+{bad6b3c8-b97b-45b9-8bf0-b30b5ab0f615} event:/Environment/Electric Water/Shock
+{510a53d8-aa2a-41f2-93e2-89e627da167d} event:/Environment/Falling Tiles/Falling Tile Crumbling
+{ca712051-d21a-4c51-b6d3-489d89a48711} event:/Environment/Fans/Big Fan
+{75afd5d2-c0e9-4979-bc0c-ef614b9a49e7} event:/Environment/Fans/Puller
+{d7880e30-3cca-4ad3-88bb-34777a337b4c} event:/Environment/Fans/Pusher
+{52a0d8ac-54d5-4a82-8b32-21ef3032061f} event:/Environment/Fans/Sucked in
+{c1ed80c0-fa3c-4413-af4b-4ca6e918b471} event:/Environment/Kickables/Kick object
+{bbe1c692-61ee-4303-b270-d26818abdbef} event:/Environment/Kickables/Kickable hits something
+{ff7c7403-8c45-4465-844e-6d8b413d2957} event:/Environment/Pillars/Monster hits pillar
+{fd8bf6d0-9492-43ec-9cbb-e70eb0b6e1da} event:/Environment/Pillars/Player hits pillar
+{ef89c7bf-7bcd-4933-8e6e-1468359c4cd5} event:/Environment/Pillars/Stone Pillar Crash
+{4ee2f915-1480-4ce9-a32c-dc5b30acba08} event:/Environment/Sliding Doors/Big Sliding Door
+{82dd2b20-1305-4918-b8c0-918ae1118f9c} event:/Monsters/Charger/Charge up
+{0b1d8ef8-4ea8-4da2-b1b3-8d415cbbb1b3} event:/Monsters/Charger/Charge up for realz, the other is See You
+{221ef48f-b183-4e16-a2b4-c917252e35a9} event:/Monsters/Charger/Die
+{faa4e88f-392e-4e8b-86ac-ac44c40a5bd4} event:/Monsters/Charger/Hit
+{89c844e9-decf-4103-baa3-99927c25f912} event:/Monsters/Shambler/Attack
+{bf19c3aa-4e80-4ded-912e-90f805875e42} event:/Monsters/Shambler/Die
+{024c9047-0059-49e0-b67d-30960c82a905} event:/Monsters/Shambler/Hit
+{41e3403d-0fc8-4a72-87dc-0e48d3a10dfb} event:/Monsters/Shambler/See Player
+{a7ea57c2-31a3-4aba-8d8a-2449a80c1bd1} event:/Monsters/Swarm Hive/Die
+{bcc9b6d6-27e5-4d83-bfc3-d8d7190a11fc} event:/Monsters/Swarm Hive/Spawn
+{daaadc93-e186-4a5a-9a37-1ad631a2c7b8} event:/Monsters/Swarm Monster/Die
+{727181a7-9dd4-4775-8548-2a8caf333c58} event:/Music/Menu Music
+{edd1ae65-2f9f-4a07-bd9c-0a74a287e09a} event:/Music/Menu Music - sudden end
+{258178d0-208f-4b1e-8721-cf6e35d8d776} event:/Music/Return Trip Music
+{2f665776-0b26-4658-9692-26a921cd9d37} event:/Music/World Music Prototype
+{1ae815c5-bb45-4e97-a244-203551602e7e} event:/Player/Breathing
+{82bdf780-9502-4cb4-92be-8394dd92413a} event:/Player/Dash
+{35abf59c-f9ab-4268-8d12-2fc9d85724ee} event:/Player/Footsteps
+{bb4b0b3c-3a81-43a2-a2af-f1a65e2ac8db} event:/Player/Grunting
+{63104877-b0ad-44e5-a9e4-f4837edec513} event:/Player/Hold Rubble
+{cdf82863-b712-4634-93bc-7899f7be7cd2} event:/Player/Jump
+{4cfa63c3-bc65-4828-bb76-58b6c1e71ecb} event:/Player/Land
+{58ee1dcd-f046-4308-a2d6-ba27bcc2606f} event:/Player/Pick Up Rubble
+{afb27404-20b7-4d0a-9899-568645578368} event:/Player/Take damage
+{58dbf22d-9ec8-4a7c-af2e-1fd33f109c76} event:/Player/Throw Rubble
+{8663a8e4-bf60-474c-9210-56d4da27f88f} event:/UI/Disabled Button
+{64a14054-e2e3-467a-a587-d31c15dcc118} event:/UI/Menu Button
+{fe7a9101-1153-41c9-935f-015435420503} bus:/
+{dd8fec1d-4937-46de-b6e1-b768edb738ce} bus:/Reverb
+{92e07edb-7df4-4146-b042-0875ca06a1ce} bus:/Dialogue
+{2fe26c4e-20f7-4216-9d1a-5e0f3eaa3920} bus:/Music
+{41d87940-e379-41c6-ae98-33bb78a47f20} bus:/Pillar
+{b5fe4838-7157-4b5c-be7b-512a5b322c97} bus:/SFX
+{24b18858-4eac-45f3-ad9d-a34dc13fe74c} bank:/Master Bank

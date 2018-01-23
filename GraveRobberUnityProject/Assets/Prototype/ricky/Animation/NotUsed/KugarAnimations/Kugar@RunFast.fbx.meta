@@ -1,0 +1,717 @@
+fileFormatVersion: 2
+guid: 2f58137c875720c49921e837d26af57e
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: bn_l_hand
+    100002: bn_l_handEnd
+    100004: bn_l_handEnd3
+    100006: bn_l_handEnd4
+    100008: bn_l_handEnd5
+    100010: bn_l_handEnd6
+    100012: bn_l_handEnd8
+    100014: bn_l_index1
+    100016: bn_l_index2
+    100018: bn_l_middle1
+    100020: bn_l_middle2
+    100022: bn_l_pinky1
+    100024: bn_l_pinky2
+    100026: bn_l_ring1
+    100028: bn_l_ring2
+    100030: bn_l_thumb1
+    100032: bn_l_thumb2
+    100034: bn_l_thumb3
+    100036: bn_r_hand
+    100038: bn_r_handEnd
+    100040: bn_r_handEnd3
+    100042: bn_r_handEnd4
+    100044: bn_r_handEnd5
+    100046: bn_r_handEnd6
+    100048: bn_r_handEnd8
+    100050: bn_r_index1
+    100052: bn_r_index2
+    100054: bn_r_middle1
+    100056: bn_r_middle2
+    100058: bn_r_pinky1
+    100060: bn_r_pinky2
+    100062: bn_r_ring1
+    100064: bn_r_ring2
+    100066: bn_r_thumb1
+    100068: bn_r_thumb2
+    100070: bn_r_thumb3
+    100072: Chest 2
+    100074: COG2
+    100076: gp_constLeft_orient1
+    100078: gp_loc_const_left_orient
+    100080: gp_loc_const_right_orient
+    100082: Head 3
+    100084: HeadEnd 3
+    100086: HighResWITHfingers
+    100088: //RootNode
+    100090: Kugar_Ctrl:ChestEndEffector
+    100092: Kugar_Ctrl:ChestOriginEffector
+    100094: Kugar_Ctrl:Head
+    100096: Kugar_Ctrl:HeadEffector
+    100098: Kugar_Ctrl:Hips
+    100100: Kugar_Ctrl:HipsEffector
+    100102: Kugar_Ctrl:LeftAnkleEffector
+    100104: Kugar_Ctrl:LeftArm
+    100106: Kugar_Ctrl:LeftElbowEffector
+    100108: Kugar_Ctrl:LeftFoot
+    100110: Kugar_Ctrl:LeftFootEffector
+    100112: Kugar_Ctrl:LeftForeArm
+    100114: Kugar_Ctrl:LeftHand
+    100116: Kugar_Ctrl:LeftHipEffector
+    100118: Kugar_Ctrl:LeftKneeEffector
+    100120: Kugar_Ctrl:LeftLeg
+    100122: Kugar_Ctrl:LeftShoulderEffector
+    100124: Kugar_Ctrl:LeftToeBase
+    100126: Kugar_Ctrl:LeftUpLeg
+    100128: Kugar_Ctrl:LeftWristEffector
+    100130: Kugar_Ctrl:Neck
+    100132: Kugar_Ctrl:Reference
+    100134: Kugar_Ctrl:RightAnkleEffector
+    100136: Kugar_Ctrl:RightArm
+    100138: Kugar_Ctrl:RightElbowEffector
+    100140: Kugar_Ctrl:RightFoot
+    100142: Kugar_Ctrl:RightFootEffector
+    100144: Kugar_Ctrl:RightForeArm
+    100146: Kugar_Ctrl:RightHand
+    100148: Kugar_Ctrl:RightHipEffector
+    100150: Kugar_Ctrl:RightKneeEffector
+    100152: Kugar_Ctrl:RightLeg
+    100154: Kugar_Ctrl:RightShoulderEffector
+    100156: Kugar_Ctrl:RightToeBase
+    100158: Kugar_Ctrl:RightUpLeg
+    100160: Kugar_Ctrl:RightWristEffector
+    100162: Kugar_Ctrl:Spine
+    100164: Kugar_Ctrl:Spine1
+    100166: Left_Ankle 2
+    100168: Left_Clavicle 2
+    100170: Left_Elbow 2
+    100172: Left_FootBall 2
+    100174: Left_Hip 2
+    100176: Left_Knee 2
+    100178: Left_Shoulder 2
+    100180: Left_ToeEnd 2
+    100182: loc_AimConst_left
+    100184: loc_AimConst_right
+    100186: Loc_Chest 1
+    100188: Loc_COG 1
+    100190: loc_const_left
+    100192: loc_const_right
+    100194: loc_constLeft1
+    100196: Loc_Head 1
+    100198: Loc_HeadEnd 1
+    100200: Loc_L_Ankle 1
+    100202: Loc_L_Clavicle 1
+    100204: Loc_L_Elbow 1
+    100206: Loc_L_FootBall 1
+    100208: Loc_L_FootToe 1
+    100210: Loc_L_HandEnd2
+    100212: Loc_L_Hip 1
+    100214: Loc_L_Knee 1
+    100216: Loc_L_Shoulder 1
+    100218: Loc_L_Wrist 1
+    100220: Loc_LeftArm 1
+    100222: Loc_LeftLeg 1
+    100224: Loc_Neck 1
+    100226: Loc_R_Ankle 1
+    100228: Loc_R_Clavicle 1
+    100230: Loc_R_Elbow 1
+    100232: Loc_R_FootBall 1
+    100234: Loc_R_FootToe 1
+    100236: Loc_R_HandEnd2
+    100238: Loc_R_Hip 1
+    100240: Loc_R_Knee 1
+    100242: Loc_R_Shoulder 1
+    100244: Loc_R_Wrist 1
+    100246: Loc_RightArm 1
+    100248: Loc_RightLeg 1
+    100250: Loc_Spine 2
+    100252: Loc_Spine 3
+    100254: Locators 1
+    100256: Neck 3
+    100258: Right_Ankle 2
+    100260: Right_Clavicle 2
+    100262: Right_Elbow 2
+    100264: Right_FootBall 2
+    100266: Right_Hip 2
+    100268: Right_Knee 2
+    100270: Right_Shoulder 2
+    100272: Right_ToeEnd 2
+    100274: SingleMeshGEO
+    100276: SpadeWeapon
+    100278: Spine 3
+    100280: Weapon 1
+    100282: WeaponGeo
+    100284: WeaponLocator 1
+    400000: bn_l_hand
+    400002: bn_l_handEnd
+    400004: bn_l_handEnd3
+    400006: bn_l_handEnd4
+    400008: bn_l_handEnd5
+    400010: bn_l_handEnd6
+    400012: bn_l_handEnd8
+    400014: bn_l_index1
+    400016: bn_l_index2
+    400018: bn_l_middle1
+    400020: bn_l_middle2
+    400022: bn_l_pinky1
+    400024: bn_l_pinky2
+    400026: bn_l_ring1
+    400028: bn_l_ring2
+    400030: bn_l_thumb1
+    400032: bn_l_thumb2
+    400034: bn_l_thumb3
+    400036: bn_r_hand
+    400038: bn_r_handEnd
+    400040: bn_r_handEnd3
+    400042: bn_r_handEnd4
+    400044: bn_r_handEnd5
+    400046: bn_r_handEnd6
+    400048: bn_r_handEnd8
+    400050: bn_r_index1
+    400052: bn_r_index2
+    400054: bn_r_middle1
+    400056: bn_r_middle2
+    400058: bn_r_pinky1
+    400060: bn_r_pinky2
+    400062: bn_r_ring1
+    400064: bn_r_ring2
+    400066: bn_r_thumb1
+    400068: bn_r_thumb2
+    400070: bn_r_thumb3
+    400072: Chest 2
+    400074: COG2
+    400076: gp_constLeft_orient1
+    400078: gp_loc_const_left_orient
+    400080: gp_loc_const_right_orient
+    400082: Head 3
+    400084: HeadEnd 3
+    400086: HighResWITHfingers
+    400088: //RootNode
+    400090: Kugar_Ctrl:ChestEndEffector
+    400092: Kugar_Ctrl:ChestOriginEffector
+    400094: Kugar_Ctrl:Head
+    400096: Kugar_Ctrl:HeadEffector
+    400098: Kugar_Ctrl:Hips
+    400100: Kugar_Ctrl:HipsEffector
+    400102: Kugar_Ctrl:LeftAnkleEffector
+    400104: Kugar_Ctrl:LeftArm
+    400106: Kugar_Ctrl:LeftElbowEffector
+    400108: Kugar_Ctrl:LeftFoot
+    400110: Kugar_Ctrl:LeftFootEffector
+    400112: Kugar_Ctrl:LeftForeArm
+    400114: Kugar_Ctrl:LeftHand
+    400116: Kugar_Ctrl:LeftHipEffector
+    400118: Kugar_Ctrl:LeftKneeEffector
+    400120: Kugar_Ctrl:LeftLeg
+    400122: Kugar_Ctrl:LeftShoulderEffector
+    400124: Kugar_Ctrl:LeftToeBase
+    400126: Kugar_Ctrl:LeftUpLeg
+    400128: Kugar_Ctrl:LeftWristEffector
+    400130: Kugar_Ctrl:Neck
+    400132: Kugar_Ctrl:Reference
+    400134: Kugar_Ctrl:RightAnkleEffector
+    400136: Kugar_Ctrl:RightArm
+    400138: Kugar_Ctrl:RightElbowEffector
+    400140: Kugar_Ctrl:RightFoot
+    400142: Kugar_Ctrl:RightFootEffector
+    400144: Kugar_Ctrl:RightForeArm
+    400146: Kugar_Ctrl:RightHand
+    400148: Kugar_Ctrl:RightHipEffector
+    400150: Kugar_Ctrl:RightKneeEffector
+    400152: Kugar_Ctrl:RightLeg
+    400154: Kugar_Ctrl:RightShoulderEffector
+    400156: Kugar_Ctrl:RightToeBase
+    400158: Kugar_Ctrl:RightUpLeg
+    400160: Kugar_Ctrl:RightWristEffector
+    400162: Kugar_Ctrl:Spine
+    400164: Kugar_Ctrl:Spine1
+    400166: Left_Ankle 2
+    400168: Left_Clavicle 2
+    400170: Left_Elbow 2
+    400172: Left_FootBall 2
+    400174: Left_Hip 2
+    400176: Left_Knee 2
+    400178: Left_Shoulder 2
+    400180: Left_ToeEnd 2
+    400182: loc_AimConst_left
+    400184: loc_AimConst_right
+    400186: Loc_Chest 1
+    400188: Loc_COG 1
+    400190: loc_const_left
+    400192: loc_const_right
+    400194: loc_constLeft1
+    400196: Loc_Head 1
+    400198: Loc_HeadEnd 1
+    400200: Loc_L_Ankle 1
+    400202: Loc_L_Clavicle 1
+    400204: Loc_L_Elbow 1
+    400206: Loc_L_FootBall 1
+    400208: Loc_L_FootToe 1
+    400210: Loc_L_HandEnd2
+    400212: Loc_L_Hip 1
+    400214: Loc_L_Knee 1
+    400216: Loc_L_Shoulder 1
+    400218: Loc_L_Wrist 1
+    400220: Loc_LeftArm 1
+    400222: Loc_LeftLeg 1
+    400224: Loc_Neck 1
+    400226: Loc_R_Ankle 1
+    400228: Loc_R_Clavicle 1
+    400230: Loc_R_Elbow 1
+    400232: Loc_R_FootBall 1
+    400234: Loc_R_FootToe 1
+    400236: Loc_R_HandEnd2
+    400238: Loc_R_Hip 1
+    400240: Loc_R_Knee 1
+    400242: Loc_R_Shoulder 1
+    400244: Loc_R_Wrist 1
+    400246: Loc_RightArm 1
+    400248: Loc_RightLeg 1
+    400250: Loc_Spine 2
+    400252: Loc_Spine 3
+    400254: Locators 1
+    400256: Neck 3
+    400258: Right_Ankle 2
+    400260: Right_Clavicle 2
+    400262: Right_Elbow 2
+    400264: Right_FootBall 2
+    400266: Right_Hip 2
+    400268: Right_Knee 2
+    400270: Right_Shoulder 2
+    400272: Right_ToeEnd 2
+    400274: SingleMeshGEO
+    400276: SpadeWeapon
+    400278: Spine 3
+    400280: Weapon 1
+    400282: WeaponGeo
+    400284: WeaponLocator 1
+    2300000: SpadeWeapon
+    3300000: SpadeWeapon
+    4300000: SpadeWeapon
+    4300002: SingleMeshGEO
+    7400000: RunFast
+    9500000: //RootNode
+    13700000: SingleMeshGEO
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: RunFast
+      takeName: RunFast
+      firstFrame: 0
+      lastFrame: 14.8999996
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: HighResWITHfingers
+        weight: 1
+      - path: HighResWITHfingers/COG2
+        weight: 1
+      - path: HighResWITHfingers/COG2/Left_Hip 2
+        weight: 1
+      - path: HighResWITHfingers/COG2/Left_Hip 2/Left_Knee 2
+        weight: 1
+      - path: HighResWITHfingers/COG2/Left_Hip 2/Left_Knee 2/Left_Ankle 2
+        weight: 1
+      - path: HighResWITHfingers/COG2/Left_Hip 2/Left_Knee 2/Left_Ankle 2/Left_FootBall
+          2
+        weight: 1
+      - path: HighResWITHfingers/COG2/Left_Hip 2/Left_Knee 2/Left_Ankle 2/Left_FootBall
+          2/Left_ToeEnd 2
+        weight: 1
+      - path: HighResWITHfingers/COG2/Right_Hip 2
+        weight: 1
+      - path: HighResWITHfingers/COG2/Right_Hip 2/Right_Knee 2
+        weight: 1
+      - path: HighResWITHfingers/COG2/Right_Hip 2/Right_Knee 2/Right_Ankle 2
+        weight: 1
+      - path: HighResWITHfingers/COG2/Right_Hip 2/Right_Knee 2/Right_Ankle 2/Right_FootBall
+          2
+        weight: 1
+      - path: HighResWITHfingers/COG2/Right_Hip 2/Right_Knee 2/Right_Ankle 2/Right_FootBall
+          2/Right_ToeEnd 2
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Left_Clavicle 2
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Left_Clavicle 2/Left_Shoulder
+          2
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Left_Clavicle 2/Left_Shoulder
+          2/Left_Elbow 2
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Left_Clavicle 2/Left_Shoulder
+          2/Left_Elbow 2/bn_l_hand
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Left_Clavicle 2/Left_Shoulder
+          2/Left_Elbow 2/bn_l_hand/bn_l_handEnd
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Left_Clavicle 2/Left_Shoulder
+          2/Left_Elbow 2/bn_l_hand/bn_l_index1
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Left_Clavicle 2/Left_Shoulder
+          2/Left_Elbow 2/bn_l_hand/bn_l_index1/bn_l_index2
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Left_Clavicle 2/Left_Shoulder
+          2/Left_Elbow 2/bn_l_hand/bn_l_index1/bn_l_index2/bn_l_handEnd3
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Left_Clavicle 2/Left_Shoulder
+          2/Left_Elbow 2/bn_l_hand/bn_l_middle1
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Left_Clavicle 2/Left_Shoulder
+          2/Left_Elbow 2/bn_l_hand/bn_l_middle1/bn_l_middle2
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Left_Clavicle 2/Left_Shoulder
+          2/Left_Elbow 2/bn_l_hand/bn_l_middle1/bn_l_middle2/bn_l_handEnd4
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Left_Clavicle 2/Left_Shoulder
+          2/Left_Elbow 2/bn_l_hand/bn_l_pinky1
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Left_Clavicle 2/Left_Shoulder
+          2/Left_Elbow 2/bn_l_hand/bn_l_pinky1/bn_l_pinky2
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Left_Clavicle 2/Left_Shoulder
+          2/Left_Elbow 2/bn_l_hand/bn_l_pinky1/bn_l_pinky2/bn_l_handEnd6
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Left_Clavicle 2/Left_Shoulder
+          2/Left_Elbow 2/bn_l_hand/bn_l_ring1
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Left_Clavicle 2/Left_Shoulder
+          2/Left_Elbow 2/bn_l_hand/bn_l_ring1/bn_l_ring2
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Left_Clavicle 2/Left_Shoulder
+          2/Left_Elbow 2/bn_l_hand/bn_l_ring1/bn_l_ring2/bn_l_handEnd5
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Left_Clavicle 2/Left_Shoulder
+          2/Left_Elbow 2/bn_l_hand/bn_l_thumb1
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Left_Clavicle 2/Left_Shoulder
+          2/Left_Elbow 2/bn_l_hand/bn_l_thumb1/bn_l_thumb2
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Left_Clavicle 2/Left_Shoulder
+          2/Left_Elbow 2/bn_l_hand/bn_l_thumb1/bn_l_thumb2/bn_l_thumb3
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Left_Clavicle 2/Left_Shoulder
+          2/Left_Elbow 2/bn_l_hand/bn_l_thumb1/bn_l_thumb2/bn_l_thumb3/bn_l_handEnd8
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Left_Clavicle 2/Left_Shoulder
+          2/Left_Elbow 2/bn_l_hand/gp_loc_const_left_orient
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Left_Clavicle 2/Left_Shoulder
+          2/Left_Elbow 2/bn_l_hand/gp_loc_const_left_orient/loc_AimConst_left
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Left_Clavicle 2/Left_Shoulder
+          2/Left_Elbow 2/bn_l_hand/gp_loc_const_left_orient/loc_const_left
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Neck 3
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Neck 3/Head 3
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Neck 3/Head 3/HeadEnd 3
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Right_Clavicle 2
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Right_Clavicle 2/Right_Shoulder
+          2
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Right_Clavicle 2/Right_Shoulder
+          2/Right_Elbow 2
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Right_Clavicle 2/Right_Shoulder
+          2/Right_Elbow 2/bn_r_hand
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Right_Clavicle 2/Right_Shoulder
+          2/Right_Elbow 2/bn_r_hand/bn_r_handEnd
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Right_Clavicle 2/Right_Shoulder
+          2/Right_Elbow 2/bn_r_hand/bn_r_index1
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Right_Clavicle 2/Right_Shoulder
+          2/Right_Elbow 2/bn_r_hand/bn_r_index1/bn_r_index2
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Right_Clavicle 2/Right_Shoulder
+          2/Right_Elbow 2/bn_r_hand/bn_r_index1/bn_r_index2/bn_r_handEnd3
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Right_Clavicle 2/Right_Shoulder
+          2/Right_Elbow 2/bn_r_hand/bn_r_middle1
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Right_Clavicle 2/Right_Shoulder
+          2/Right_Elbow 2/bn_r_hand/bn_r_middle1/bn_r_middle2
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Right_Clavicle 2/Right_Shoulder
+          2/Right_Elbow 2/bn_r_hand/bn_r_middle1/bn_r_middle2/bn_r_handEnd4
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Right_Clavicle 2/Right_Shoulder
+          2/Right_Elbow 2/bn_r_hand/bn_r_pinky1
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Right_Clavicle 2/Right_Shoulder
+          2/Right_Elbow 2/bn_r_hand/bn_r_pinky1/bn_r_pinky2
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Right_Clavicle 2/Right_Shoulder
+          2/Right_Elbow 2/bn_r_hand/bn_r_pinky1/bn_r_pinky2/bn_r_handEnd6
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Right_Clavicle 2/Right_Shoulder
+          2/Right_Elbow 2/bn_r_hand/bn_r_ring1
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Right_Clavicle 2/Right_Shoulder
+          2/Right_Elbow 2/bn_r_hand/bn_r_ring1/bn_r_ring2
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Right_Clavicle 2/Right_Shoulder
+          2/Right_Elbow 2/bn_r_hand/bn_r_ring1/bn_r_ring2/bn_r_handEnd5
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Right_Clavicle 2/Right_Shoulder
+          2/Right_Elbow 2/bn_r_hand/bn_r_thumb1
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Right_Clavicle 2/Right_Shoulder
+          2/Right_Elbow 2/bn_r_hand/bn_r_thumb1/bn_r_thumb2
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Right_Clavicle 2/Right_Shoulder
+          2/Right_Elbow 2/bn_r_hand/bn_r_thumb1/bn_r_thumb2/bn_r_thumb3
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Right_Clavicle 2/Right_Shoulder
+          2/Right_Elbow 2/bn_r_hand/bn_r_thumb1/bn_r_thumb2/bn_r_thumb3/bn_r_handEnd8
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Right_Clavicle 2/Right_Shoulder
+          2/Right_Elbow 2/bn_r_hand/gp_constLeft_orient1
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Right_Clavicle 2/Right_Shoulder
+          2/Right_Elbow 2/bn_r_hand/gp_constLeft_orient1/loc_constLeft1
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Right_Clavicle 2/Right_Shoulder
+          2/Right_Elbow 2/bn_r_hand/gp_loc_const_right_orient
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Right_Clavicle 2/Right_Shoulder
+          2/Right_Elbow 2/bn_r_hand/gp_loc_const_right_orient/loc_AimConst_right
+        weight: 1
+      - path: HighResWITHfingers/COG2/Spine 3/Chest 2/Right_Clavicle 2/Right_Shoulder
+          2/Right_Elbow 2/bn_r_hand/gp_loc_const_right_orient/loc_const_right
+        weight: 1
+      - path: HighResWITHfingers/COG2/WeaponGeo
+        weight: 1
+      - path: HighResWITHfingers/COG2/WeaponGeo/SpadeWeapon
+        weight: 1
+      - path: HighResWITHfingers/Locators 1
+        weight: 1
+      - path: HighResWITHfingers/Locators 1/Loc_LeftArm 1
+        weight: 1
+      - path: HighResWITHfingers/Locators 1/Loc_LeftArm 1/Loc_L_Clavicle 1
+        weight: 1
+      - path: HighResWITHfingers/Locators 1/Loc_LeftArm 1/Loc_L_Elbow 1
+        weight: 1
+      - path: HighResWITHfingers/Locators 1/Loc_LeftArm 1/Loc_L_HandEnd2
+        weight: 1
+      - path: HighResWITHfingers/Locators 1/Loc_LeftArm 1/Loc_L_Shoulder 1
+        weight: 1
+      - path: HighResWITHfingers/Locators 1/Loc_LeftArm 1/Loc_L_Wrist 1
+        weight: 1
+      - path: HighResWITHfingers/Locators 1/Loc_LeftLeg 1
+        weight: 1
+      - path: HighResWITHfingers/Locators 1/Loc_LeftLeg 1/Loc_L_Ankle 1
+        weight: 1
+      - path: HighResWITHfingers/Locators 1/Loc_LeftLeg 1/Loc_L_FootBall 1
+        weight: 1
+      - path: HighResWITHfingers/Locators 1/Loc_LeftLeg 1/Loc_L_FootToe 1
+        weight: 1
+      - path: HighResWITHfingers/Locators 1/Loc_LeftLeg 1/Loc_L_Hip 1
+        weight: 1
+      - path: HighResWITHfingers/Locators 1/Loc_LeftLeg 1/Loc_L_Knee 1
+        weight: 1
+      - path: HighResWITHfingers/Locators 1/Loc_RightArm 1
+        weight: 1
+      - path: HighResWITHfingers/Locators 1/Loc_RightArm 1/Loc_R_Clavicle 1
+        weight: 1
+      - path: HighResWITHfingers/Locators 1/Loc_RightArm 1/Loc_R_Elbow 1
+        weight: 1
+      - path: HighResWITHfingers/Locators 1/Loc_RightArm 1/Loc_R_HandEnd2
+        weight: 1
+      - path: HighResWITHfingers/Locators 1/Loc_RightArm 1/Loc_R_Shoulder 1
+        weight: 1
+      - path: HighResWITHfingers/Locators 1/Loc_RightArm 1/Loc_R_Wrist 1
+        weight: 1
+      - path: HighResWITHfingers/Locators 1/Loc_RightLeg 1
+        weight: 1
+      - path: HighResWITHfingers/Locators 1/Loc_RightLeg 1/Loc_R_Ankle 1
+        weight: 1
+      - path: HighResWITHfingers/Locators 1/Loc_RightLeg 1/Loc_R_FootBall 1
+        weight: 1
+      - path: HighResWITHfingers/Locators 1/Loc_RightLeg 1/Loc_R_FootToe 1
+        weight: 1
+      - path: HighResWITHfingers/Locators 1/Loc_RightLeg 1/Loc_R_Hip 1
+        weight: 1
+      - path: HighResWITHfingers/Locators 1/Loc_RightLeg 1/Loc_R_Knee 1
+        weight: 1
+      - path: HighResWITHfingers/Locators 1/Loc_Spine 2
+        weight: 1
+      - path: HighResWITHfingers/Locators 1/Loc_Spine 2/Loc_Chest 1
+        weight: 1
+      - path: HighResWITHfingers/Locators 1/Loc_Spine 2/Loc_COG 1
+        weight: 1
+      - path: HighResWITHfingers/Locators 1/Loc_Spine 2/Loc_Head 1
+        weight: 1
+      - path: HighResWITHfingers/Locators 1/Loc_Spine 2/Loc_HeadEnd 1
+        weight: 1
+      - path: HighResWITHfingers/Locators 1/Loc_Spine 2/Loc_Neck 1
+        weight: 1
+      - path: HighResWITHfingers/Locators 1/Loc_Spine 2/Loc_Spine 3
+        weight: 1
+      - path: HighResWITHfingers/Locators 1/Weapon 1
+        weight: 1
+      - path: HighResWITHfingers/Locators 1/Weapon 1/WeaponLocator 1
+        weight: 1
+      - path: HighResWITHfingers/SingleMeshGEO
+        weight: 1
+      - path: Kugar_Ctrl:Reference
+        weight: 1
+      - path: Kugar_Ctrl:Reference/Kugar_Ctrl:ChestEndEffector
+        weight: 1
+      - path: Kugar_Ctrl:Reference/Kugar_Ctrl:ChestOriginEffector
+        weight: 1
+      - path: Kugar_Ctrl:Reference/Kugar_Ctrl:HeadEffector
+        weight: 1
+      - path: Kugar_Ctrl:Reference/Kugar_Ctrl:Hips
+        weight: 1
+      - path: Kugar_Ctrl:Reference/Kugar_Ctrl:Hips/Kugar_Ctrl:LeftUpLeg
+        weight: 1
+      - path: Kugar_Ctrl:Reference/Kugar_Ctrl:Hips/Kugar_Ctrl:LeftUpLeg/Kugar_Ctrl:LeftLeg
+        weight: 1
+      - path: Kugar_Ctrl:Reference/Kugar_Ctrl:Hips/Kugar_Ctrl:LeftUpLeg/Kugar_Ctrl:LeftLeg/Kugar_Ctrl:LeftFoot
+        weight: 1
+      - path: Kugar_Ctrl:Reference/Kugar_Ctrl:Hips/Kugar_Ctrl:LeftUpLeg/Kugar_Ctrl:LeftLeg/Kugar_Ctrl:LeftFoot/Kugar_Ctrl:LeftToeBase
+        weight: 1
+      - path: Kugar_Ctrl:Reference/Kugar_Ctrl:Hips/Kugar_Ctrl:RightUpLeg
+        weight: 1
+      - path: Kugar_Ctrl:Reference/Kugar_Ctrl:Hips/Kugar_Ctrl:RightUpLeg/Kugar_Ctrl:RightLeg
+        weight: 1
+      - path: Kugar_Ctrl:Reference/Kugar_Ctrl:Hips/Kugar_Ctrl:RightUpLeg/Kugar_Ctrl:RightLeg/Kugar_Ctrl:RightFoot
+        weight: 1
+      - path: Kugar_Ctrl:Reference/Kugar_Ctrl:Hips/Kugar_Ctrl:RightUpLeg/Kugar_Ctrl:RightLeg/Kugar_Ctrl:RightFoot/Kugar_Ctrl:RightToeBase
+        weight: 1
+      - path: Kugar_Ctrl:Reference/Kugar_Ctrl:Hips/Kugar_Ctrl:Spine
+        weight: 1
+      - path: Kugar_Ctrl:Reference/Kugar_Ctrl:Hips/Kugar_Ctrl:Spine/Kugar_Ctrl:Spine1
+        weight: 1
+      - path: Kugar_Ctrl:Reference/Kugar_Ctrl:Hips/Kugar_Ctrl:Spine/Kugar_Ctrl:Spine1/Kugar_Ctrl:LeftArm
+        weight: 1
+      - path: Kugar_Ctrl:Reference/Kugar_Ctrl:Hips/Kugar_Ctrl:Spine/Kugar_Ctrl:Spine1/Kugar_Ctrl:LeftArm/Kugar_Ctrl:LeftForeArm
+        weight: 1
+      - path: Kugar_Ctrl:Reference/Kugar_Ctrl:Hips/Kugar_Ctrl:Spine/Kugar_Ctrl:Spine1/Kugar_Ctrl:LeftArm/Kugar_Ctrl:LeftForeArm/Kugar_Ctrl:LeftHand
+        weight: 1
+      - path: Kugar_Ctrl:Reference/Kugar_Ctrl:Hips/Kugar_Ctrl:Spine/Kugar_Ctrl:Spine1/Kugar_Ctrl:Neck
+        weight: 1
+      - path: Kugar_Ctrl:Reference/Kugar_Ctrl:Hips/Kugar_Ctrl:Spine/Kugar_Ctrl:Spine1/Kugar_Ctrl:Neck/Kugar_Ctrl:Head
+        weight: 1
+      - path: Kugar_Ctrl:Reference/Kugar_Ctrl:Hips/Kugar_Ctrl:Spine/Kugar_Ctrl:Spine1/Kugar_Ctrl:RightArm
+        weight: 1
+      - path: Kugar_Ctrl:Reference/Kugar_Ctrl:Hips/Kugar_Ctrl:Spine/Kugar_Ctrl:Spine1/Kugar_Ctrl:RightArm/Kugar_Ctrl:RightForeArm
+        weight: 1
+      - path: Kugar_Ctrl:Reference/Kugar_Ctrl:Hips/Kugar_Ctrl:Spine/Kugar_Ctrl:Spine1/Kugar_Ctrl:RightArm/Kugar_Ctrl:RightForeArm/Kugar_Ctrl:RightHand
+        weight: 1
+      - path: Kugar_Ctrl:Reference/Kugar_Ctrl:HipsEffector
+        weight: 1
+      - path: Kugar_Ctrl:Reference/Kugar_Ctrl:LeftAnkleEffector
+        weight: 1
+      - path: Kugar_Ctrl:Reference/Kugar_Ctrl:LeftElbowEffector
+        weight: 1
+      - path: Kugar_Ctrl:Reference/Kugar_Ctrl:LeftFootEffector
+        weight: 1
+      - path: Kugar_Ctrl:Reference/Kugar_Ctrl:LeftHipEffector
+        weight: 1
+      - path: Kugar_Ctrl:Reference/Kugar_Ctrl:LeftKneeEffector
+        weight: 1
+      - path: Kugar_Ctrl:Reference/Kugar_Ctrl:LeftShoulderEffector
+        weight: 1
+      - path: Kugar_Ctrl:Reference/Kugar_Ctrl:LeftWristEffector
+        weight: 1
+      - path: Kugar_Ctrl:Reference/Kugar_Ctrl:RightAnkleEffector
+        weight: 1
+      - path: Kugar_Ctrl:Reference/Kugar_Ctrl:RightElbowEffector
+        weight: 1
+      - path: Kugar_Ctrl:Reference/Kugar_Ctrl:RightFootEffector
+        weight: 1
+      - path: Kugar_Ctrl:Reference/Kugar_Ctrl:RightHipEffector
+        weight: 1
+      - path: Kugar_Ctrl:Reference/Kugar_Ctrl:RightKneeEffector
+        weight: 1
+      - path: Kugar_Ctrl:Reference/Kugar_Ctrl:RightShoulderEffector
+        weight: 1
+      - path: Kugar_Ctrl:Reference/Kugar_Ctrl:RightWristEffector
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: COG2
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 580ad5e4b0d2bdf46bf17bcb547b6ba8,
+    type: 3}
+  animationType: 2
+  additionalBone: 0
+  userData: 

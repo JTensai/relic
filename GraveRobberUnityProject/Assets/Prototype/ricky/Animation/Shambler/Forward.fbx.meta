@@ -1,0 +1,826 @@
+fileFormatVersion: 2
+guid: 403d3a6c42039494fbc982ced529a5cf
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Anim_Chest
+    100002: Anim_COG
+    100004: Anim_Pelvis
+    100006: be_L_Arm_Elbow
+    100008: be_L_Arm_Scapula
+    100010: be_L_Index
+    100012: be_L_Pinky
+    100014: be_L_Thumb
+    100016: be_Lower_L_Fin_FlapA
+    100018: be_Lower_L_Fin_FlapB
+    100020: be_Lower_L_Fin_FlapC
+    100022: be_Lower_L_Fin_FlapD
+    100024: be_Lower_L_Fin_FlapE
+    100026: be_Lower_L_Fin_FlapF
+    100028: be_Lower_R_Fin_FlapA
+    100030: be_Lower_R_Fin_FlapB
+    100032: be_Lower_R_Fin_FlapC
+    100034: be_Lower_R_Fin_FlapD
+    100036: be_Lower_R_Fin_FlapE
+    100038: be_Lower_R_Fin_FlapF
+    100040: be_LowerJaw
+    100042: be_Neck
+    100044: be_R_Arm_Elbow
+    100046: be_R_Arm_Scapula
+    100048: be_R_Index
+    100050: be_R_Middle
+    100052: be_R_Pinky
+    100054: be_R_Thumb
+    100056: be_Tail
+    100058: be_Upper_L_Fin_Flap_Hi_B
+    100060: be_Upper_L_Fin_Flap_Lo_B
+    100062: be_Upper_L_Fin_Flap_Mid_B
+    100064: be_Upper_R_Fin_Flap_Hi_B
+    100066: be_Upper_R_Fin_Flap_Lo_B
+    100068: be_Upper_R_Fin_Flap_Mid_B
+    100070: be_UpperJaw
+    100072: bn_HeadPivot_A
+    100074: bn_HeadPivot_B
+    100076: bn_Heart
+    100078: bn_L_Arm_Elbow
+    100080: bn_L_Arm_Scapula
+    100082: bn_L_Arm_Shoulder
+    100084: bn_L_Indexa
+    100086: bn_L_Indexb
+    100088: bn_L_Palm
+    100090: bn_L_Pinkya
+    100092: bn_L_Pinkyb
+    100094: bn_L_Thumb1
+    100096: bn_L_Thumb2a
+    100098: bn_L_Thumb2b
+    100100: bn_L_Wrist
+    100102: bn_Lower_L_Fin_FlapA
+    100104: bn_Lower_L_Fin_FlapB
+    100106: bn_Lower_L_Fin_FlapC
+    100108: bn_Lower_L_Fin_FlapD
+    100110: bn_Lower_L_Fin_FlapE
+    100112: bn_Lower_L_Fin_FlapF
+    100114: bn_Lower_R_Fin_FlapA
+    100116: bn_Lower_R_Fin_FlapB
+    100118: bn_Lower_R_Fin_FlapC
+    100120: bn_Lower_R_Fin_FlapD
+    100122: bn_Lower_R_Fin_FlapE
+    100124: bn_Lower_R_Fin_FlapF
+    100126: bn_LowerJaw
+    100128: bn_Neck
+    100130: bn_R_Arm_Elbow
+    100132: bn_R_Arm_Scapula
+    100134: bn_R_Arm_Shoulder
+    100136: bn_R_Arm_Wrist
+    100138: bn_R_Index1a
+    100140: bn_R_Index1b
+    100142: bn_R_Index2a
+    100144: bn_R_Index2b
+    100146: bn_R_Index3a
+    100148: bn_R_Index3b
+    100150: bn_R_Middle1a
+    100152: bn_R_Middle1b
+    100154: bn_R_Middle2a
+    100156: bn_R_Middle2b
+    100158: bn_R_Middle3a
+    100160: bn_R_Middle3b
+    100162: bn_R_Palm
+    100164: bn_R_Pinky1a
+    100166: bn_R_Pinky1b
+    100168: bn_R_Pinky2a
+    100170: bn_R_Pinky2b
+    100172: bn_R_Pinky3a
+    100174: bn_R_Pinky3b
+    100176: bn_R_Thumb1
+    100178: bn_R_Thumb2a
+    100180: bn_R_Thumb2b
+    100182: bn_R_Thumb3a
+    100184: bn_R_Thumb3b
+    100186: bn_Tail1
+    100188: bn_Tail10
+    100190: bn_Tail11
+    100192: bn_Tail12
+    100194: bn_Tail13
+    100196: bn_Tail14
+    100198: bn_Tail15
+    100200: bn_Tail16
+    100202: bn_Tail17
+    100204: bn_Tail18
+    100206: bn_Tail2
+    100208: bn_Tail3
+    100210: bn_Tail4
+    100212: bn_Tail5
+    100214: bn_Tail6
+    100216: bn_Tail7
+    100218: bn_Tail8
+    100220: bn_Tail9
+    100222: bn_Tail_Root
+    100224: bn_Upper_L_Fin
+    100226: bn_Upper_L_Fin_Flap
+    100228: bn_Upper_L_Fin_Flap_Hi_A
+    100230: bn_Upper_L_Fin_Flap_Lo_A
+    100232: bn_Upper_L_Fin_Flap_Mid_A
+    100234: bn_Upper_R_Fin1
+    100236: bn_Upper_R_Fin_Flap
+    100238: bn_Upper_R_Fin_Flap_Hi_A
+    100240: bn_Upper_R_Fin_Flap_Lo_A
+    100242: bn_Upper_R_Fin_Flap_Mid_A
+    100244: bn_UpperJaw
+    100246: cc_headPivot_A
+    100248: cc_headPivot_B
+    100250: cc_UpperJaw
+    100252: Controls
+    100254: extraNodes
+    100256: FK_L_Arm_Elbow
+    100258: FK_L_Arm_Shoulder
+    100260: FK_R_Arm_Elbow
+    100262: FK_R_Arm_Shoulder
+    100264: FK_Tail_Root
+    100266: //RootNode
+    100268: GlobalMove
+    100270: grp_locDist_Arms
+    100272: IK_L_Arm_Elbow
+    100274: IK_L_Arm_Shoulder
+    100276: IK_R_Arm_Elbow
+    100278: IK_R_Arm_Shoulder
+    100280: IK_Tail_Root
+    100282: Joints
+    100284: locAlign__bn_Heart
+    100286: locAlign_anim_L_Indexa
+    100288: locAlign_anim_L_Palm
+    100290: locAlign_anim_L_Pinkya
+    100292: locAlign_anim_L_Thumb1
+    100294: locAlign_anim_R_Index1a
+    100296: locAlign_anim_R_Middle1a
+    100298: locAlign_anim_R_Palm
+    100300: locAlign_anim_R_Pinky1a
+    100302: locAlign_anim_R_Thumb1
+    100304: locAlign_L_Shoulder_FK
+    100306: locAlign_R_Shoulder_FK
+    100308: locAlign_Shambler1_bn_Tail1
+    100310: locDist_L_Shoulder
+    100312: locDist_L_Wrist
+    100314: locDist_R_Shoulder
+    100316: locDist_R_Wrist
+    100318: locOri_UpperJaw
+    100320: Model
+    100322: rp_L_Clavicle
+    100324: rp_R_Clavicle
+    100326: Shambler
+    100328: spine_flexiPlane
+    100330: spine_flexiplane_bind_a
+    100332: spine_flexiplane_bind_b
+    100334: spine_flexiplane_bind_c
+    100336: spine_flexiplane_bind_d
+    100338: spine_flexiplane_bind_e
+    100340: spine_flexiplane_cl_a
+    100342: spine_flexiplane_cl_b
+    100344: spine_flexiplane_cl_mid
+    100346: spine_flexiplane_cls
+    100348: spine_flexiPlane_cnt_global
+    100350: spine_flexiplane_cnts
+    100352: spine_flexiplane_extraNodes
+    100354: spine_FlexiPlane_flcs
+    100356: spine_FlexiPlane_flcs_a
+    100358: spine_FlexiPlane_flcs_b
+    100360: spine_FlexiPlane_flcs_c
+    100362: spine_FlexiPlane_flcs_d
+    100364: spine_FlexiPlane_flcs_e
+    100366: spine_flexiplane_globalMove
+    400000: Anim_Chest
+    400002: Anim_COG
+    400004: Anim_Pelvis
+    400006: be_L_Arm_Elbow
+    400008: be_L_Arm_Scapula
+    400010: be_L_Index
+    400012: be_L_Pinky
+    400014: be_L_Thumb
+    400016: be_Lower_L_Fin_FlapA
+    400018: be_Lower_L_Fin_FlapB
+    400020: be_Lower_L_Fin_FlapC
+    400022: be_Lower_L_Fin_FlapD
+    400024: be_Lower_L_Fin_FlapE
+    400026: be_Lower_L_Fin_FlapF
+    400028: be_Lower_R_Fin_FlapA
+    400030: be_Lower_R_Fin_FlapB
+    400032: be_Lower_R_Fin_FlapC
+    400034: be_Lower_R_Fin_FlapD
+    400036: be_Lower_R_Fin_FlapE
+    400038: be_Lower_R_Fin_FlapF
+    400040: be_LowerJaw
+    400042: be_Neck
+    400044: be_R_Arm_Elbow
+    400046: be_R_Arm_Scapula
+    400048: be_R_Index
+    400050: be_R_Middle
+    400052: be_R_Pinky
+    400054: be_R_Thumb
+    400056: be_Tail
+    400058: be_Upper_L_Fin_Flap_Hi_B
+    400060: be_Upper_L_Fin_Flap_Lo_B
+    400062: be_Upper_L_Fin_Flap_Mid_B
+    400064: be_Upper_R_Fin_Flap_Hi_B
+    400066: be_Upper_R_Fin_Flap_Lo_B
+    400068: be_Upper_R_Fin_Flap_Mid_B
+    400070: be_UpperJaw
+    400072: bn_HeadPivot_A
+    400074: bn_HeadPivot_B
+    400076: bn_Heart
+    400078: bn_L_Arm_Elbow
+    400080: bn_L_Arm_Scapula
+    400082: bn_L_Arm_Shoulder
+    400084: bn_L_Indexa
+    400086: bn_L_Indexb
+    400088: bn_L_Palm
+    400090: bn_L_Pinkya
+    400092: bn_L_Pinkyb
+    400094: bn_L_Thumb1
+    400096: bn_L_Thumb2a
+    400098: bn_L_Thumb2b
+    400100: bn_L_Wrist
+    400102: bn_Lower_L_Fin_FlapA
+    400104: bn_Lower_L_Fin_FlapB
+    400106: bn_Lower_L_Fin_FlapC
+    400108: bn_Lower_L_Fin_FlapD
+    400110: bn_Lower_L_Fin_FlapE
+    400112: bn_Lower_L_Fin_FlapF
+    400114: bn_Lower_R_Fin_FlapA
+    400116: bn_Lower_R_Fin_FlapB
+    400118: bn_Lower_R_Fin_FlapC
+    400120: bn_Lower_R_Fin_FlapD
+    400122: bn_Lower_R_Fin_FlapE
+    400124: bn_Lower_R_Fin_FlapF
+    400126: bn_LowerJaw
+    400128: bn_Neck
+    400130: bn_R_Arm_Elbow
+    400132: bn_R_Arm_Scapula
+    400134: bn_R_Arm_Shoulder
+    400136: bn_R_Arm_Wrist
+    400138: bn_R_Index1a
+    400140: bn_R_Index1b
+    400142: bn_R_Index2a
+    400144: bn_R_Index2b
+    400146: bn_R_Index3a
+    400148: bn_R_Index3b
+    400150: bn_R_Middle1a
+    400152: bn_R_Middle1b
+    400154: bn_R_Middle2a
+    400156: bn_R_Middle2b
+    400158: bn_R_Middle3a
+    400160: bn_R_Middle3b
+    400162: bn_R_Palm
+    400164: bn_R_Pinky1a
+    400166: bn_R_Pinky1b
+    400168: bn_R_Pinky2a
+    400170: bn_R_Pinky2b
+    400172: bn_R_Pinky3a
+    400174: bn_R_Pinky3b
+    400176: bn_R_Thumb1
+    400178: bn_R_Thumb2a
+    400180: bn_R_Thumb2b
+    400182: bn_R_Thumb3a
+    400184: bn_R_Thumb3b
+    400186: bn_Tail1
+    400188: bn_Tail10
+    400190: bn_Tail11
+    400192: bn_Tail12
+    400194: bn_Tail13
+    400196: bn_Tail14
+    400198: bn_Tail15
+    400200: bn_Tail16
+    400202: bn_Tail17
+    400204: bn_Tail18
+    400206: bn_Tail2
+    400208: bn_Tail3
+    400210: bn_Tail4
+    400212: bn_Tail5
+    400214: bn_Tail6
+    400216: bn_Tail7
+    400218: bn_Tail8
+    400220: bn_Tail9
+    400222: bn_Tail_Root
+    400224: bn_Upper_L_Fin
+    400226: bn_Upper_L_Fin_Flap
+    400228: bn_Upper_L_Fin_Flap_Hi_A
+    400230: bn_Upper_L_Fin_Flap_Lo_A
+    400232: bn_Upper_L_Fin_Flap_Mid_A
+    400234: bn_Upper_R_Fin1
+    400236: bn_Upper_R_Fin_Flap
+    400238: bn_Upper_R_Fin_Flap_Hi_A
+    400240: bn_Upper_R_Fin_Flap_Lo_A
+    400242: bn_Upper_R_Fin_Flap_Mid_A
+    400244: bn_UpperJaw
+    400246: cc_headPivot_A
+    400248: cc_headPivot_B
+    400250: cc_UpperJaw
+    400252: Controls
+    400254: extraNodes
+    400256: FK_L_Arm_Elbow
+    400258: FK_L_Arm_Shoulder
+    400260: FK_R_Arm_Elbow
+    400262: FK_R_Arm_Shoulder
+    400264: FK_Tail_Root
+    400266: //RootNode
+    400268: GlobalMove
+    400270: grp_locDist_Arms
+    400272: IK_L_Arm_Elbow
+    400274: IK_L_Arm_Shoulder
+    400276: IK_R_Arm_Elbow
+    400278: IK_R_Arm_Shoulder
+    400280: IK_Tail_Root
+    400282: Joints
+    400284: locAlign__bn_Heart
+    400286: locAlign_anim_L_Indexa
+    400288: locAlign_anim_L_Palm
+    400290: locAlign_anim_L_Pinkya
+    400292: locAlign_anim_L_Thumb1
+    400294: locAlign_anim_R_Index1a
+    400296: locAlign_anim_R_Middle1a
+    400298: locAlign_anim_R_Palm
+    400300: locAlign_anim_R_Pinky1a
+    400302: locAlign_anim_R_Thumb1
+    400304: locAlign_L_Shoulder_FK
+    400306: locAlign_R_Shoulder_FK
+    400308: locAlign_Shambler1_bn_Tail1
+    400310: locDist_L_Shoulder
+    400312: locDist_L_Wrist
+    400314: locDist_R_Shoulder
+    400316: locDist_R_Wrist
+    400318: locOri_UpperJaw
+    400320: Model
+    400322: rp_L_Clavicle
+    400324: rp_R_Clavicle
+    400326: Shambler
+    400328: spine_flexiPlane
+    400330: spine_flexiplane_bind_a
+    400332: spine_flexiplane_bind_b
+    400334: spine_flexiplane_bind_c
+    400336: spine_flexiplane_bind_d
+    400338: spine_flexiplane_bind_e
+    400340: spine_flexiplane_cl_a
+    400342: spine_flexiplane_cl_b
+    400344: spine_flexiplane_cl_mid
+    400346: spine_flexiplane_cls
+    400348: spine_flexiPlane_cnt_global
+    400350: spine_flexiplane_cnts
+    400352: spine_flexiplane_extraNodes
+    400354: spine_FlexiPlane_flcs
+    400356: spine_FlexiPlane_flcs_a
+    400358: spine_FlexiPlane_flcs_b
+    400360: spine_FlexiPlane_flcs_c
+    400362: spine_FlexiPlane_flcs_d
+    400364: spine_FlexiPlane_flcs_e
+    400366: spine_flexiplane_globalMove
+    4300000: Shambler
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Shambler
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 2
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: extraNodes
+        weight: 1
+      - path: extraNodes/grp_locDist_Arms
+        weight: 1
+      - path: extraNodes/grp_locDist_Arms/locDist_L_Shoulder
+        weight: 1
+      - path: extraNodes/grp_locDist_Arms/locDist_L_Wrist
+        weight: 1
+      - path: extraNodes/grp_locDist_Arms/locDist_R_Shoulder
+        weight: 1
+      - path: extraNodes/grp_locDist_Arms/locDist_R_Wrist
+        weight: 1
+      - path: extraNodes/spine_flexiPlane
+        weight: 1
+      - path: extraNodes/spine_flexiPlane/spine_flexiplane_extraNodes
+        weight: 1
+      - path: extraNodes/spine_flexiPlane/spine_flexiplane_extraNodes/spine_flexiplane_cls
+        weight: 1
+      - path: extraNodes/spine_flexiPlane/spine_flexiplane_extraNodes/spine_flexiplane_cls/spine_flexiplane_cl_a
+        weight: 1
+      - path: extraNodes/spine_flexiPlane/spine_flexiplane_extraNodes/spine_flexiplane_cls/spine_flexiplane_cl_b
+        weight: 1
+      - path: extraNodes/spine_flexiPlane/spine_flexiplane_extraNodes/spine_flexiplane_cls/spine_flexiplane_cl_mid
+        weight: 1
+      - path: extraNodes/spine_flexiPlane/spine_flexiplane_extraNodes/spine_FlexiPlane_flcs
+        weight: 1
+      - path: extraNodes/spine_flexiPlane/spine_flexiplane_extraNodes/spine_FlexiPlane_flcs/spine_FlexiPlane_flcs_a
+        weight: 1
+      - path: extraNodes/spine_flexiPlane/spine_flexiplane_extraNodes/spine_FlexiPlane_flcs/spine_FlexiPlane_flcs_a/spine_flexiplane_bind_a
+        weight: 1
+      - path: extraNodes/spine_flexiPlane/spine_flexiplane_extraNodes/spine_FlexiPlane_flcs/spine_FlexiPlane_flcs_b
+        weight: 1
+      - path: extraNodes/spine_flexiPlane/spine_flexiplane_extraNodes/spine_FlexiPlane_flcs/spine_FlexiPlane_flcs_b/spine_flexiplane_bind_b
+        weight: 1
+      - path: extraNodes/spine_flexiPlane/spine_flexiplane_extraNodes/spine_FlexiPlane_flcs/spine_FlexiPlane_flcs_c
+        weight: 1
+      - path: extraNodes/spine_flexiPlane/spine_flexiplane_extraNodes/spine_FlexiPlane_flcs/spine_FlexiPlane_flcs_c/spine_flexiplane_bind_c
+        weight: 1
+      - path: extraNodes/spine_flexiPlane/spine_flexiplane_extraNodes/spine_FlexiPlane_flcs/spine_FlexiPlane_flcs_d
+        weight: 1
+      - path: extraNodes/spine_flexiPlane/spine_flexiplane_extraNodes/spine_FlexiPlane_flcs/spine_FlexiPlane_flcs_d/spine_flexiplane_bind_d
+        weight: 1
+      - path: extraNodes/spine_flexiPlane/spine_flexiplane_extraNodes/spine_FlexiPlane_flcs/spine_FlexiPlane_flcs_e
+        weight: 1
+      - path: extraNodes/spine_flexiPlane/spine_flexiplane_extraNodes/spine_FlexiPlane_flcs/spine_FlexiPlane_flcs_e/spine_flexiplane_bind_e
+        weight: 1
+      - path: GlobalMove
+        weight: 1
+      - path: GlobalMove/Controls
+        weight: 1
+      - path: GlobalMove/Controls/Anim_COG
+        weight: 1
+      - path: GlobalMove/Controls/Anim_COG/cc_headPivot_A
+        weight: 1
+      - path: GlobalMove/Controls/Anim_COG/cc_headPivot_A/cc_headPivot_B
+        weight: 1
+      - path: GlobalMove/Controls/Anim_COG/cc_headPivot_A/cc_headPivot_B/cc_UpperJaw
+        weight: 1
+      - path: GlobalMove/Controls/Anim_COG/cc_headPivot_A/cc_headPivot_B/cc_UpperJaw/bn_UpperJaw
+        weight: 1
+      - path: GlobalMove/Controls/Anim_COG/cc_headPivot_A/cc_headPivot_B/cc_UpperJaw/bn_UpperJaw/be_UpperJaw
+        weight: 1
+      - path: GlobalMove/Controls/Anim_COG/cc_headPivot_A/cc_headPivot_B/cc_UpperJaw/locOri_UpperJaw
+        weight: 1
+      - path: GlobalMove/Controls/Anim_COG/locAlign__bn_Heart
+        weight: 1
+      - path: GlobalMove/Controls/Anim_COG/locAlign__bn_Heart/Anim_Chest
+        weight: 1
+      - path: GlobalMove/Controls/Anim_COG/locAlign_L_Shoulder_FK
+        weight: 1
+      - path: GlobalMove/Controls/Anim_COG/locAlign_R_Shoulder_FK
+        weight: 1
+      - path: GlobalMove/Controls/Anim_COG/locAlign_Shambler1_bn_Tail1
+        weight: 1
+      - path: GlobalMove/Controls/Anim_COG/locAlign_Shambler1_bn_Tail1/Anim_Pelvis
+        weight: 1
+      - path: GlobalMove/Controls/Anim_COG/spine_flexiPlane_cnt_global
+        weight: 1
+      - path: GlobalMove/Controls/Anim_COG/spine_flexiPlane_cnt_global/spine_flexiplane_globalMove
+        weight: 1
+      - path: GlobalMove/Controls/Anim_COG/spine_flexiPlane_cnt_global/spine_flexiplane_globalMove/spine_flexiplane_cnts
+        weight: 1
+      - path: GlobalMove/Joints
+        weight: 1
+      - path: GlobalMove/Joints/bn_Heart
+        weight: 1
+      - path: GlobalMove/Joints/bn_Heart/bn_HeadPivot_A
+        weight: 1
+      - path: GlobalMove/Joints/bn_Heart/bn_HeadPivot_A/bn_HeadPivot_B
+        weight: 1
+      - path: GlobalMove/Joints/bn_Heart/bn_HeadPivot_A/bn_HeadPivot_B/bn_LowerJaw
+        weight: 1
+      - path: GlobalMove/Joints/bn_Heart/bn_HeadPivot_A/bn_HeadPivot_B/bn_LowerJaw/be_LowerJaw
+        weight: 1
+      - path: GlobalMove/Joints/bn_Heart/bn_L_Arm_Scapula
+        weight: 1
+      - path: GlobalMove/Joints/bn_Heart/bn_L_Arm_Scapula/be_L_Arm_Scapula
+        weight: 1
+      - path: GlobalMove/Joints/bn_Heart/bn_Neck
+        weight: 1
+      - path: GlobalMove/Joints/bn_Heart/bn_Neck/be_Neck
+        weight: 1
+      - path: GlobalMove/Joints/bn_Heart/bn_R_Arm_Scapula
+        weight: 1
+      - path: GlobalMove/Joints/bn_Heart/bn_R_Arm_Scapula/be_R_Arm_Scapula
+        weight: 1
+      - path: GlobalMove/Joints/bn_Heart/rp_L_Clavicle
+        weight: 1
+      - path: GlobalMove/Joints/bn_Heart/rp_R_Clavicle
+        weight: 1
+      - path: GlobalMove/Joints/bn_L_Arm_Shoulder
+        weight: 1
+      - path: GlobalMove/Joints/bn_L_Arm_Shoulder/bn_L_Arm_Elbow
+        weight: 1
+      - path: GlobalMove/Joints/bn_L_Arm_Shoulder/bn_L_Arm_Elbow/be_L_Arm_Elbow
+        weight: 1
+      - path: GlobalMove/Joints/bn_L_Wrist
+        weight: 1
+      - path: GlobalMove/Joints/bn_L_Wrist/bn_L_Palm
+        weight: 1
+      - path: GlobalMove/Joints/bn_L_Wrist/bn_L_Palm/bn_L_Indexa
+        weight: 1
+      - path: GlobalMove/Joints/bn_L_Wrist/bn_L_Palm/bn_L_Indexa/bn_L_Indexb
+        weight: 1
+      - path: GlobalMove/Joints/bn_L_Wrist/bn_L_Palm/bn_L_Indexa/bn_L_Indexb/be_L_Index
+        weight: 1
+      - path: GlobalMove/Joints/bn_L_Wrist/bn_L_Palm/bn_L_Pinkya
+        weight: 1
+      - path: GlobalMove/Joints/bn_L_Wrist/bn_L_Palm/bn_L_Pinkya/bn_L_Pinkyb
+        weight: 1
+      - path: GlobalMove/Joints/bn_L_Wrist/bn_L_Palm/bn_L_Pinkya/bn_L_Pinkyb/be_L_Pinky
+        weight: 1
+      - path: GlobalMove/Joints/bn_L_Wrist/bn_L_Palm/locAlign_anim_L_Indexa
+        weight: 1
+      - path: GlobalMove/Joints/bn_L_Wrist/bn_L_Palm/locAlign_anim_L_Pinkya
+        weight: 1
+      - path: GlobalMove/Joints/bn_L_Wrist/bn_L_Thumb1
+        weight: 1
+      - path: GlobalMove/Joints/bn_L_Wrist/bn_L_Thumb1/bn_L_Thumb2a
+        weight: 1
+      - path: GlobalMove/Joints/bn_L_Wrist/bn_L_Thumb1/bn_L_Thumb2a/bn_L_Thumb2b
+        weight: 1
+      - path: GlobalMove/Joints/bn_L_Wrist/bn_L_Thumb1/bn_L_Thumb2a/bn_L_Thumb2b/be_L_Thumb
+        weight: 1
+      - path: GlobalMove/Joints/bn_L_Wrist/locAlign_anim_L_Palm
+        weight: 1
+      - path: GlobalMove/Joints/bn_L_Wrist/locAlign_anim_L_Thumb1
+        weight: 1
+      - path: GlobalMove/Joints/bn_R_Arm_Shoulder
+        weight: 1
+      - path: GlobalMove/Joints/bn_R_Arm_Shoulder/bn_R_Arm_Elbow
+        weight: 1
+      - path: GlobalMove/Joints/bn_R_Arm_Shoulder/bn_R_Arm_Elbow/be_R_Arm_Elbow
+        weight: 1
+      - path: GlobalMove/Joints/bn_R_Arm_Wrist
+        weight: 1
+      - path: GlobalMove/Joints/bn_R_Arm_Wrist/bn_R_Palm
+        weight: 1
+      - path: GlobalMove/Joints/bn_R_Arm_Wrist/bn_R_Palm/bn_R_Index1a
+        weight: 1
+      - path: GlobalMove/Joints/bn_R_Arm_Wrist/bn_R_Palm/bn_R_Index1a/bn_R_Index1b
+        weight: 1
+      - path: GlobalMove/Joints/bn_R_Arm_Wrist/bn_R_Palm/bn_R_Index1a/bn_R_Index1b/bn_R_Index2a
+        weight: 1
+      - path: GlobalMove/Joints/bn_R_Arm_Wrist/bn_R_Palm/bn_R_Index1a/bn_R_Index1b/bn_R_Index2a/bn_R_Index2b
+        weight: 1
+      - path: GlobalMove/Joints/bn_R_Arm_Wrist/bn_R_Palm/bn_R_Index1a/bn_R_Index1b/bn_R_Index2a/bn_R_Index2b/bn_R_Index3a
+        weight: 1
+      - path: GlobalMove/Joints/bn_R_Arm_Wrist/bn_R_Palm/bn_R_Index1a/bn_R_Index1b/bn_R_Index2a/bn_R_Index2b/bn_R_Index3a/bn_R_Index3b
+        weight: 1
+      - path: GlobalMove/Joints/bn_R_Arm_Wrist/bn_R_Palm/bn_R_Index1a/bn_R_Index1b/bn_R_Index2a/bn_R_Index2b/bn_R_Index3a/bn_R_Index3b/be_R_Index
+        weight: 1
+      - path: GlobalMove/Joints/bn_R_Arm_Wrist/bn_R_Palm/bn_R_Middle1a
+        weight: 1
+      - path: GlobalMove/Joints/bn_R_Arm_Wrist/bn_R_Palm/bn_R_Middle1a/bn_R_Middle1b
+        weight: 1
+      - path: GlobalMove/Joints/bn_R_Arm_Wrist/bn_R_Palm/bn_R_Middle1a/bn_R_Middle1b/bn_R_Middle2a
+        weight: 1
+      - path: GlobalMove/Joints/bn_R_Arm_Wrist/bn_R_Palm/bn_R_Middle1a/bn_R_Middle1b/bn_R_Middle2a/bn_R_Middle2b
+        weight: 1
+      - path: GlobalMove/Joints/bn_R_Arm_Wrist/bn_R_Palm/bn_R_Middle1a/bn_R_Middle1b/bn_R_Middle2a/bn_R_Middle2b/bn_R_Middle3a
+        weight: 1
+      - path: GlobalMove/Joints/bn_R_Arm_Wrist/bn_R_Palm/bn_R_Middle1a/bn_R_Middle1b/bn_R_Middle2a/bn_R_Middle2b/bn_R_Middle3a/bn_R_Middle3b
+        weight: 1
+      - path: GlobalMove/Joints/bn_R_Arm_Wrist/bn_R_Palm/bn_R_Middle1a/bn_R_Middle1b/bn_R_Middle2a/bn_R_Middle2b/bn_R_Middle3a/bn_R_Middle3b/be_R_Middle
+        weight: 1
+      - path: GlobalMove/Joints/bn_R_Arm_Wrist/bn_R_Palm/bn_R_Pinky1a
+        weight: 1
+      - path: GlobalMove/Joints/bn_R_Arm_Wrist/bn_R_Palm/bn_R_Pinky1a/bn_R_Pinky1b
+        weight: 1
+      - path: GlobalMove/Joints/bn_R_Arm_Wrist/bn_R_Palm/bn_R_Pinky1a/bn_R_Pinky1b/bn_R_Pinky2a
+        weight: 1
+      - path: GlobalMove/Joints/bn_R_Arm_Wrist/bn_R_Palm/bn_R_Pinky1a/bn_R_Pinky1b/bn_R_Pinky2a/bn_R_Pinky2b
+        weight: 1
+      - path: GlobalMove/Joints/bn_R_Arm_Wrist/bn_R_Palm/bn_R_Pinky1a/bn_R_Pinky1b/bn_R_Pinky2a/bn_R_Pinky2b/bn_R_Pinky3a
+        weight: 1
+      - path: GlobalMove/Joints/bn_R_Arm_Wrist/bn_R_Palm/bn_R_Pinky1a/bn_R_Pinky1b/bn_R_Pinky2a/bn_R_Pinky2b/bn_R_Pinky3a/bn_R_Pinky3b
+        weight: 1
+      - path: GlobalMove/Joints/bn_R_Arm_Wrist/bn_R_Palm/bn_R_Pinky1a/bn_R_Pinky1b/bn_R_Pinky2a/bn_R_Pinky2b/bn_R_Pinky3a/bn_R_Pinky3b/be_R_Pinky
+        weight: 1
+      - path: GlobalMove/Joints/bn_R_Arm_Wrist/bn_R_Palm/locAlign_anim_R_Index1a
+        weight: 1
+      - path: GlobalMove/Joints/bn_R_Arm_Wrist/bn_R_Palm/locAlign_anim_R_Middle1a
+        weight: 1
+      - path: GlobalMove/Joints/bn_R_Arm_Wrist/bn_R_Palm/locAlign_anim_R_Pinky1a
+        weight: 1
+      - path: GlobalMove/Joints/bn_R_Arm_Wrist/bn_R_Thumb1
+        weight: 1
+      - path: GlobalMove/Joints/bn_R_Arm_Wrist/bn_R_Thumb1/bn_R_Thumb2a
+        weight: 1
+      - path: GlobalMove/Joints/bn_R_Arm_Wrist/bn_R_Thumb1/bn_R_Thumb2a/bn_R_Thumb2b
+        weight: 1
+      - path: GlobalMove/Joints/bn_R_Arm_Wrist/bn_R_Thumb1/bn_R_Thumb2a/bn_R_Thumb2b/bn_R_Thumb3a
+        weight: 1
+      - path: GlobalMove/Joints/bn_R_Arm_Wrist/bn_R_Thumb1/bn_R_Thumb2a/bn_R_Thumb2b/bn_R_Thumb3a/bn_R_Thumb3b
+        weight: 1
+      - path: GlobalMove/Joints/bn_R_Arm_Wrist/bn_R_Thumb1/bn_R_Thumb2a/bn_R_Thumb2b/bn_R_Thumb3a/bn_R_Thumb3b/be_R_Thumb
+        weight: 1
+      - path: GlobalMove/Joints/bn_R_Arm_Wrist/locAlign_anim_R_Palm
+        weight: 1
+      - path: GlobalMove/Joints/bn_R_Arm_Wrist/locAlign_anim_R_Thumb1
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Tail1
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Tail1/bn_Tail2
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Tail1/bn_Tail2/bn_Tail3
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Tail1/bn_Tail2/bn_Tail3/bn_Lower_L_Fin_FlapA
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Tail1/bn_Tail2/bn_Tail3/bn_Lower_L_Fin_FlapA/be_Lower_L_Fin_FlapA
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Tail1/bn_Tail2/bn_Tail3/bn_Lower_R_Fin_FlapA
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Tail1/bn_Tail2/bn_Tail3/bn_Lower_R_Fin_FlapA/be_Lower_R_Fin_FlapA
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Tail1/bn_Tail2/bn_Tail3/bn_Tail4
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Tail1/bn_Tail2/bn_Tail3/bn_Tail4/bn_Lower_L_Fin_FlapB
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Tail1/bn_Tail2/bn_Tail3/bn_Tail4/bn_Lower_L_Fin_FlapB/be_Lower_L_Fin_FlapB
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Tail1/bn_Tail2/bn_Tail3/bn_Tail4/bn_Lower_R_Fin_FlapB
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Tail1/bn_Tail2/bn_Tail3/bn_Tail4/bn_Lower_R_Fin_FlapB/be_Lower_R_Fin_FlapB
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Tail1/bn_Tail2/bn_Tail3/bn_Tail4/bn_Tail5
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Tail1/bn_Tail2/bn_Tail3/bn_Tail4/bn_Tail5/bn_Lower_L_Fin_FlapC
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Tail1/bn_Tail2/bn_Tail3/bn_Tail4/bn_Tail5/bn_Lower_L_Fin_FlapC/be_Lower_L_Fin_FlapC
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Tail1/bn_Tail2/bn_Tail3/bn_Tail4/bn_Tail5/bn_Lower_R_Fin_FlapC
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Tail1/bn_Tail2/bn_Tail3/bn_Tail4/bn_Tail5/bn_Lower_R_Fin_FlapC/be_Lower_R_Fin_FlapC
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Tail1/bn_Tail2/bn_Tail3/bn_Tail4/bn_Tail5/bn_Tail6
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Tail1/bn_Tail2/bn_Tail3/bn_Tail4/bn_Tail5/bn_Tail6/bn_Lower_L_Fin_FlapD
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Tail1/bn_Tail2/bn_Tail3/bn_Tail4/bn_Tail5/bn_Tail6/bn_Lower_L_Fin_FlapD/be_Lower_L_Fin_FlapD
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Tail1/bn_Tail2/bn_Tail3/bn_Tail4/bn_Tail5/bn_Tail6/bn_Lower_R_Fin_FlapD
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Tail1/bn_Tail2/bn_Tail3/bn_Tail4/bn_Tail5/bn_Tail6/bn_Lower_R_Fin_FlapD/be_Lower_R_Fin_FlapD
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Tail1/bn_Tail2/bn_Tail3/bn_Tail4/bn_Tail5/bn_Tail6/bn_Tail7
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Tail1/bn_Tail2/bn_Tail3/bn_Tail4/bn_Tail5/bn_Tail6/bn_Tail7/bn_Lower_L_Fin_FlapE
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Tail1/bn_Tail2/bn_Tail3/bn_Tail4/bn_Tail5/bn_Tail6/bn_Tail7/bn_Lower_L_Fin_FlapE/be_Lower_L_Fin_FlapE
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Tail1/bn_Tail2/bn_Tail3/bn_Tail4/bn_Tail5/bn_Tail6/bn_Tail7/bn_Lower_R_Fin_FlapE
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Tail1/bn_Tail2/bn_Tail3/bn_Tail4/bn_Tail5/bn_Tail6/bn_Tail7/bn_Lower_R_Fin_FlapE/be_Lower_R_Fin_FlapE
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Tail1/bn_Tail2/bn_Tail3/bn_Tail4/bn_Tail5/bn_Tail6/bn_Tail7/bn_Tail8
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Tail1/bn_Tail2/bn_Tail3/bn_Tail4/bn_Tail5/bn_Tail6/bn_Tail7/bn_Tail8/bn_Lower_L_Fin_FlapF
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Tail1/bn_Tail2/bn_Tail3/bn_Tail4/bn_Tail5/bn_Tail6/bn_Tail7/bn_Tail8/bn_Lower_L_Fin_FlapF/be_Lower_L_Fin_FlapF
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Tail1/bn_Tail2/bn_Tail3/bn_Tail4/bn_Tail5/bn_Tail6/bn_Tail7/bn_Tail8/bn_Lower_R_Fin_FlapF
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Tail1/bn_Tail2/bn_Tail3/bn_Tail4/bn_Tail5/bn_Tail6/bn_Tail7/bn_Tail8/bn_Lower_R_Fin_FlapF/be_Lower_R_Fin_FlapF
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Tail1/bn_Tail2/bn_Tail3/bn_Tail4/bn_Tail5/bn_Tail6/bn_Tail7/bn_Tail8/bn_Tail9
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Tail1/bn_Tail2/bn_Tail3/bn_Tail4/bn_Tail5/bn_Tail6/bn_Tail7/bn_Tail8/bn_Tail9/bn_Tail10
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Tail1/bn_Tail2/bn_Tail3/bn_Tail4/bn_Tail5/bn_Tail6/bn_Tail7/bn_Tail8/bn_Tail9/bn_Tail10/bn_Tail11
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Tail1/bn_Tail2/bn_Tail3/bn_Tail4/bn_Tail5/bn_Tail6/bn_Tail7/bn_Tail8/bn_Tail9/bn_Tail10/bn_Tail11/bn_Tail12
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Tail1/bn_Tail2/bn_Tail3/bn_Tail4/bn_Tail5/bn_Tail6/bn_Tail7/bn_Tail8/bn_Tail9/bn_Tail10/bn_Tail11/bn_Tail12/bn_Tail13
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Tail1/bn_Tail2/bn_Tail3/bn_Tail4/bn_Tail5/bn_Tail6/bn_Tail7/bn_Tail8/bn_Tail9/bn_Tail10/bn_Tail11/bn_Tail12/bn_Tail13/bn_Tail14
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Tail1/bn_Tail2/bn_Tail3/bn_Tail4/bn_Tail5/bn_Tail6/bn_Tail7/bn_Tail8/bn_Tail9/bn_Tail10/bn_Tail11/bn_Tail12/bn_Tail13/bn_Tail14/bn_Tail15
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Tail1/bn_Tail2/bn_Tail3/bn_Tail4/bn_Tail5/bn_Tail6/bn_Tail7/bn_Tail8/bn_Tail9/bn_Tail10/bn_Tail11/bn_Tail12/bn_Tail13/bn_Tail14/bn_Tail15/bn_Tail16
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Tail1/bn_Tail2/bn_Tail3/bn_Tail4/bn_Tail5/bn_Tail6/bn_Tail7/bn_Tail8/bn_Tail9/bn_Tail10/bn_Tail11/bn_Tail12/bn_Tail13/bn_Tail14/bn_Tail15/bn_Tail16/bn_Tail17
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Tail1/bn_Tail2/bn_Tail3/bn_Tail4/bn_Tail5/bn_Tail6/bn_Tail7/bn_Tail8/bn_Tail9/bn_Tail10/bn_Tail11/bn_Tail12/bn_Tail13/bn_Tail14/bn_Tail15/bn_Tail16/bn_Tail17/bn_Tail18
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Tail1/bn_Tail2/bn_Tail3/bn_Tail4/bn_Tail5/bn_Tail6/bn_Tail7/bn_Tail8/bn_Tail9/bn_Tail10/bn_Tail11/bn_Tail12/bn_Tail13/bn_Tail14/bn_Tail15/bn_Tail16/bn_Tail17/bn_Tail18/be_Tail
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Upper_L_Fin
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Upper_L_Fin/bn_Upper_L_Fin_Flap
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Upper_L_Fin/bn_Upper_L_Fin_Flap/bn_Upper_L_Fin_Flap_Hi_A
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Upper_L_Fin/bn_Upper_L_Fin_Flap/bn_Upper_L_Fin_Flap_Hi_A/be_Upper_L_Fin_Flap_Hi_B
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Upper_L_Fin/bn_Upper_L_Fin_Flap/bn_Upper_L_Fin_Flap_Lo_A
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Upper_L_Fin/bn_Upper_L_Fin_Flap/bn_Upper_L_Fin_Flap_Lo_A/be_Upper_L_Fin_Flap_Lo_B
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Upper_L_Fin/bn_Upper_L_Fin_Flap/bn_Upper_L_Fin_Flap_Mid_A
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Upper_L_Fin/bn_Upper_L_Fin_Flap/bn_Upper_L_Fin_Flap_Mid_A/be_Upper_L_Fin_Flap_Mid_B
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Upper_R_Fin1
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Upper_R_Fin1/bn_Upper_R_Fin_Flap
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Upper_R_Fin1/bn_Upper_R_Fin_Flap/bn_Upper_R_Fin_Flap_Hi_A
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Upper_R_Fin1/bn_Upper_R_Fin_Flap/bn_Upper_R_Fin_Flap_Hi_A/be_Upper_R_Fin_Flap_Hi_B
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Upper_R_Fin1/bn_Upper_R_Fin_Flap/bn_Upper_R_Fin_Flap_Lo_A
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Upper_R_Fin1/bn_Upper_R_Fin_Flap/bn_Upper_R_Fin_Flap_Lo_A/be_Upper_R_Fin_Flap_Lo_B
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Upper_R_Fin1/bn_Upper_R_Fin_Flap/bn_Upper_R_Fin_Flap_Mid_A
+        weight: 1
+      - path: GlobalMove/Joints/bn_Tail_Root/bn_Upper_R_Fin1/bn_Upper_R_Fin_Flap/bn_Upper_R_Fin_Flap_Mid_A/be_Upper_R_Fin_Flap_Mid_B
+        weight: 1
+      - path: GlobalMove/Joints/FK_L_Arm_Shoulder
+        weight: 1
+      - path: GlobalMove/Joints/FK_L_Arm_Shoulder/FK_L_Arm_Elbow
+        weight: 1
+      - path: GlobalMove/Joints/FK_R_Arm_Shoulder
+        weight: 1
+      - path: GlobalMove/Joints/FK_R_Arm_Shoulder/FK_R_Arm_Elbow
+        weight: 1
+      - path: GlobalMove/Joints/FK_Tail_Root
+        weight: 1
+      - path: GlobalMove/Joints/IK_L_Arm_Shoulder
+        weight: 1
+      - path: GlobalMove/Joints/IK_L_Arm_Shoulder/IK_L_Arm_Elbow
+        weight: 1
+      - path: GlobalMove/Joints/IK_R_Arm_Shoulder
+        weight: 1
+      - path: GlobalMove/Joints/IK_R_Arm_Shoulder/IK_R_Arm_Elbow
+        weight: 1
+      - path: GlobalMove/Joints/IK_Tail_Root
+        weight: 1
+      - path: Model
+        weight: 1
+      - path: Model/Shambler
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: Shambler
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 4aa3c27665a99f846a584fc5e991b0d4,
+    type: 3}
+  animationType: 2
+  additionalBone: 0
+  userData: 

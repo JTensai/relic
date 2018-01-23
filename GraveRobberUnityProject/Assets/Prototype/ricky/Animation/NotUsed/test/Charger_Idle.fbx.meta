@@ -1,0 +1,450 @@
+fileFormatVersion: 2
+guid: 2cf466c18496bbb4687c140994f211c7
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bone
+    100002: Charger_Head
+    100004: Charger_Hips
+    100006: //RootNode
+    100008: Charger_LeftArm
+    100010: Charger_LeftFoot
+    100012: Charger_LeftForeArm
+    100014: Charger_LeftHand
+    100016: Charger_LeftHandIndex1
+    100018: Charger_LeftHandIndex2
+    100020: Charger_LeftHandMiddle1
+    100022: Charger_LeftHandMiddle2
+    100024: Charger_LeftHandRing1
+    100026: Charger_LeftHandRing2
+    100028: Charger_LeftHandThumb1
+    100030: Charger_LeftHandThumb2
+    100032: Charger_LeftLeg
+    100034: Charger_LeftShoulder
+    100036: Charger_LeftToeBase
+    100038: Charger_LeftUpLeg
+    100040: Charger_Neck
+    100042: Charger_Reference
+    100044: Charger_RightArm
+    100046: Charger_RightFoot
+    100048: Charger_RightForeArm
+    100050: Charger_RightHand
+    100052: Charger_RightHandIndex1
+    100054: Charger_RightHandIndex2
+    100056: Charger_RightHandMiddle1
+    100058: Charger_RightHandMiddle2
+    100060: Charger_RightHandRing1
+    100062: Charger_RightHandRing2
+    100064: Charger_RightHandThumb1
+    100066: Charger_RightHandThumb2
+    100068: Charger_RightLeg
+    100070: Charger_RightShoulder
+    100072: Charger_RightToeBase
+    100074: Charger_RightUpLeg
+    100076: Charger_Spine
+    100078: Charger_Spine1
+    100080: Charger_Spine2
+    100082: Plane
+    100084: polySurface11
+    100086: polySurface12
+    100088: polySurface16
+    100090: polySurface18
+    100092: polySurface19
+    100094: polySurface20
+    100096: polySurface24
+    100098: polySurface26
+    100100: polySurface27
+    100102: polySurface28
+    100104: polySurface30
+    100106: polySurface32
+    100108: polySurface34
+    100110: polySurface37
+    100112: polySurface38
+    100114: polySurface39
+    100116: polySurface41
+    100118: polySurface42
+    100120: polySurface44
+    100122: polySurface45
+    100124: polySurface47
+    100126: polySurface48
+    100128: polySurface5
+    100130: polySurface7
+    100132: polySurface8
+    100134: polySurface9
+    100136: Teeth
+    400000: Bone
+    400002: Charger_Head
+    400004: Charger_Hips
+    400006: //RootNode
+    400008: Charger_LeftArm
+    400010: Charger_LeftFoot
+    400012: Charger_LeftForeArm
+    400014: Charger_LeftHand
+    400016: Charger_LeftHandIndex1
+    400018: Charger_LeftHandIndex2
+    400020: Charger_LeftHandMiddle1
+    400022: Charger_LeftHandMiddle2
+    400024: Charger_LeftHandRing1
+    400026: Charger_LeftHandRing2
+    400028: Charger_LeftHandThumb1
+    400030: Charger_LeftHandThumb2
+    400032: Charger_LeftLeg
+    400034: Charger_LeftShoulder
+    400036: Charger_LeftToeBase
+    400038: Charger_LeftUpLeg
+    400040: Charger_Neck
+    400042: Charger_Reference
+    400044: Charger_RightArm
+    400046: Charger_RightFoot
+    400048: Charger_RightForeArm
+    400050: Charger_RightHand
+    400052: Charger_RightHandIndex1
+    400054: Charger_RightHandIndex2
+    400056: Charger_RightHandMiddle1
+    400058: Charger_RightHandMiddle2
+    400060: Charger_RightHandRing1
+    400062: Charger_RightHandRing2
+    400064: Charger_RightHandThumb1
+    400066: Charger_RightHandThumb2
+    400068: Charger_RightLeg
+    400070: Charger_RightShoulder
+    400072: Charger_RightToeBase
+    400074: Charger_RightUpLeg
+    400076: Charger_Spine
+    400078: Charger_Spine1
+    400080: Charger_Spine2
+    400082: Plane
+    400084: polySurface11
+    400086: polySurface12
+    400088: polySurface16
+    400090: polySurface18
+    400092: polySurface19
+    400094: polySurface20
+    400096: polySurface24
+    400098: polySurface26
+    400100: polySurface27
+    400102: polySurface28
+    400104: polySurface30
+    400106: polySurface32
+    400108: polySurface34
+    400110: polySurface37
+    400112: polySurface38
+    400114: polySurface39
+    400116: polySurface41
+    400118: polySurface42
+    400120: polySurface44
+    400122: polySurface45
+    400124: polySurface47
+    400126: polySurface48
+    400128: polySurface5
+    400130: polySurface7
+    400132: polySurface8
+    400134: polySurface9
+    400136: Teeth
+    2300000: Bone
+    2300002: Plane
+    2300004: polySurface11
+    2300006: polySurface12
+    2300008: polySurface16
+    2300010: polySurface18
+    2300012: polySurface19
+    2300014: polySurface20
+    2300016: polySurface24
+    2300018: polySurface26
+    2300020: polySurface27
+    2300022: polySurface28
+    2300024: polySurface30
+    2300026: polySurface32
+    2300028: polySurface34
+    2300030: polySurface37
+    2300032: polySurface38
+    2300034: polySurface39
+    2300036: polySurface41
+    2300038: polySurface42
+    2300040: polySurface44
+    2300042: polySurface45
+    2300044: polySurface47
+    2300046: polySurface48
+    2300048: polySurface5
+    2300050: polySurface7
+    2300052: polySurface8
+    2300054: polySurface9
+    2300056: Teeth
+    3300000: Bone
+    3300002: Plane
+    3300004: polySurface11
+    3300006: polySurface12
+    3300008: polySurface16
+    3300010: polySurface18
+    3300012: polySurface19
+    3300014: polySurface20
+    3300016: polySurface24
+    3300018: polySurface26
+    3300020: polySurface27
+    3300022: polySurface28
+    3300024: polySurface30
+    3300026: polySurface32
+    3300028: polySurface34
+    3300030: polySurface37
+    3300032: polySurface38
+    3300034: polySurface39
+    3300036: polySurface41
+    3300038: polySurface42
+    3300040: polySurface44
+    3300042: polySurface45
+    3300044: polySurface47
+    3300046: polySurface48
+    3300048: polySurface5
+    3300050: polySurface7
+    3300052: polySurface8
+    3300054: polySurface9
+    3300056: Teeth
+    4300000: polySurface20
+    4300002: polySurface19
+    4300004: polySurface18
+    4300006: polySurface16
+    4300008: polySurface28
+    4300010: polySurface27
+    4300012: polySurface26
+    4300014: polySurface24
+    4300016: polySurface12
+    4300018: polySurface11
+    4300020: polySurface9
+    4300022: polySurface41
+    4300024: polySurface8
+    4300026: polySurface7
+    4300028: polySurface5
+    4300030: polySurface42
+    4300032: polySurface37
+    4300034: Bone
+    4300036: Teeth
+    4300038: polySurface38
+    4300040: polySurface39
+    4300042: polySurface44
+    4300044: polySurface34
+    4300046: polySurface45
+    4300048: polySurface32
+    4300050: polySurface47
+    4300052: polySurface30
+    4300054: polySurface48
+    4300056: Plane
+    7400000: Idle
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Idle
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Charger_Reference
+        weight: 1
+      - path: Charger_Reference/Charger_Hips
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_LeftUpLeg
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_LeftUpLeg/Charger_LeftLeg
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_LeftUpLeg/Charger_LeftLeg/Charger_LeftFoot
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_LeftUpLeg/Charger_LeftLeg/Charger_LeftFoot/Charger_LeftToeBase
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_LeftUpLeg/Charger_LeftLeg/Charger_LeftFoot/Charger_LeftToeBase/polySurface20
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_LeftUpLeg/Charger_LeftLeg/Charger_LeftFoot/polySurface19
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_LeftUpLeg/Charger_LeftLeg/polySurface18
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_LeftUpLeg/polySurface16
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_RightUpLeg
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_RightUpLeg/Charger_RightLeg
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_RightUpLeg/Charger_RightLeg/Charger_RightFoot
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_RightUpLeg/Charger_RightLeg/Charger_RightFoot/Charger_RightToeBase
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_RightUpLeg/Charger_RightLeg/Charger_RightFoot/Charger_RightToeBase/polySurface28
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_RightUpLeg/Charger_RightLeg/Charger_RightFoot/polySurface27
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_RightUpLeg/Charger_RightLeg/polySurface26
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_RightUpLeg/polySurface24
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_Spine
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_Spine/Charger_Spine1
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_Spine/Charger_Spine1/Charger_Spine2
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_Spine/Charger_Spine1/Charger_Spine2/Charger_LeftShoulder
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_Spine/Charger_Spine1/Charger_Spine2/Charger_LeftShoulder/Charger_LeftArm
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_Spine/Charger_Spine1/Charger_Spine2/Charger_LeftShoulder/Charger_LeftArm/Charger_LeftForeArm
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_Spine/Charger_Spine1/Charger_Spine2/Charger_LeftShoulder/Charger_LeftArm/Charger_LeftForeArm/Charger_LeftHand
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_Spine/Charger_Spine1/Charger_Spine2/Charger_LeftShoulder/Charger_LeftArm/Charger_LeftForeArm/Charger_LeftHand/Charger_LeftHandIndex1
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_Spine/Charger_Spine1/Charger_Spine2/Charger_LeftShoulder/Charger_LeftArm/Charger_LeftForeArm/Charger_LeftHand/Charger_LeftHandIndex1/Charger_LeftHandIndex2
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_Spine/Charger_Spine1/Charger_Spine2/Charger_LeftShoulder/Charger_LeftArm/Charger_LeftForeArm/Charger_LeftHand/Charger_LeftHandMiddle1
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_Spine/Charger_Spine1/Charger_Spine2/Charger_LeftShoulder/Charger_LeftArm/Charger_LeftForeArm/Charger_LeftHand/Charger_LeftHandMiddle1/Charger_LeftHandMiddle2
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_Spine/Charger_Spine1/Charger_Spine2/Charger_LeftShoulder/Charger_LeftArm/Charger_LeftForeArm/Charger_LeftHand/Charger_LeftHandRing1
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_Spine/Charger_Spine1/Charger_Spine2/Charger_LeftShoulder/Charger_LeftArm/Charger_LeftForeArm/Charger_LeftHand/Charger_LeftHandRing1/Charger_LeftHandRing2
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_Spine/Charger_Spine1/Charger_Spine2/Charger_LeftShoulder/Charger_LeftArm/Charger_LeftForeArm/Charger_LeftHand/Charger_LeftHandThumb1
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_Spine/Charger_Spine1/Charger_Spine2/Charger_LeftShoulder/Charger_LeftArm/Charger_LeftForeArm/Charger_LeftHand/Charger_LeftHandThumb1/Charger_LeftHandThumb2
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_Spine/Charger_Spine1/Charger_Spine2/Charger_LeftShoulder/Charger_LeftArm/Charger_LeftForeArm/Charger_LeftHand/polySurface12
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_Spine/Charger_Spine1/Charger_Spine2/Charger_LeftShoulder/Charger_LeftArm/Charger_LeftForeArm/polySurface11
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_Spine/Charger_Spine1/Charger_Spine2/Charger_LeftShoulder/Charger_LeftArm/polySurface9
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_Spine/Charger_Spine1/Charger_Spine2/Charger_LeftShoulder/polySurface41
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_Spine/Charger_Spine1/Charger_Spine2/Charger_Neck
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_Spine/Charger_Spine1/Charger_Spine2/Charger_Neck/Charger_Head
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_Spine/Charger_Spine1/Charger_Spine2/Charger_Neck/Charger_Head/Bone
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_Spine/Charger_Spine1/Charger_Spine2/Charger_Neck/Charger_Head/polySurface37
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_Spine/Charger_Spine1/Charger_Spine2/Charger_Neck/Charger_Head/Teeth
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_Spine/Charger_Spine1/Charger_Spine2/Charger_Neck/polySurface38
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_Spine/Charger_Spine1/Charger_Spine2/Charger_RightShoulder
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_Spine/Charger_Spine1/Charger_Spine2/Charger_RightShoulder/Charger_RightArm
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_Spine/Charger_Spine1/Charger_Spine2/Charger_RightShoulder/Charger_RightArm/Charger_RightForeArm
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_Spine/Charger_Spine1/Charger_Spine2/Charger_RightShoulder/Charger_RightArm/Charger_RightForeArm/Charger_RightHand
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_Spine/Charger_Spine1/Charger_Spine2/Charger_RightShoulder/Charger_RightArm/Charger_RightForeArm/Charger_RightHand/Charger_RightHandIndex1
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_Spine/Charger_Spine1/Charger_Spine2/Charger_RightShoulder/Charger_RightArm/Charger_RightForeArm/Charger_RightHand/Charger_RightHandIndex1/Charger_RightHandIndex2
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_Spine/Charger_Spine1/Charger_Spine2/Charger_RightShoulder/Charger_RightArm/Charger_RightForeArm/Charger_RightHand/Charger_RightHandMiddle1
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_Spine/Charger_Spine1/Charger_Spine2/Charger_RightShoulder/Charger_RightArm/Charger_RightForeArm/Charger_RightHand/Charger_RightHandMiddle1/Charger_RightHandMiddle2
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_Spine/Charger_Spine1/Charger_Spine2/Charger_RightShoulder/Charger_RightArm/Charger_RightForeArm/Charger_RightHand/Charger_RightHandRing1
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_Spine/Charger_Spine1/Charger_Spine2/Charger_RightShoulder/Charger_RightArm/Charger_RightForeArm/Charger_RightHand/Charger_RightHandRing1/Charger_RightHandRing2
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_Spine/Charger_Spine1/Charger_Spine2/Charger_RightShoulder/Charger_RightArm/Charger_RightForeArm/Charger_RightHand/Charger_RightHandThumb1
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_Spine/Charger_Spine1/Charger_Spine2/Charger_RightShoulder/Charger_RightArm/Charger_RightForeArm/Charger_RightHand/Charger_RightHandThumb1/Charger_RightHandThumb2
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_Spine/Charger_Spine1/Charger_Spine2/Charger_RightShoulder/Charger_RightArm/Charger_RightForeArm/Charger_RightHand/polySurface8
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_Spine/Charger_Spine1/Charger_Spine2/Charger_RightShoulder/Charger_RightArm/Charger_RightForeArm/polySurface7
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_Spine/Charger_Spine1/Charger_Spine2/Charger_RightShoulder/Charger_RightArm/polySurface5
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_Spine/Charger_Spine1/Charger_Spine2/Charger_RightShoulder/polySurface42
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_Spine/Charger_Spine1/Charger_Spine2/polySurface39
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_Spine/Charger_Spine1/Charger_Spine2/polySurface44
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_Spine/Charger_Spine1/polySurface34
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_Spine/Charger_Spine1/polySurface45
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_Spine/polySurface32
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/Charger_Spine/polySurface47
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/polySurface30
+        weight: 1
+      - path: Charger_Reference/Charger_Hips/polySurface48
+        weight: 1
+      - path: Plane
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
